@@ -785,7 +785,7 @@ async function load(){
   await loadHistory();
   renderTimeline();
   renderMap();
-  $('dataStamp').textContent = 'data as of ' + (DATA.quote.fetchedAt ? new Date(DATA.quote.fetchedAt).toLocaleString() : DATA.dateLabel);
+  $('dataStamp').textContent = 'data as of ' + (DATA.quote.fetchedAt ? new Date(DATA.quote.fetchedAt).toLocaleString() : todayLabel());
 }
 
 let PROJECTS = [];
@@ -800,8 +800,13 @@ async function loadProjects(){
   }
 }
 
+function todayLabel(){
+  const d = new Date(), p = n => String(n).padStart(2, '0');
+  return p(d.getDate()) + ' ' + p(d.getMonth() + 1) + ' ' + d.getFullYear();
+}
+
 function renderBrief(){
-  $('dateLabel').textContent = DATA.dateLabel || '';
+  $('dateLabel').textContent = todayLabel();
   const q = DATA.quote, el = $('qChg');
   $('qPrice').textContent = '$' + Number(q.price).toFixed(2);
   const up = q.change >= 0;
