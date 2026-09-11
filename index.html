@@ -47,6 +47,12 @@
   .tabs button{background:var(--panel); border:1px solid var(--line); color:var(--dim); font-size:14px; font-weight:600; padding:10px 22px; border-radius:12px; cursor:pointer;}
   .tabs button.on{background:var(--panel2); color:var(--text); border-color:var(--acc);}
   .tabs button.hidden{display:none;}
+  #codeList{display:flex; flex-direction:column; gap:10px; margin-top:4px;}
+  .repo{display:block; background:var(--panel2); border:1px solid var(--line); border-radius:12px; padding:14px 16px; text-decoration:none;}
+  .repo:hover{border-color:var(--acc);}
+  .repo-name{font-size:15px; font-weight:700; color:var(--acc2);}
+  .repo-desc{font-size:13px; color:var(--dim); margin-top:4px; line-height:1.5;}
+  .repo-meta{font-size:11px; color:var(--faint); margin-top:8px;}
 
   /* ---------- cards ---------- */
   .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px;}
@@ -121,6 +127,7 @@
     <div class="tabs">
       <button id="tabBrief" class="on">Briefing</button>
       <button id="tabMap">Project map</button>
+      <button id="tabCode">Code</button>
     </div>
 
     <section id="viewBrief">
@@ -152,6 +159,13 @@
       </div>
       <div class="filters" id="statusFilters"></div>
       <div id="layers"></div>
+    </section>
+
+    <section id="viewCode" style="display:none">
+      <div class="card">
+        <h2>Open source</h2>
+        <div id="codeList"><div class="repo-desc">Loading…</div></div>
+      </div>
     </section>
 
     <div class="foot">
@@ -230,17 +244,43 @@ function setTab(t){
   tab = t;
   $('tabBrief').classList.toggle('on', t==='brief');
   $('tabMap').classList.toggle('on', t==='map');
+  $('tabCode').classList.toggle('on', t==='code');
   $('viewBrief').style.display = t==='brief' ? 'block' : 'none';
   $('viewMap').style.display = t==='map' ? 'block' : 'none';
+  $('viewCode').style.display = t==='code' ? 'block' : 'none';
+  if (t==='code') loadCode();
 }
 $('modePersonal').onclick = () => setMode('personal');
 $('modeCompany').onclick = () => setMode('company');
 $('tabBrief').onclick = () => setTab('brief');
 $('tabMap').onclick = () => setTab('map');
+$('tabCode').onclick = () => setTab('code');
 $('tBack').onclick = () => shiftDay(-1);
 $('tFwd').onclick = () => shiftDay(1);
 $('tLive').onclick = () => setViewDate(null);
 $('tDate').onchange = e => setViewDate(e.target.value || null);
+
+/* ---------- open source ---------- */
+const GH_USER = 'amanguptaBay';
+let CODE_LOADED = false;
+function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+async function loadCode(){
+  if (CODE_LOADED) return; CODE_LOADED = true;
+  const el = $('codeList');
+  try{
+    const res = await fetch(`https://api.github.com/users/${GH_USER}/repos?per_page=100&sort=updated`);
+    if (!res.ok) throw new Error('GitHub API ' + res.status);
+    const repos = (await res.json())
+      .filter(r => !r.fork)
+      .sort((a,b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+    el.innerHTML = repos.map(r => `
+      <a class="repo" href="${r.html_url}" target="_blank" rel="noopener">
+        <div class="repo-name">${escapeHtml(r.name)}</div>
+        ${r.description ? `<div class="repo-desc">${escapeHtml(r.description)}</div>` : ''}
+        <div class="repo-meta">${r.language ? escapeHtml(r.language) + ' · ' : ''}★ ${r.stargazers_count} · updated ${new Date(r.pushed_at).toLocaleDateString()}</div>
+      </a>`).join('') || '<div class="repo-desc">No public repos found.</div>';
+  }catch(e){ el.innerHTML = '<div class="repo-desc">Could not load repos: ' + escapeHtml(e.message) + '</div>'; }
+}
 
 async function load(){
   const res = await fetch('data.json', {cache:'no-store'});
