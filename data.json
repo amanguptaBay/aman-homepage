@@ -4,41 +4,65 @@
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 644.38,
-    "change": 30.9,
-    "changePercent": 5.0368,
-    "fetchedAt": "2026-09-11T03:56:08.527053+00:00"
+    "price": 653.44,
+    "change": -0.25,
+    "changePercent": -0.0378,
+    "fetchedAt": "2026-09-11T14:41:20.672803+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-      "sourceUrl": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "sourceUrl": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-      "sourceUrl": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+      "title": "Analysis: Hot CPI puts Kevin Warsh\u2019s Fed credibility on the line before rate decision",
+      "sourceUrl": "https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-      "sourceUrl": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
+      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+      "sourceUrl": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-      "sourceUrl": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+      "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
+      "sourceUrl": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
-      "sourceUrl": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
+      "title": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say",
+      "sourceUrl": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
       "sourceName": "cnbc.com"
+    },
+    {
+      "category": "tech",
+      "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
+      "sourceUrl": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
+      "sourceName": "theverge.com"
+    },
+    {
+      "category": "tech",
+      "title": "Arizona\u2019s lifeline for chip manufacturing is drying up",
+      "sourceUrl": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "sourceName": "theverge.com"
+    },
+    {
+      "category": "tech",
+      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+      "sourceUrl": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+      "sourceName": "theverge.com"
+    },
+    {
+      "category": "tech",
+      "title": "Apple addresses iPhone Duo copycats",
+      "sourceUrl": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "sourceName": "theverge.com"
     },
     {
       "category": "tech",
@@ -47,28 +71,28 @@
       "sourceName": "theverge.com"
     },
     {
-      "category": "tech",
-      "title": "Schools are catching on to Big Tech\u2019s playbook",
-      "sourceUrl": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "sourceName": "theverge.com"
+      "category": "nyc",
+      "title": "Early Addition: A battle of the odors between Uber air fresheners and Uber passengers",
+      "sourceUrl": "https://gothamist.com/news/early-addition-a-battle-of-the-odors-between-uber-air-fresheners-and-uber-passengers",
+      "sourceName": "gothamist.com"
     },
     {
-      "category": "tech",
-      "title": "Amazon\u2019s Fire TV Stick 4K is over half off at under $20",
-      "sourceUrl": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-      "sourceName": "theverge.com"
+      "category": "nyc",
+      "title": "Families gather at ground zero to remember 9/11 \u2014  25 years later",
+      "sourceUrl": "https://gothamist.com/news/families-to-gather-at-ground-zero-to-remember-911-25-years-later",
+      "sourceName": "gothamist.com"
     },
     {
-      "category": "tech",
-      "title": "Electric air taxis get the green light for test flights in Texas",
-      "sourceUrl": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-      "sourceName": "theverge.com"
+      "category": "nyc",
+      "title": "The apolitical era of 9/11 ceremonies at Ground Zero is over",
+      "sourceUrl": "https://gothamist.com/news/the-apolitical-era-of-911-ceremonies-at-ground-zero-is-over",
+      "sourceName": "gothamist.com"
     },
     {
-      "category": "tech",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "sourceName": "theverge.com"
+      "category": "nyc",
+      "title": "25 years after 9/11, 3 New Yorkers listen back to their younger selves",
+      "sourceUrl": "https://gothamist.com/news/25-years-after-911-3-new-yorkers-listen-back-to-their-younger-selves",
+      "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
@@ -77,57 +101,33 @@
       "sourceName": "gothamist.com"
     },
     {
-      "category": "nyc",
-      "title": "Autonomous Tesla Cybercabs hit the streets of New York City",
-      "sourceUrl": "https://gothamist.com/news/autonomous-tesla-cybercabs-hit-the-streets-of-new-york-city",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Pilot in deadly New York Harbor boat capsizing pleads not guilty",
-      "sourceUrl": "https://gothamist.com/news/pilot-in-deadly-new-york-harbor-boat-capsizing-pleads-not-guilty",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Man dies in Staten Island waterfront explosion months after deadly blast",
-      "sourceUrl": "https://gothamist.com/news/explosion-sparks-fire-at-staten-island-shipyard-months-after-deadly-blast-nearby",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Truck jumps curb in NYC Chinatown, killing a man and injuring 2 women",
-      "sourceUrl": "https://gothamist.com/news/truck-jumps-curb-in-nyc-chinatown-killing-a-man-and-injuring-2-women",
-      "sourceName": "gothamist.com"
-    },
-    {
       "category": "celebrity",
-      "title": "Sophie Cunningham Debuts Podcast Without West Wilson After Trans Athlete Debate",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/sophie-cunningham-debuts-podcast-without-cohost-west-wilson/",
+      "title": "Bye, Neutrals! Fashion Girls Are Wearing These 17 Colorful Fall Dress Styles",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/colorful-luxe-fall-dresses-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Where Is Lindsay Clancy's Husband Now? Patrick Clancy Is Remarried",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/where-is-lindsay-clancys-husband-patrick-clancy-now/",
+      "title": "Jimmy Kimmel Doubles Down on FCC 'Threats,' White House Responds to Claims",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/jimmy-kimmel-doubles-down-on-fcc-threats-white-house-reacts/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jenna Dewan's Tiny Burgundy Bag Has a Rich-Looking $29 Twin",
-      "sourceUrl": "https://www.usmagazine.com/stylish/news/jenna-dewan-burgundy-mini-bag-look-for-less/",
+      "title": "Busy Philipps Supports Joe Amabile as He Reveals His Brain Surgery Scars",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/busy-philipps-supports-joe-amabile-showing-brain-surgery-scars/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Former NFL Star Chris Johnson Sees Potential Link Between Football and ALS",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/chris-johnson-sees-potential-link-between-football-and-als/",
+      "title": "Cassie Supports Alex Fine in Rare Public Appearance at 'MobLand' Premiere",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/cassie-supports-alex-fine-in-rare-public-appearance/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Woman Indicted in Alleged Murder-for-Hire Plot Targeting Ex and His Daughter",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/woman-allegedly-sought-hitman-to-kill-ex-and-his-daughter/",
+      "title": "Dolly Parton's Sister Stella Says the Singer Was \u2018Prepared\u2019 for Her Death",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/dolly-partons-sister-says-singer-was-prepared-for-her-death/",
       "sourceName": "usmagazine.com"
     }
   ]
