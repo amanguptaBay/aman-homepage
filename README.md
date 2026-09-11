@@ -13,6 +13,34 @@ briefing (date, META quote, headlines) and his project map.
 - `data.json` holds only public-ish briefing data (date, META quote,
   headlines) and is refreshed daily by the `daily-refresh` Action.
 
+## Project timeline (time machine)
+
+- `project_history` is an append-only event log: every project creation,
+  status/layer/rename change, removal, and timestamped note lands here with
+  `occurred_at`. RLS: authenticated reads only.
+- Event conventions (the homepage scrubber replays these oldest-first):
+  `added` (new_value=status, note='layer:<Layer>'), `status`
+  (old_value→new_value), `layer`, `renamed`, `removed`, `note` (no state
+  change), `baseline` (like added, unknown creation time).
+- The schema + full backfill live in `supabase/project_history.sql`.
+  Backfilled from the project-map artifact: real creation timestamps for all
+  20 projects + the 3 timestamped project updates.
+- The Project Map tab has a "Time machine" scrubber (date picker, ◀/▶ day
+  step, Live button) that reconstructs the board as of any past date and
+  shows that day's event feed. Dates are America/New_York.
+
+## Keeping Supabase in sync (Scout's standing rule)
+
+Supabase (`projects` + `project_history`) is the live source the homepage
+reads — it gets the SAME updates as the project-map artifact. Whenever a
+project is added/changed:
+1. Upsert `projects` (name unique; set layer + status).
+2. Append the matching event(s) to `project_history` with the real
+   timestamp (use `added`/`status`/`layer`/`renamed`/`removed`/`note`).
+Writes go through the Supabase dashboard SQL editor (logged-in session) —
+the anon key is read-only by RLS design, and no service keys are stored
+anywhere.
+
 ## Files
 
 - `index.html` — the page (gate + briefing + project map).
