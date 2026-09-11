@@ -273,21 +273,19 @@ async function loadCode(){
     const repos = (await res.json())
       .filter(r => !r.fork && r.has_pages)
       .sort((a,b) => new Date(b.pushed_at) - new Date(a.pushed_at));
-    const withPages = await Promise.all(repos.map(async r => {
-      try{
-        const pr = await fetch(`https://api.github.com/repos/${GH_USER}/${r.name}/pages`);
-        if (!pr.ok) return null;
-        const p = await pr.json();
-        return p.html_url ? { repo: r, site: p.html_url } : null;
-      }catch(e){ return null; }
-    }));
-    const live = withPages.filter(Boolean);
-    el.innerHTML = live.map(({repo: r, site}) => `
+    // NOTE: the /repos/{owner}/{repo}/pages endpoint 404s without auth, so the
+    // site URL uses GitHub's documented project-pages pattern instead.
+    el.innerHTML = repos.map(r => {
+      const site = r.name.toLowerCase() === `${GH_USER}.github.io`.toLowerCase()
+        ? `https://${GH_USER}.github.io/`
+        : `https://${GH_USER}.github.io/${r.name}/`;
+      return `
       <div class="repo">
         <a class="repo-name" href="${site}" target="_blank" rel="noopener">${escapeHtml(r.name)}</a>
         ${r.description ? `<div class="repo-desc">${escapeHtml(r.description)}</div>` : ''}
         <div class="repo-meta">${r.language ? escapeHtml(r.language) + ' · ' : ''}★ ${r.stargazers_count} · <a href="${r.html_url}" target="_blank" rel="noopener">source</a></div>
-      </div>`).join('') || '<div class="repo-desc">No published sites yet.</div>';
+      </div>`;
+    }).join('') || '<div class="repo-desc">No published sites yet.</div>';
   }catch(e){ el.innerHTML = '<div class="repo-desc">Could not load repos: ' + escapeHtml(e.message) + '</div>'; }
 }
 
