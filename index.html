@@ -84,6 +84,9 @@
   .sl::before{content:''; position:absolute; width:17px; height:17px; border-radius:50%; background:var(--dim); top:3px; left:4px; transition:.2s;}
   .switch input:checked + .sl{background:var(--acc);}
   .switch input:checked + .sl::before{transform:translateX(18px); background:#0b0d12;}
+  .pf-master{display:flex; align-items:center; justify-content:space-between; gap:12px; background:var(--panel2); border:1px solid var(--acc); border-radius:12px; padding:12px 14px; margin-bottom:8px;}
+  .pf-master .t{font-weight:800; font-size:14px;}
+  .pf-master .m{font-size:11px; color:var(--faint); margin-top:2px;}
   .linkbtn{background:none; border:0; color:var(--acc2); font-size:13px; font-weight:600; cursor:pointer; padding:6px; flex:none;}
   .linkbtn.danger{color:#e5484d;}
   .modal{position:fixed; inset:0; background:rgba(0,0,0,.65); display:flex; align-items:flex-start; justify-content:center; padding:24px 14px; z-index:50; overflow-y:auto;}
@@ -231,6 +234,11 @@
             <button id="pfAdd" class="btn small">＋ Add</button>
           </div>
           <div class="pf-sub" style="margin-bottom:6px">Private. Flip a switch to put an item on the timeline.</div>
+          <div class="pf-master">
+            <div><div class="t">Public portfolio page</div><div class="m" id="pfPublicNote">Off — the public page is dark.</div></div>
+            <label class="switch"><input type="checkbox" id="pfPublicSwitch"><span class="sl"></span></label>
+          </div>
+          <div class="pf-sub" style="margin-bottom:10px">Live at <a href="https://amanguptaBay.github.io/aman-portfolio/" target="_blank" rel="noopener" style="color:var(--acc)">amanguptaBay.github.io/aman-portfolio</a> when enabled. Only items switched on appear, and only their public fields.</div>
           <div id="pfAdminList"></div>
         </div>
       </div>
@@ -258,6 +266,7 @@
     <label class="fld"><span>Highlights (one per line)</span><textarea id="pfHighlights" placeholder="Shipped the simulator&#10;All 4 validation scenarios pass"></textarea></label>
     <label class="fld"><span>Links (one per line: Label | https://…)</span><textarea id="pfLinks" placeholder="Live demo | https://…"></textarea></label>
     <label class="fld"><span>Full story (private — only you see this)</span><textarea id="pfStory" style="min-height:120px" placeholder="The whole story, unfiltered"></textarea></label>
+    <label class="fld"><span>Project page body (public HTML — your own code for its page)</span><textarea id="pfBodyHtml" style="min-height:110px" placeholder="<p>Go wild — full HTML allowed on the public project page.</p>"></textarea></label>
     <label class="fld-check"><input type="checkbox" id="pfVisible"> Show on the timeline</label>
     <div class="modal-actions">
       <button id="pfSave" class="btn">Save</button>
@@ -425,6 +434,7 @@ function renderPortfolio(){
     vis.forEach(it => tl.appendChild(timelineCard(it)));
   }
   if (PF_ADMIN) renderPfAdmin(items);
+  loadPfPublic();
 }
 
 function timelineCard(it){
@@ -493,6 +503,7 @@ function openPfEditor(it){
   const links = it && Array.isArray(it.links) ? it.links : [];
   $('pfLinks').value = links.map(l => (l.label ? l.label + ' | ' : '') + (l.url || '')).join('\n');
   $('pfStory').value = it ? (it.story || '') : '';
+  $('pfBodyHtml').value = it ? (it.body_html || '') : '';
   $('pfVisible').checked = it ? !!it.visible : true;
   $('pfModal').hidden = false;
 }
@@ -516,6 +527,7 @@ $('pfSave').onclick = async () => {
     highlights: $('pfHighlights').value.trim(),
     links,
     story: $('pfStory').value,
+    body_html: $('pfBodyHtml').value,
     visible: $('pfVisible').checked,
     updated_at: new Date().toISOString()
   };
@@ -539,6 +551,23 @@ $('pfCancel').onclick = closePfEditor;
 $('pfModal').addEventListener('click', e => { if (e.target === $('pfModal')) closePfEditor(); });
 $('pfAdminBtn').onclick = () => { PF_ADMIN = !PF_ADMIN; renderPortfolio(); };
 $('pfAdd').onclick = () => openPfEditor(null);
+
+/* master public/private switch for the live portfolio page */
+async function loadPfPublic(){
+  try{
+    const { data } = await supabase.from('site_settings').select('value').eq('key','portfolio').maybeSingle();
+    const on = !!(data && data.value && data.value.enabled);
+    $('pfPublicSwitch').checked = on;
+    $('pfPublicNote').textContent = on ? 'On — the public page is live.' : 'Off — the public page is dark.';
+  }catch(e){ /* leave default */ }
+}
+$('pfPublicSwitch').onchange = async e => {
+  const on = e.target.checked;
+  const { error } = await supabase.from('site_settings')
+    .upsert({ key:'portfolio', value:{ enabled:on }, updated_at: new Date().toISOString() });
+  if (error){ e.target.checked = !on; alert('Could not save: ' + error.message); return; }
+  $('pfPublicNote').textContent = on ? 'On — the public page is live.' : 'Off — the public page is dark.';
+};
 
 async function load(){
   const res = await fetch('data.json', {cache:'no-store'});
