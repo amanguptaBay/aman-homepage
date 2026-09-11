@@ -263,7 +263,6 @@ $('tDate').onchange = e => setViewDate(e.target.value || null);
 /* ---------- open source ---------- */
 const GH_USER = 'amanguptaBay';
 let CODE_LOADED = false;
-function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 async function loadCode(){
   if (CODE_LOADED) return; CODE_LOADED = true;
   const el = $('codeList');
