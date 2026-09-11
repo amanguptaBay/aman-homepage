@@ -48,11 +48,12 @@
   .tabs button.on{background:var(--panel2); color:var(--text); border-color:var(--acc);}
   .tabs button.hidden{display:none;}
   #codeList{display:flex; flex-direction:column; gap:10px; margin-top:4px;}
-  .repo{display:block; background:var(--panel2); border:1px solid var(--line); border-radius:12px; padding:14px 16px; text-decoration:none;}
+  .repo{display:block; background:var(--panel2); border:1px solid var(--line); border-radius:12px; padding:14px 16px;}
   .repo:hover{border-color:var(--acc);}
-  .repo-name{font-size:15px; font-weight:700; color:var(--acc2);}
+  .repo-name{font-size:15px; font-weight:700; color:var(--acc2); text-decoration:none;}
   .repo-desc{font-size:13px; color:var(--dim); margin-top:4px; line-height:1.5;}
   .repo-meta{font-size:11px; color:var(--faint); margin-top:8px;}
+  .repo-meta a{color:var(--dim);}
 
   /* ---------- cards ---------- */
   .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px;}
@@ -270,14 +271,17 @@ async function loadCode(){
     const res = await fetch(`https://api.github.com/users/${GH_USER}/repos?per_page=100&sort=updated`);
     if (!res.ok) throw new Error('GitHub API ' + res.status);
     const repos = (await res.json())
-      .filter(r => !r.fork)
+      .filter(r => !r.fork && r.has_pages)
       .sort((a,b) => new Date(b.pushed_at) - new Date(a.pushed_at));
-    el.innerHTML = repos.map(r => `
-      <a class="repo" href="${r.html_url}" target="_blank" rel="noopener">
-        <div class="repo-name">${escapeHtml(r.name)}</div>
+    el.innerHTML = repos.map(r => {
+      const site = `https://${GH_USER}.github.io/${r.name}/`;
+      return `
+      <div class="repo">
+        <a class="repo-name" href="${site}" target="_blank" rel="noopener">${escapeHtml(r.name)}</a>
         ${r.description ? `<div class="repo-desc">${escapeHtml(r.description)}</div>` : ''}
-        <div class="repo-meta">${r.language ? escapeHtml(r.language) + ' · ' : ''}★ ${r.stargazers_count} · updated ${new Date(r.pushed_at).toLocaleDateString()}</div>
-      </a>`).join('') || '<div class="repo-desc">No public repos found.</div>';
+        <div class="repo-meta">${r.language ? escapeHtml(r.language) + ' · ' : ''}★ ${r.stargazers_count} · <a href="${r.html_url}" target="_blank" rel="noopener">source</a></div>
+      </div>`;
+    }).join('') || '<div class="repo-desc">No published sites yet.</div>';
   }catch(e){ el.innerHTML = '<div class="repo-desc">Could not load repos: ' + escapeHtml(e.message) + '</div>'; }
 }
 
