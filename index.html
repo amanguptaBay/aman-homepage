@@ -54,6 +54,52 @@
   .repo-desc{font-size:13px; color:var(--dim); margin-top:4px; line-height:1.5;}
   .repo-meta{font-size:11px; color:var(--faint); margin-top:8px;}
   .repo-meta a{color:var(--dim);}
+  /* ---------- portfolio ---------- */
+  .pf-head{display:flex; justify-content:space-between; align-items:center; gap:12px;}
+  .btn.small{width:auto; padding:9px 16px; font-size:13px; flex:none;}
+  .btn.ghost{background:transparent; color:var(--dim); border:1px solid var(--line);}
+  .pf-sub{font-size:12px; color:var(--faint); margin-top:6px; line-height:1.5;}
+  .timeline{position:relative; margin:6px 0 0 6px; padding-left:26px;}
+  .timeline::before{content:''; position:absolute; left:8px; top:8px; bottom:8px; width:3px; border-radius:2px; background:linear-gradient(180deg, var(--acc), var(--acc2), var(--acc)); opacity:.8;}
+  .tl-item{position:relative; margin-bottom:16px;}
+  .tl-dot{position:absolute; left:-25px; top:22px; width:11px; height:11px; border-radius:50%; background:var(--panel); border:3px solid var(--acc);}
+  .tl-item.exp .tl-dot{border-color:var(--acc2);}
+  .tl-card{background:var(--panel2); border:1px solid var(--line); border-radius:14px; padding:15px 17px;}
+  .tl-date{font-size:11px; text-transform:uppercase; letter-spacing:1.5px; color:var(--acc); font-weight:700;}
+  .tl-kind{display:inline-block; font-size:10px; text-transform:uppercase; letter-spacing:1px; padding:3px 9px; border-radius:20px; background:var(--panel); border:1px solid var(--line); color:var(--dim); margin-left:8px; vertical-align:1px;}
+  .tl-title{font-size:18px; font-weight:800; margin:8px 0 6px;}
+  .tl-blurb{font-size:14px; color:var(--dim); line-height:1.55;}
+  .tl-hl{margin:10px 0 0; padding:0; list-style:none;}
+  .tl-hl li{font-size:13px; color:var(--dim); padding-left:18px; position:relative; margin-bottom:5px; line-height:1.5;}
+  .tl-hl li::before{content:'▸'; position:absolute; left:0; color:var(--acc);}
+  .tl-links{margin-top:10px; display:flex; gap:8px; flex-wrap:wrap;}
+  .tl-links a{font-size:12px; font-weight:700; color:var(--acc2); text-decoration:none; border:1px solid var(--line); padding:6px 12px; border-radius:20px;}
+  .pf-admin-row{display:flex; align-items:center; gap:10px; padding:12px 2px; border-top:1px solid var(--line);}
+  .pf-admin-row .grow{flex:1; min-width:0;}
+  .pf-admin-row .t{font-weight:700; font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .pf-admin-row .m{font-size:11px; color:var(--faint); margin-top:2px;}
+  .switch{position:relative; width:44px; height:25px; flex:none; cursor:pointer;}
+  .switch input{opacity:0; width:0; height:0;}
+  .sl{position:absolute; inset:0; background:var(--panel); border:1px solid var(--line); border-radius:20px; transition:.2s;}
+  .sl::before{content:''; position:absolute; width:17px; height:17px; border-radius:50%; background:var(--dim); top:3px; left:4px; transition:.2s;}
+  .switch input:checked + .sl{background:var(--acc);}
+  .switch input:checked + .sl::before{transform:translateX(18px); background:#0b0d12;}
+  .linkbtn{background:none; border:0; color:var(--acc2); font-size:13px; font-weight:600; cursor:pointer; padding:6px; flex:none;}
+  .linkbtn.danger{color:#e5484d;}
+  .modal{position:fixed; inset:0; background:rgba(0,0,0,.65); display:flex; align-items:flex-start; justify-content:center; padding:24px 14px; z-index:50; overflow-y:auto;}
+  .modal[hidden]{display:none;}
+  .modal-card{background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:20px; width:100%; max-width:560px;}
+  .modal-card h3{margin:0 0 14px; font-size:18px;}
+  .fld{display:block; margin-bottom:12px;}
+  .fld > span{display:block; font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--faint); margin-bottom:5px;}
+  .fld input, .fld select, .fld textarea{background:var(--panel2); border:1px solid var(--line); border-radius:10px; padding:10px 12px; font-size:14px; color:var(--text); width:100%; box-sizing:border-box; font-family:inherit; color-scheme:dark;}
+  .fld textarea{min-height:74px; resize:vertical;}
+  .fld-row{display:flex; gap:10px;}
+  .fld-row .fld{flex:1; min-width:0;}
+  .fld-check{display:flex; align-items:center; gap:10px; font-size:14px; margin:4px 0 14px;}
+  .fld-check input{width:18px; height:18px;}
+  .modal-actions{display:flex; gap:10px;}
+  .modal-actions .btn{flex:1;}
 
   /* ---------- cards ---------- */
   .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px;}
@@ -129,6 +175,7 @@
       <button id="tabBrief" class="on">Briefing</button>
       <button id="tabMap">Project map</button>
       <button id="tabCode">Code</button>
+      <button id="tabPortfolio">Portfolio</button>
     </div>
 
     <section id="viewBrief">
@@ -169,9 +216,52 @@
       </div>
     </section>
 
+    <section id="viewPortfolio" style="display:none">
+      <div class="card pf-head">
+        <div>
+          <h2 style="margin:0">The timeline</h2>
+          <div class="pf-sub" id="pfCount"></div>
+        </div>
+        <button id="pfAdminBtn" class="btn small">⚙ Admin</button>
+      </div>
+      <div id="pfAdminWrap" style="display:none">
+        <div class="card">
+          <div class="pf-head" style="margin-bottom:4px">
+            <h2 style="margin:0">Control room</h2>
+            <button id="pfAdd" class="btn small">＋ Add</button>
+          </div>
+          <div class="pf-sub" style="margin-bottom:6px">Private. Flip a switch to put an item on the timeline.</div>
+          <div id="pfAdminList"></div>
+        </div>
+      </div>
+      <div id="pfTimeline" class="timeline"><div class="pf-sub">Loading…</div></div>
+    </section>
+
     <div class="foot">
       <span id="dataStamp"></span> · <button id="signOut">sign out</button>
     <div class="pwset"><input type="password" id="newPw" placeholder="Set a sign-in password" autocomplete="new-password"><button id="setPw">set password</button><span id="pwMsg"></span></div>
+    </div>
+  </div>
+</div>
+
+<div id="pfModal" class="modal" hidden>
+  <div class="modal-card">
+    <h3 id="pfModalTitle">New item</h3>
+    <label class="fld"><span>Title</span><input id="pfTitle" maxlength="120" placeholder="e.g. aidar · mmWave vital-signs radar"></label>
+    <div class="fld-row">
+      <label class="fld"><span>Kind</span><select id="pfKind"><option value="project">Project</option><option value="experience">Experience</option></select></label>
+      <label class="fld"><span>Date label</span><input id="pfDateLabel" placeholder="e.g. Summer 2024"></label>
+    </div>
+    <label class="fld"><span>Start date (for sorting)</span><input id="pfStartDate" type="date"></label>
+    <label class="fld"><span>Public title</span><input id="pfPublicTitle" placeholder="Defaults to title"></label>
+    <label class="fld"><span>Public blurb</span><textarea id="pfPublicBlurb" placeholder="One or two sentences for the timeline"></textarea></label>
+    <label class="fld"><span>Highlights (one per line)</span><textarea id="pfHighlights" placeholder="Shipped the simulator&#10;All 4 validation scenarios pass"></textarea></label>
+    <label class="fld"><span>Links (one per line: Label | https://…)</span><textarea id="pfLinks" placeholder="Live demo | https://…"></textarea></label>
+    <label class="fld"><span>Full story (private — only you see this)</span><textarea id="pfStory" style="min-height:120px" placeholder="The whole story, unfiltered"></textarea></label>
+    <label class="fld-check"><input type="checkbox" id="pfVisible"> Show on the timeline</label>
+    <div class="modal-actions">
+      <button id="pfSave" class="btn">Save</button>
+      <button id="pfCancel" class="btn ghost">Cancel</button>
     </div>
   </div>
 </div>
@@ -246,16 +336,20 @@ function setTab(t){
   $('tabBrief').classList.toggle('on', t==='brief');
   $('tabMap').classList.toggle('on', t==='map');
   $('tabCode').classList.toggle('on', t==='code');
+  $('tabPortfolio').classList.toggle('on', t==='portfolio');
   $('viewBrief').style.display = t==='brief' ? 'block' : 'none';
   $('viewMap').style.display = t==='map' ? 'block' : 'none';
   $('viewCode').style.display = t==='code' ? 'block' : 'none';
+  $('viewPortfolio').style.display = t==='portfolio' ? 'block' : 'none';
   if (t==='code') loadCode();
+  if (t==='portfolio') loadPortfolio();
 }
 $('modePersonal').onclick = () => setMode('personal');
 $('modeCompany').onclick = () => setMode('company');
 $('tabBrief').onclick = () => setTab('brief');
 $('tabMap').onclick = () => setTab('map');
 $('tabCode').onclick = () => setTab('code');
+$('tabPortfolio').onclick = () => setTab('portfolio');
 $('tBack').onclick = () => shiftDay(-1);
 $('tFwd').onclick = () => shiftDay(1);
 $('tLive').onclick = () => setViewDate(null);
@@ -288,6 +382,163 @@ async function loadCode(){
     }).join('') || '<div class="repo-desc">No published sites yet.</div>';
   }catch(e){ el.innerHTML = '<div class="repo-desc">Could not load repos: ' + escapeHtml(e.message) + '</div>'; }
 }
+
+/* ---------- portfolio ---------- */
+let PF = [], PF_LOADED = false, PF_ADMIN = false, PF_EDIT_ID = null;
+
+async function loadPortfolio(){
+  if (PF_LOADED) return; PF_LOADED = true;
+  try{
+    const { data, error } = await supabase.from('portfolio_items')
+      .select('*')
+      .order('start_date', { ascending:false, nullsFirst:false })
+      .order('created_at', { ascending:false });
+    if (error) throw error;
+    PF = data || [];
+  }catch(e){
+    $('pfTimeline').innerHTML = '<div class="pf-sub">Could not load portfolio: ' + escapeHtml(e.message) + '</div>';
+    return;
+  }
+  renderPortfolio();
+}
+
+function pfSorted(){
+  return [...PF].sort((a,b) => {
+    if (a.start_date === b.start_date) return b.id - a.id;
+    if (!a.start_date) return 1;
+    if (!b.start_date) return -1;
+    return a.start_date < b.start_date ? 1 : -1;
+  });
+}
+
+function renderPortfolio(){
+  $('pfAdminBtn').textContent = PF_ADMIN ? '✓ Done' : '⚙ Admin';
+  $('pfAdminWrap').style.display = PF_ADMIN ? 'block' : 'none';
+  const items = pfSorted();
+  const vis = items.filter(i => i.visible);
+  $('pfCount').textContent = vis.length + ' on the timeline · ' + PF.length + ' total';
+  const tl = $('pfTimeline');
+  tl.innerHTML = '';
+  if (!vis.length){
+    tl.innerHTML = '<div class="card"><div class="pf-sub">Nothing on the timeline yet. Hit ⚙ Admin to write your story and flip items on.</div></div>';
+  } else {
+    vis.forEach(it => tl.appendChild(timelineCard(it)));
+  }
+  if (PF_ADMIN) renderPfAdmin(items);
+}
+
+function timelineCard(it){
+  const d = document.createElement('div');
+  d.className = 'tl-item' + (it.kind === 'experience' ? ' exp' : '');
+  const hl = (it.highlights || '').split('\n').map(s => s.trim()).filter(Boolean);
+  const links = Array.isArray(it.links) ? it.links : [];
+  d.innerHTML =
+    '<div class="tl-dot"></div><div class="tl-card">' +
+    '<span class="tl-date">' + escapeHtml(it.date_label || it.start_date || '') + '</span>' +
+    '<span class="tl-kind">' + escapeHtml(it.kind) + '</span>' +
+    '<div class="tl-title">' + escapeHtml(it.public_title || it.title) + '</div>' +
+    (it.public_blurb ? '<div class="tl-blurb">' + escapeHtml(it.public_blurb) + '</div>' : '') +
+    (hl.length ? '<ul class="tl-hl">' + hl.map(h => '<li>' + escapeHtml(h) + '</li>').join('') + '</ul>' : '') +
+    (links.length ? '<div class="tl-links">' + links.map(l =>
+      '<a href="' + escapeHtml(l.url || '') + '" target="_blank" rel="noopener">' + escapeHtml(l.label || l.url || '') + '</a>'
+    ).join('') + '</div>' : '') +
+    '</div>';
+  return d;
+}
+
+function renderPfAdmin(items){
+  const box = $('pfAdminList');
+  box.innerHTML = '';
+  if (!items.length){ box.innerHTML = '<div class="pf-sub">No items yet — add your first one.</div>'; return; }
+  items.forEach(it => {
+    const row = document.createElement('div');
+    row.className = 'pf-admin-row';
+    row.innerHTML =
+      '<label class="switch"><input type="checkbox"' + (it.visible ? ' checked' : '') + '><span class="sl"></span></label>' +
+      '<div class="grow"><div class="t">' + escapeHtml(it.title) + '</div>' +
+      '<div class="m">' + escapeHtml(it.kind) + (it.date_label ? ' · ' + escapeHtml(it.date_label) : '') + (it.visible ? '' : ' · hidden') + '</div></div>' +
+      '<button class="linkbtn">Edit</button>' +
+      '<button class="linkbtn danger">Delete</button>';
+    const sw = row.querySelector('input');
+    const [editBtn, delBtn] = row.querySelectorAll('.linkbtn');
+    sw.onchange = async () => {
+      const { error } = await supabase.from('portfolio_items')
+        .update({ visible: sw.checked, updated_at: new Date().toISOString() }).eq('id', it.id);
+      if (error){ sw.checked = it.visible; alert('Could not save: ' + error.message); return; }
+      it.visible = sw.checked;
+      renderPortfolio();
+    };
+    editBtn.onclick = () => openPfEditor(it);
+    delBtn.onclick = async () => {
+      if (!confirm('Delete "' + it.title + '"?')) return;
+      const { error } = await supabase.from('portfolio_items').delete().eq('id', it.id);
+      if (error){ alert('Could not delete: ' + error.message); return; }
+      PF = PF.filter(x => x.id !== it.id);
+      renderPortfolio();
+    };
+    box.appendChild(row);
+  });
+}
+
+function openPfEditor(it){
+  PF_EDIT_ID = it ? it.id : null;
+  $('pfModalTitle').textContent = it ? 'Edit item' : 'New item';
+  $('pfTitle').value = it ? it.title : '';
+  $('pfKind').value = it ? it.kind : 'project';
+  $('pfDateLabel').value = it ? (it.date_label || '') : '';
+  $('pfStartDate').value = it ? (it.start_date || '') : '';
+  $('pfPublicTitle').value = it ? (it.public_title || '') : '';
+  $('pfPublicBlurb').value = it ? (it.public_blurb || '') : '';
+  $('pfHighlights').value = it ? (it.highlights || '') : '';
+  const links = it && Array.isArray(it.links) ? it.links : [];
+  $('pfLinks').value = links.map(l => (l.label ? l.label + ' | ' : '') + (l.url || '')).join('\n');
+  $('pfStory').value = it ? (it.story || '') : '';
+  $('pfVisible').checked = it ? !!it.visible : true;
+  $('pfModal').hidden = false;
+}
+function closePfEditor(){ $('pfModal').hidden = true; PF_EDIT_ID = null; }
+
+$('pfSave').onclick = async () => {
+  const title = $('pfTitle').value.trim();
+  if (!title){ alert('Give it a title.'); return; }
+  const links = $('pfLinks').value.split('\n').map(s => s.trim()).filter(Boolean).map(line => {
+    const i = line.indexOf('|');
+    if (i < 0) return { label:'', url: line };
+    return { label: line.slice(0,i).trim(), url: line.slice(i+1).trim() };
+  }).filter(l => l.url);
+  const row = {
+    title,
+    kind: $('pfKind').value,
+    date_label: $('pfDateLabel').value.trim() || null,
+    start_date: $('pfStartDate').value || null,
+    public_title: $('pfPublicTitle').value.trim(),
+    public_blurb: $('pfPublicBlurb').value.trim(),
+    highlights: $('pfHighlights').value.trim(),
+    links,
+    story: $('pfStory').value,
+    visible: $('pfVisible').checked,
+    updated_at: new Date().toISOString()
+  };
+  const btn = $('pfSave'); btn.disabled = true;
+  let error;
+  if (PF_EDIT_ID){
+    const res = await supabase.from('portfolio_items').update(row).eq('id', PF_EDIT_ID);
+    error = res.error;
+    if (!error){ const ix = PF.findIndex(x => x.id === PF_EDIT_ID); PF[ix] = { ...PF[ix], ...row }; }
+  } else {
+    const res = await supabase.from('portfolio_items').insert(row).select().single();
+    error = res.error;
+    if (!error) PF.unshift(res.data);
+  }
+  btn.disabled = false;
+  if (error){ alert('Could not save: ' + error.message); return; }
+  closePfEditor();
+  renderPortfolio();
+};
+$('pfCancel').onclick = closePfEditor;
+$('pfModal').addEventListener('click', e => { if (e.target === $('pfModal')) closePfEditor(); });
+$('pfAdminBtn').onclick = () => { PF_ADMIN = !PF_ADMIN; renderPortfolio(); };
+$('pfAdd').onclick = () => openPfEditor(null);
 
 async function load(){
   const res = await fetch('data.json', {cache:'no-store'});
