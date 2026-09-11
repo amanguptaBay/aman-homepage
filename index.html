@@ -26,6 +26,12 @@
   .btn:disabled{opacity:.5; cursor:default;}
   .gate-msg{margin-top:14px; font-size:13px; color:var(--dim); min-height:20px;}
   .gate-msg.ok{color:var(--acc2);}
+  .gate-card input[type=password]{background:var(--panel2); border:1px solid var(--line); border-radius:10px; padding:12px; font-size:14px; color:var(--text); margin-bottom:14px; width:100%; box-sizing:border-box;}
+  .gate-link{background:none; border:0; color:var(--dim); font-size:13px; cursor:pointer; text-decoration:underline; margin-top:12px;}
+  .pwset{margin-top:10px; display:flex; gap:8px; justify-content:center; align-items:center; flex-wrap:wrap;}
+  .pwset input{background:var(--panel); border:1px solid var(--line); color:var(--text); font-size:12px; padding:7px 10px; border-radius:8px;}
+  .pwset button{background:none; border:0; color:var(--faint); font-size:12px; cursor:pointer; text-decoration:underline;}
+  #pwMsg{font-size:12px; color:var(--dim);}
 
   /* ---------- header ---------- */
   #app{display:none;}
@@ -90,10 +96,12 @@
   <div class="gate-card">
     <div class="lock">🔒</div>
     <h1>Private page</h1>
-    <p>This homepage is email-protected. Tap below and a sign-in link will be sent to the owner's inbox — no password needed.</p>
+    <p>This homepage is private. Sign in with the owner's password.</p>
     <div class="gate-email" id="gateEmail">…</div>
-    <button class="btn" id="sendLink" disabled>Email me a sign-in link</button>
+    <input type="password" id="pwInput" placeholder="Password" autocomplete="current-password">
+    <button class="btn" id="pwSignIn" disabled>Sign in</button>
     <div class="gate-msg" id="gateMsg"></div>
+    <button class="gate-link" id="sendLink">Email me a sign-in link instead</button>
   </div>
 </div>
 
@@ -150,6 +158,7 @@
 
     <div class="foot">
       <span id="dataStamp"></span> · <button id="signOut">sign out</button>
+    <div class="pwset"><input type="password" id="newPw" placeholder="Set a sign-in password" autocomplete="new-password"><button id="setPw">set password</button><span id="pwMsg"></span></div>
     </div>
   </div>
 </div>
@@ -168,7 +177,7 @@ const $ = id => document.getElementById(id);
 /* ---------- auth gate ---------- */
 async function boot(){
   $('gateEmail').textContent = ALLOWED_EMAIL;
-  $('sendLink').disabled = false;
+  $('pwSignIn').disabled = false;
   const { data:{ session } } = await supabase.auth.getSession();
   if (session && session.user && session.user.email === ALLOWED_EMAIL) return enter();
   // also handle the magic-link return before showing the gate form
@@ -177,15 +186,32 @@ async function boot(){
   });
   $('gate').style.display = 'flex';
 }
+$('pwSignIn').onclick = async () => {
+  const btn = $('pwSignIn'), msg = $('gateMsg');
+  const pw = $('pwInput').value;
+  if (!pw){ msg.textContent = 'Enter your password.'; return; }
+  btn.disabled = true; msg.className = 'gate-msg'; msg.textContent = 'Signing in…';
+  const { error } = await supabase.auth.signInWithPassword({ email: ALLOWED_EMAIL, password: pw });
+  if (error){ msg.textContent = 'Could not sign in: ' + error.message; btn.disabled = false; $('pwInput').value = ''; }
+};
+$('pwInput').addEventListener('keydown', e => { if (e.key === 'Enter') $('pwSignIn').click(); });
 $('sendLink').onclick = async () => {
-  const btn = $('sendLink'), msg = $('gateMsg');
-  btn.disabled = true; msg.className = 'gate-msg'; msg.textContent = 'Sending…';
+  const msg = $('gateMsg');
+  msg.className = 'gate-msg'; msg.textContent = 'Sending…';
   const { error } = await supabase.auth.signInWithOtp({
     email: ALLOWED_EMAIL,
     options: { emailRedirectTo: location.origin + location.pathname }
   });
-  if (error){ msg.textContent = 'Could not send the link: ' + error.message; btn.disabled = false; }
+  if (error){ msg.textContent = 'Could not send the link: ' + error.message; }
   else { msg.className = 'gate-msg ok'; msg.textContent = 'Check your inbox — tap the link to enter.'; }
+};
+$('setPw').onclick = async () => {
+  const pw = $('newPw').value, msg = $('pwMsg');
+  if (!pw || pw.length < 8){ msg.textContent = 'Use at least 8 characters.'; return; }
+  msg.textContent = 'Saving…';
+  const { error } = await supabase.auth.updateUser({ password: pw });
+  if (error){ msg.textContent = 'Could not set password: ' + error.message; }
+  else { msg.textContent = 'Password set — use it next time.'; $('newPw').value = ''; }
 };
 $('signOut').onclick = async () => { await supabase.auth.signOut(); location.reload(); };
 function enter(){ $('gate').style.display='none'; $('app').style.display='block'; load(); }
