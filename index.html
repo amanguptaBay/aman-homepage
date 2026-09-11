@@ -71,13 +71,18 @@
   .g-track{flex:1; position:relative;}
   .g-grid{position:absolute; top:0; bottom:0; width:1px; background:var(--line); opacity:.55;}
   .g-now{position:absolute; top:-5px; bottom:-5px; width:2px; background:var(--acc); opacity:.75; border-radius:1px;}
-  .g-box{position:absolute; height:34px; border-radius:9px; border:1px solid; font-family:inherit; font-size:12px; font-weight:700; color:var(--text); text-align:left; padding:0 10px; cursor:pointer; overflow:hidden; white-space:nowrap;}
-  .g-box span{display:block; line-height:32px; overflow:hidden; text-overflow:ellipsis;}
-  .g-box.lane-project{background:color-mix(in srgb, var(--acc) 22%, transparent); border-color:var(--acc);}
-  .g-box.lane-experience{background:color-mix(in srgb, var(--acc2) 20%, transparent); border-color:var(--acc2);}
-  .g-box.lane-education{background:color-mix(in srgb, var(--warn) 20%, transparent); border-color:var(--warn);}
-  .g-box.ongoing{border-right-width:4px; border-right-style:double;}
-  .g-box.sel{box-shadow:0 0 0 2px var(--text);}
+  .g-core{position:absolute; height:34px; border-radius:8px; border:0; font-family:inherit; font-size:12px; font-weight:700; color:#0b0d12; text-align:left; padding:0 10px; cursor:pointer; overflow:hidden; white-space:nowrap;}
+  .g-core span{display:block; line-height:34px; overflow:hidden; text-overflow:ellipsis;}
+  .g-core.lane-project{background:var(--acc);}
+  .g-core.lane-experience{background:var(--acc2);}
+  .g-core.lane-education{background:var(--warn);}
+  .g-core.ongoing{box-shadow:inset -7px 0 0 -3px rgba(0,0,0,.35);}
+  .g-halo{position:absolute; height:34px; border-radius:9px; border:1px dashed; font-family:inherit; font-size:12px; font-weight:700; color:var(--text); text-align:left; padding:0 10px; cursor:pointer; overflow:hidden; white-space:nowrap;}
+  .g-halo span{display:block; line-height:32px; overflow:hidden; text-overflow:ellipsis;}
+  .g-halo.lane-project{background:color-mix(in srgb, var(--acc) 15%, transparent); border-color:color-mix(in srgb, var(--acc) 55%, transparent);}
+  .g-halo.lane-experience{background:color-mix(in srgb, var(--acc2) 15%, transparent); border-color:color-mix(in srgb, var(--acc2) 55%, transparent);}
+  .g-halo.lane-education{background:color-mix(in srgb, var(--warn) 15%, transparent); border-color:color-mix(in srgb, var(--warn) 55%, transparent);}
+  .g-core.sel, .g-halo.sel{box-shadow:0 0 0 2px var(--text);}
   .g-detail{margin-top:6px;}
   .g-detail .tl-dot{display:none;}
   .g-undated{margin-top:10px;}
@@ -507,16 +512,10 @@ function renderGantt(el, items){
   axis.innerHTML = '<div class="g-lab"></div><div class="g-ticks">' + ticks + '</div>';
   g.appendChild(axis);
 
-  const GAP = 45 * DAY;
+  /* pass 1: lane shells, so track widths are measurable */
+  const laneObjs = [];
   PF_LANES.forEach(lane => {
     const inLane = dated.filter(d => pfLaneOf(d.it) === lane.key).sort((a,b) => a.s - b.s || a.e - b.e);
-    if (!inLane.length) return;
-    const rows = [];
-    inLane.forEach(d => {
-      let r = rows.findIndex(row => row.every(o => o.e.getTime() + GAP < d.s.getTime() || d.e.getTime() + GAP < o.s.getTime()));
-      if (r < 0){ rows.push([]); r = rows.length - 1; }
-      rows[r].push(d);
-    });
     const laneEl = document.createElement('div');
     laneEl.className = 'g-lane';
     const lab = document.createElement('div');
@@ -524,7 +523,6 @@ function renderGantt(el, items){
     lab.textContent = lane.label;
     const track = document.createElement('div');
     track.className = 'g-track';
-    track.style.height = (rows.length * 42 + 10) + 'px';
     for (let y = minY; y <= maxY; y++){
       const gl = document.createElement('div');
       gl.className = 'g-grid';
@@ -536,25 +534,87 @@ function renderGantt(el, items){
     now.style.left = pct(today.getTime()).toFixed(2) + '%';
     now.title = 'today';
     track.appendChild(now);
-    rows.forEach((row, ri) => {
-      row.forEach(d => {
-        const b = document.createElement('button');
-        b.className = 'g-box lane-' + lane.key + (d.ongoing ? ' ongoing' : '') + (PF_SELECTED === d.it.id ? ' sel' : '');
-        b.style.left = pct(d.s.getTime()).toFixed(2) + '%';
-        b.style.width = Math.max(pct(d.e.getTime()) - pct(d.s.getTime()), 1.4).toFixed(2) + '%';
-        b.style.top = (ri * 42 + 5) + 'px';
-        const label = d.it.public_title || d.it.title;
-        b.title = label + ' · ' + (d.it.date_label || '') + (d.ongoing ? ' → now' : '');
-        const sp = document.createElement('span');
-        sp.textContent = label;
-        b.appendChild(sp);
-        b.onclick = () => { PF_SELECTED = (PF_SELECTED === d.it.id) ? null : d.it.id; renderGantt(el, items); };
-        track.appendChild(b);
-      });
-    });
     laneEl.appendChild(lab);
     laneEl.appendChild(track);
-    g.appendChild(laneEl);
+    if (inLane.length) g.appendChild(laneEl);
+    laneObjs.push({ lane, inLane, track });
+  });
+
+  /* pass 2: true-scale solid cores + translucent label halos, newest first so later items win label space */
+  const mctx = document.createElement('canvas').getContext('2d');
+  const labelFont = '700 12px -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Inter, Roboto, sans-serif';
+  laneObjs.forEach(({ lane, inLane, track }) => {
+    if (!inLane.length) return;
+    const W = track.clientWidth || 752;
+    const X = t => (t - r0) / (r1 - r0) * W;
+    const GAP = 45 * DAY;
+    const rows = [];
+    inLane.forEach(d => {
+      let r = rows.findIndex(row => row.every(o => o.e.getTime() + GAP < d.s.getTime() || d.e.getTime() + GAP < o.s.getTime()));
+      if (r < 0){ rows.push([]); r = rows.length - 1; }
+      rows[r].push(d);
+      d._row = r;
+    });
+    track.style.height = (rows.length * 42 + 10) + 'px';
+    const bars = inLane.map(d => ({ l: X(d.s.getTime()), r: X(d.e.getTime()) }));
+    const order = inLane.map((d,i) => i).sort((a,b) => inLane[b].s - inLane[a].s || inLane[b].e - inLane[a].e);
+    const labelSpans = [];
+    order.forEach((ii, rank) => {
+      const d = inLane[ii];
+      const bar = bars[ii];
+      const label = d.it.public_title || d.it.title;
+      const tip = label + ' · ' + (d.it.date_label || '') + (d.ongoing ? ' → now' : '');
+      mctx.font = labelFont;
+      const tw = mctx.measureText(label).width + 22;
+      const trueL = Math.max(0, bar.l), trueR = Math.min(W, bar.r);
+      const z = 1000 - rank * 2;
+      const top = d._row * 42 + 5;
+      const selCls = PF_SELECTED === d.it.id ? ' sel' : '';
+      const select = () => { PF_SELECTED = (PF_SELECTED === d.it.id) ? null : d.it.id; renderGantt(el, items); };
+      const mkCore = (withText) => {
+        const c = document.createElement('button');
+        c.className = 'g-core lane-' + lane.key + (d.ongoing ? ' ongoing' : '') + selCls;
+        c.style.left = trueL + 'px';
+        c.style.width = Math.max(3, trueR - trueL) + 'px';
+        c.style.top = top + 'px';
+        c.style.zIndex = z + 1;
+        c.title = tip;
+        if (withText){ const sp = document.createElement('span'); sp.textContent = label; c.appendChild(sp); }
+        c.onclick = select;
+        track.appendChild(c);
+      };
+      if (tw <= (trueR - trueL)){
+        mkCore(true);
+        labelSpans.push({ l: trueL + 10, r: trueL + 10 + tw });
+        return;
+      }
+      let need = tw - (trueR - trueL);
+      const blockers = [];
+      bars.forEach((b2, j) => { if (j !== ii) blockers.push({ l: Math.max(0, b2.l) - 5, r: Math.min(W, b2.r) + 5 }); });
+      labelSpans.forEach(s => blockers.push({ l: s.l - 4, r: s.r + 4 }));
+      let maxR = W;
+      blockers.forEach(b2 => { if (b2.l >= trueR - 1) maxR = Math.min(maxR, b2.l); });
+      const takeR = Math.min(need, Math.max(0, maxR - trueR));
+      need -= takeR;
+      let minL = 0;
+      blockers.forEach(b2 => { if (b2.r <= trueL + 1) minL = Math.max(minL, b2.r); });
+      const takeL = Math.min(need, Math.max(0, trueL - minL));
+      const haloL = trueL - takeL, haloR = trueR + takeR;
+      const h = document.createElement('button');
+      h.className = 'g-halo lane-' + lane.key + selCls;
+      h.style.left = haloL + 'px';
+      h.style.width = Math.max(4, haloR - haloL) + 'px';
+      h.style.top = top + 'px';
+      h.style.zIndex = z;
+      h.title = tip;
+      const hs = document.createElement('span');
+      hs.textContent = label;
+      h.appendChild(hs);
+      h.onclick = select;
+      track.appendChild(h);
+      mkCore(false);
+      labelSpans.push({ l: haloL + 10, r: haloL + 10 + tw });
+    });
   });
 
   if (undated.length){
