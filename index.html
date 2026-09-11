@@ -20,7 +20,6 @@
   .gate-card .lock{font-size:34px; margin-bottom:14px;}
   .gate-card h1{font-size:22px; margin-bottom:8px;}
   .gate-card p{color:var(--dim); font-size:14px; margin-bottom:20px; line-height:1.55;}
-  .gate-email{background:var(--panel2); border:1px solid var(--line); border-radius:10px; padding:12px; font-size:14px; color:var(--text); margin-bottom:14px; word-break:break-all;}
   .btn{background:var(--acc); color:#0b0d12; border:0; border-radius:10px; padding:13px 20px; font-size:15px; font-weight:700; cursor:pointer; width:100%;}
   .btn:hover{filter:brightness(1.08);}
   .btn:disabled{opacity:.5; cursor:default;}
@@ -97,7 +96,6 @@
     <div class="lock">🔒</div>
     <h1>Private page</h1>
     <p>This homepage is private. Sign in with the owner's password.</p>
-    <div class="gate-email" id="gateEmail">…</div>
     <input type="password" id="pwInput" placeholder="Password" autocomplete="current-password">
     <button class="btn" id="pwSignIn" disabled>Sign in</button>
     <div class="gate-msg" id="gateMsg"></div>
@@ -176,7 +174,6 @@ const $ = id => document.getElementById(id);
 
 /* ---------- auth gate ---------- */
 async function boot(){
-  $('gateEmail').textContent = ALLOWED_EMAIL;
   $('pwSignIn').disabled = false;
   const { data:{ session } } = await supabase.auth.getSession();
   if (session && session.user && session.user.email === ALLOWED_EMAIL) return enter();
