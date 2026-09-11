@@ -59,11 +59,29 @@
   .btn.small{width:auto; padding:9px 16px; font-size:13px; flex:none;}
   .btn.ghost{background:transparent; color:var(--dim); border:1px solid var(--line);}
   .pf-sub{font-size:12px; color:var(--faint); margin-top:6px; line-height:1.5;}
-  .timeline{position:relative; margin:6px 0 0 6px; padding-left:26px;}
-  .timeline::before{content:''; position:absolute; left:8px; top:8px; bottom:8px; width:3px; border-radius:2px; background:linear-gradient(180deg, var(--acc), var(--acc2), var(--acc)); opacity:.8;}
+  /* ---------- gantt timeline ---------- */
+  .gantt-scroll{overflow-x:auto; padding-bottom:8px; margin-top:8px;}
+  .gantt{min-width:860px;}
+  .g-axis{display:flex; margin-bottom:4px;}
+  .g-lab{width:108px; flex:none;}
+  .g-ticks{flex:1; position:relative; height:18px;}
+  .g-tick{position:absolute; transform:translateX(-50%); font-size:10px; letter-spacing:1px; color:var(--faint);}
+  .g-lane{display:flex; margin-bottom:12px;}
+  .g-lane-lab{width:108px; flex:none; font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:1.5px; color:var(--faint); padding-top:10px;}
+  .g-track{flex:1; position:relative;}
+  .g-grid{position:absolute; top:0; bottom:0; width:1px; background:var(--line); opacity:.55;}
+  .g-now{position:absolute; top:-5px; bottom:-5px; width:2px; background:var(--acc); opacity:.75; border-radius:1px;}
+  .g-box{position:absolute; height:34px; border-radius:9px; border:1px solid; font-family:inherit; font-size:12px; font-weight:700; color:var(--text); text-align:left; padding:0 10px; cursor:pointer; overflow:hidden; white-space:nowrap;}
+  .g-box span{display:block; line-height:32px; overflow:hidden; text-overflow:ellipsis;}
+  .g-box.lane-project{background:color-mix(in srgb, var(--acc) 22%, transparent); border-color:var(--acc);}
+  .g-box.lane-experience{background:color-mix(in srgb, var(--acc2) 20%, transparent); border-color:var(--acc2);}
+  .g-box.lane-education{background:color-mix(in srgb, var(--warn) 20%, transparent); border-color:var(--warn);}
+  .g-box.ongoing{border-right-width:4px; border-right-style:double;}
+  .g-box.sel{box-shadow:0 0 0 2px var(--text);}
+  .g-detail{margin-top:6px;}
+  .g-detail .tl-dot{display:none;}
+  .g-undated{margin-top:10px;}
   .tl-item{position:relative; margin-bottom:16px;}
-  .tl-dot{position:absolute; left:-25px; top:22px; width:11px; height:11px; border-radius:50%; background:var(--panel); border:3px solid var(--acc);}
-  .tl-item.exp .tl-dot{border-color:var(--acc2);}
   .tl-card{background:var(--panel2); border:1px solid var(--line); border-radius:14px; padding:15px 17px;}
   .tl-date{font-size:11px; text-transform:uppercase; letter-spacing:1.5px; color:var(--acc); font-weight:700;}
   .tl-kind{display:inline-block; font-size:10px; text-transform:uppercase; letter-spacing:1px; padding:3px 9px; border-radius:20px; background:var(--panel); border:1px solid var(--line); color:var(--dim); margin-left:8px; vertical-align:1px;}
@@ -242,7 +260,7 @@
           <div id="pfAdminList"></div>
         </div>
       </div>
-      <div id="pfTimeline" class="timeline"><div class="pf-sub">Loading…</div></div>
+      <div id="pfTimeline"><div class="pf-sub">Loading…</div></div>
     </section>
 
     <div class="foot">
@@ -258,9 +276,13 @@
     <label class="fld"><span>Title</span><input id="pfTitle" maxlength="120" placeholder="e.g. aidar · mmWave vital-signs radar"></label>
     <div class="fld-row">
       <label class="fld"><span>Kind</span><select id="pfKind"><option value="project">Project</option><option value="experience">Experience</option></select></label>
+      <label class="fld"><span>Lane</span><select id="pfLane"><option value="project">Project</option><option value="experience">Experience</option><option value="education">Education</option></select></label>
       <label class="fld"><span>Date label</span><input id="pfDateLabel" placeholder="e.g. Summer 2024"></label>
     </div>
-    <label class="fld"><span>Start date (for sorting)</span><input id="pfStartDate" type="date"></label>
+    <div class="fld-row">
+      <label class="fld"><span>Start date</span><input id="pfStartDate" type="date"></label>
+      <label class="fld"><span>End date (blank = now)</span><input id="pfEndDate" type="date"></label>
+    </div>
     <label class="fld"><span>Public title</span><input id="pfPublicTitle" placeholder="Defaults to title"></label>
     <label class="fld"><span>Public blurb</span><textarea id="pfPublicBlurb" placeholder="One or two sentences for the timeline"></textarea></label>
     <label class="fld"><span>Highlights (one per line)</span><textarea id="pfHighlights" placeholder="Shipped the simulator&#10;All 4 validation scenarios pass"></textarea></label>
@@ -420,21 +442,142 @@ function pfSorted(){
   });
 }
 
+const PF_LANES = [
+  { key:'project', label:'Projects' },
+  { key:'experience', label:'Experience' },
+  { key:'education', label:'Education' },
+];
+let PF_SELECTED = null;
+
+function pfLaneOf(it){ return it.lane || (it.kind === 'project' ? 'project' : 'experience'); }
+
 function renderPortfolio(){
   $('pfAdminBtn').textContent = PF_ADMIN ? '✓ Done' : '⚙ Admin';
   $('pfAdminWrap').style.display = PF_ADMIN ? 'block' : 'none';
   const items = pfSorted();
   const vis = items.filter(i => i.visible);
   $('pfCount').textContent = vis.length + ' on the timeline · ' + PF.length + ' total';
-  const tl = $('pfTimeline');
-  tl.innerHTML = '';
-  if (!vis.length){
-    tl.innerHTML = '<div class="card"><div class="pf-sub">Nothing on the timeline yet. Hit ⚙ Admin to write your story and flip items on.</div></div>';
-  } else {
-    vis.forEach(it => tl.appendChild(timelineCard(it)));
-  }
+  renderGantt($('pfTimeline'), vis);
   if (PF_ADMIN) renderPfAdmin(items);
   loadPfPublic();
+}
+
+function renderGantt(el, items){
+  el.innerHTML = '';
+  if (!items.length){
+    el.innerHTML = '<div class="card"><div class="pf-sub">Nothing on the timeline yet. Hit ⚙ Admin to write your story and flip items on.</div></div>';
+    return;
+  }
+  const DAY = 86400000;
+  const today = new Date(); today.setHours(0,0,0,0);
+  const dated = [], undated = [];
+  items.forEach(it => {
+    if (!it.start_date){ undated.push(it); return; }
+    const s = new Date(it.start_date + 'T00:00:00');
+    if (isNaN(s)){ undated.push(it); return; }
+    let e = today, ongoing = true;
+    if (it.end_date){
+      const ed = new Date(it.end_date + 'T00:00:00');
+      if (!isNaN(ed)){ e = ed; ongoing = false; }
+    }
+    if (e < s) e = s;
+    dated.push({ it, s, e, ongoing });
+  });
+  if (!dated.length){
+    undated.forEach(it => el.appendChild(timelineCard(it)));
+    return;
+  }
+  const minY = Math.min.apply(null, dated.map(d => d.s.getFullYear()));
+  const maxY = Math.max.apply(null, dated.map(d => Math.max(d.e.getFullYear(), today.getFullYear())));
+  const r0 = new Date(minY, 0, 1).getTime();
+  const r1 = new Date(maxY + 1, 0, 1).getTime();
+  const pct = t => (t - r0) / (r1 - r0) * 100;
+
+  const scroll = document.createElement('div');
+  scroll.className = 'gantt-scroll';
+  const g = document.createElement('div');
+  g.className = 'gantt';
+  scroll.appendChild(g);
+  el.appendChild(scroll);
+
+  const axis = document.createElement('div');
+  axis.className = 'g-axis';
+  let ticks = '';
+  for (let y = minY; y <= maxY; y++) ticks += '<span class="g-tick" style="left:' + pct(new Date(y,0,1).getTime()).toFixed(2) + '%">' + y + '</span>';
+  axis.innerHTML = '<div class="g-lab"></div><div class="g-ticks">' + ticks + '</div>';
+  g.appendChild(axis);
+
+  const GAP = 45 * DAY;
+  PF_LANES.forEach(lane => {
+    const inLane = dated.filter(d => pfLaneOf(d.it) === lane.key).sort((a,b) => a.s - b.s || a.e - b.e);
+    if (!inLane.length) return;
+    const rows = [];
+    inLane.forEach(d => {
+      let r = rows.findIndex(row => row.every(o => o.e.getTime() + GAP < d.s.getTime() || d.e.getTime() + GAP < o.s.getTime()));
+      if (r < 0){ rows.push([]); r = rows.length - 1; }
+      rows[r].push(d);
+    });
+    const laneEl = document.createElement('div');
+    laneEl.className = 'g-lane';
+    const lab = document.createElement('div');
+    lab.className = 'g-lane-lab';
+    lab.textContent = lane.label;
+    const track = document.createElement('div');
+    track.className = 'g-track';
+    track.style.height = (rows.length * 42 + 10) + 'px';
+    for (let y = minY; y <= maxY; y++){
+      const gl = document.createElement('div');
+      gl.className = 'g-grid';
+      gl.style.left = pct(new Date(y,0,1).getTime()).toFixed(2) + '%';
+      track.appendChild(gl);
+    }
+    const now = document.createElement('div');
+    now.className = 'g-now';
+    now.style.left = pct(today.getTime()).toFixed(2) + '%';
+    now.title = 'today';
+    track.appendChild(now);
+    rows.forEach((row, ri) => {
+      row.forEach(d => {
+        const b = document.createElement('button');
+        b.className = 'g-box lane-' + lane.key + (d.ongoing ? ' ongoing' : '') + (PF_SELECTED === d.it.id ? ' sel' : '');
+        b.style.left = pct(d.s.getTime()).toFixed(2) + '%';
+        b.style.width = Math.max(pct(d.e.getTime()) - pct(d.s.getTime()), 1.4).toFixed(2) + '%';
+        b.style.top = (ri * 42 + 5) + 'px';
+        const label = d.it.public_title || d.it.title;
+        b.title = label + ' · ' + (d.it.date_label || '') + (d.ongoing ? ' → now' : '');
+        const sp = document.createElement('span');
+        sp.textContent = label;
+        b.appendChild(sp);
+        b.onclick = () => { PF_SELECTED = (PF_SELECTED === d.it.id) ? null : d.it.id; renderGantt(el, items); };
+        track.appendChild(b);
+      });
+    });
+    laneEl.appendChild(lab);
+    laneEl.appendChild(track);
+    g.appendChild(laneEl);
+  });
+
+  if (undated.length){
+    const u = document.createElement('div');
+    u.className = 'g-undated pf-sub';
+    u.textContent = 'No start date: ' + undated.map(i => i.title).join(', ');
+    el.appendChild(u);
+  }
+
+  const sel = dated.find(d => d.it.id === PF_SELECTED);
+  if (sel){
+    const det = timelineCard(sel.it);
+    det.classList.add('g-detail');
+    if (PF_ADMIN){
+      const eb = document.createElement('button');
+      eb.className = 'linkbtn';
+      eb.textContent = 'Edit';
+      eb.style.marginTop = '8px';
+      eb.onclick = () => openPfEditor(sel.it);
+      det.querySelector('.tl-card').appendChild(eb);
+    }
+    el.appendChild(det);
+  }
 }
 
 function timelineCard(it){
@@ -445,7 +588,7 @@ function timelineCard(it){
   d.innerHTML =
     '<div class="tl-dot"></div><div class="tl-card">' +
     '<span class="tl-date">' + escapeHtml(it.date_label || it.start_date || '') + '</span>' +
-    '<span class="tl-kind">' + escapeHtml(it.kind) + '</span>' +
+    '<span class="tl-kind">' + escapeHtml(it.lane || it.kind) + '</span>' +
     '<div class="tl-title">' + escapeHtml(it.public_title || it.title) + '</div>' +
     (it.public_blurb ? '<div class="tl-blurb">' + escapeHtml(it.public_blurb) + '</div>' : '') +
     (hl.length ? '<ul class="tl-hl">' + hl.map(h => '<li>' + escapeHtml(h) + '</li>').join('') + '</ul>' : '') +
@@ -466,7 +609,7 @@ function renderPfAdmin(items){
     row.innerHTML =
       '<label class="switch"><input type="checkbox"' + (it.visible ? ' checked' : '') + '><span class="sl"></span></label>' +
       '<div class="grow"><div class="t">' + escapeHtml(it.title) + '</div>' +
-      '<div class="m">' + escapeHtml(it.kind) + (it.date_label ? ' · ' + escapeHtml(it.date_label) : '') + (it.visible ? '' : ' · hidden') + '</div></div>' +
+      '<div class="m">' + escapeHtml(it.lane || it.kind) + (it.date_label ? ' · ' + escapeHtml(it.date_label) : '') + (it.visible ? '' : ' · hidden') + '</div></div>' +
       '<button class="linkbtn">Edit</button>' +
       '<button class="linkbtn danger">Delete</button>';
     const sw = row.querySelector('input');
@@ -495,8 +638,10 @@ function openPfEditor(it){
   $('pfModalTitle').textContent = it ? 'Edit item' : 'New item';
   $('pfTitle').value = it ? it.title : '';
   $('pfKind').value = it ? it.kind : 'project';
+  $('pfLane').value = it ? (it.lane || (it.kind === 'project' ? 'project' : 'experience')) : 'project';
   $('pfDateLabel').value = it ? (it.date_label || '') : '';
   $('pfStartDate').value = it ? (it.start_date || '') : '';
+  $('pfEndDate').value = it ? (it.end_date || '') : '';
   $('pfPublicTitle').value = it ? (it.public_title || '') : '';
   $('pfPublicBlurb').value = it ? (it.public_blurb || '') : '';
   $('pfHighlights').value = it ? (it.highlights || '') : '';
@@ -520,8 +665,10 @@ $('pfSave').onclick = async () => {
   const row = {
     title,
     kind: $('pfKind').value,
+    lane: $('pfLane').value,
     date_label: $('pfDateLabel').value.trim() || null,
     start_date: $('pfStartDate').value || null,
+    end_date: $('pfEndDate').value || null,
     public_title: $('pfPublicTitle').value.trim(),
     public_blurb: $('pfPublicBlurb').value.trim(),
     highlights: $('pfHighlights').value.trim(),
