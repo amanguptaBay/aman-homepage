@@ -1,0 +1,124 @@
+name: daily-refresh
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh data.json
+        run: |
+          cat > /tmp/refresh.py <<'PYEOF'
+          #!/usr/bin/env python3
+          """Daily refresh for Aman's homepage data.json."""
+          import json, re, sys, html
+          from datetime import datetime, timezone
+          from urllib.request import Request, urlopen
+          from xml.etree import ElementTree as ET
+
+          DATA_PATH = "data.json"
+          UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+
+          FEEDS = [
+              ("business", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+              ("tech", "https://www.theverge.com/rss/index.xml"),
+              ("nyc", "https://gothamist.com/feed"),
+              ("celebrity", "https://www.usmagazine.com/feed/"),
+          ]
+
+          def fetch(url, timeout=20):
+              req = Request(url, headers=UA)
+              with urlopen(req, timeout=timeout) as r:
+                  return r.read()
+
+          def yahoo_quote():
+              raw = fetch("https://query1.finance.yahoo.com/v8/finance/chart/META?interval=1d&range=2d")
+              meta = json.loads(raw)["chart"]["result"][0]["meta"]
+              price = float(meta["regularMarketPrice"])
+              prev = float(meta.get("chartPreviousClose") or meta.get("previousClose") or price)
+              return price, prev
+
+          def parse_feed(xml_bytes):
+              items = []
+              try:
+                  root = ET.fromstring(xml_bytes)
+              except Exception:
+                  return items
+              for it in root.iter("item"):
+                  title = (it.findtext("title") or "").strip()
+                  link = (it.findtext("link") or "").strip()
+                  if title and link:
+                      items.append({"title": html.unescape(title), "sourceUrl": link})
+                  if len(items) >= 6:
+                      break
+              if not items:
+                  ns = {"a": "http://www.w3.org/2005/Atom"}
+                  for e in root.findall("a:entry", ns):
+                      title = (e.findtext("a:title", namespaces=ns) or "").strip()
+                      link_el = e.find("a:link", ns)
+                      link = (link_el.get("href") if link_el is not None else "").strip()
+                      if title and link:
+                          items.append({"title": html.unescape(title), "sourceUrl": link})
+                      if len(items) >= 6:
+                          break
+              return items
+
+          def host_of(url):
+              m = re.search(r"https?://([^/]+)", url)
+              return m.group(1).replace("www.", "") if m else url
+
+          def main():
+              with open(DATA_PATH) as f:
+                  data = json.load(f)
+              now = datetime.now(timezone.utc)
+              data["dateLabel"] = now.strftime("%d %m %Y")
+              try:
+                  price, prev = yahoo_quote()
+                  change = price - prev
+                  data["quote"] = {
+                      "symbol": "META",
+                      "companyName": "Meta Platforms Inc",
+                      "currency": "USD",
+                      "price": round(price, 2),
+                      "change": round(change, 2),
+                      "changePercent": round(100 * change / prev, 4) if prev else 0,
+                      "fetchedAt": now.isoformat(),
+                  }
+              except Exception as e:
+                  print(f"quote refresh failed: {e}", file=sys.stderr)
+              stories = []
+              for category, url in FEEDS:
+                  try:
+                      for it in parse_feed(fetch(url))[:5]:
+                          stories.append({
+                              "category": category,
+                              "title": it["title"],
+                              "sourceUrl": it["sourceUrl"],
+                              "sourceName": host_of(it["sourceUrl"]),
+                          })
+                  except Exception as e:
+                      print(f"feed failed ({category}): {e}", file=sys.stderr)
+              if stories:
+                  data["stories"] = stories
+              with open(DATA_PATH, "w") as f:
+                  json.dump(data, f, indent=2)
+              print("refreshed data.json")
+
+          if __name__ == "__main__":
+              main()
+          PYEOF
+          python3 /tmp/refresh.py
+      - name: Commit if changed
+        run: |
+          git config user.name "homepage-bot"
+          git config user.email "homepage-bot@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "daily data refresh"
+          git push
