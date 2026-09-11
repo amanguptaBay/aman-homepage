@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aman's Homepage</title>
+<style>
+  :root{
+    --bg:#0b0d12; --panel:#12151d; --panel2:#171b26; --line:#232839;
+    --text:#e8eaf1; --dim:#9aa1b5; --faint:#5c6376;
+    --acc:#7c9aff; --acc2:#4ade80; --warn:#fbbf24; --bad:#f87171;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,Roboto,sans-serif; min-height:100vh;}
+  .wrap{max-width:1060px; margin:0 auto; padding:24px 18px 80px;}
+
+  /* ---------- gate ---------- */
+  #gate{min-height:100vh; display:flex; align-items:center; justify-content:center; padding:20px;}
+  .gate-card{background:var(--panel); border:1px solid var(--line); border-radius:18px; padding:40px 36px; max-width:420px; width:100%; text-align:center;}
+  .gate-card .lock{font-size:34px; margin-bottom:14px;}
+  .gate-card h1{font-size:22px; margin-bottom:8px;}
+  .gate-card p{color:var(--dim); font-size:14px; margin-bottom:20px; line-height:1.55;}
+  .gate-email{background:var(--panel2); border:1px solid var(--line); border-radius:10px; padding:12px; font-size:14px; color:var(--text); margin-bottom:14px; word-break:break-all;}
+  .btn{background:var(--acc); color:#0b0d12; border:0; border-radius:10px; padding:13px 20px; font-size:15px; font-weight:700; cursor:pointer; width:100%;}
+  .btn:hover{filter:brightness(1.08);}
+  .btn:disabled{opacity:.5; cursor:default;}
+  .gate-msg{margin-top:14px; font-size:13px; color:var(--dim); min-height:20px;}
+  .gate-msg.ok{color:var(--acc2);}
+
+  /* ---------- header ---------- */
+  #app{display:none;}
+  header.top{display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:18px; flex-wrap:wrap;}
+  .date{font-size:15px; color:var(--dim); letter-spacing:2px; font-variant-numeric:tabular-nums;}
+  .mode-switch{display:flex; background:var(--panel); border:1px solid var(--line); border-radius:999px; padding:4px; gap:4px;}
+  .mode-switch button{border:0; background:transparent; color:var(--dim); font-size:13px; font-weight:600; padding:8px 18px; border-radius:999px; cursor:pointer;}
+  .mode-switch button.on{background:var(--acc); color:#0b0d12;}
+  h1.brand{font-size:30px; letter-spacing:-.5px; margin-bottom:4px;}
+  .sub{color:var(--faint); font-size:13px; margin-bottom:20px;}
+
+  /* ---------- tabs ---------- */
+  .tabs{display:flex; gap:8px; margin-bottom:20px;}
+  .tabs button{background:var(--panel); border:1px solid var(--line); color:var(--dim); font-size:14px; font-weight:600; padding:10px 22px; border-radius:12px; cursor:pointer;}
+  .tabs button.on{background:var(--panel2); color:var(--text); border-color:var(--acc);}
+  .tabs button.hidden{display:none;}
+
+  /* ---------- cards ---------- */
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px;}
+  .card{background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px;}
+  .card h2{font-size:12px; text-transform:uppercase; letter-spacing:1.5px; color:var(--faint); margin-bottom:12px;}
+  .quote-price{font-size:34px; font-weight:800; font-variant-numeric:tabular-nums;}
+  .quote-chg{font-size:14px; margin-top:4px; font-weight:600;}
+  .up{color:var(--acc2);} .down{color:var(--bad);}
+  .quote-meta{color:var(--faint); font-size:12px; margin-top:8px;}
+  .story{display:block; padding:10px 0; border-top:1px solid var(--line); text-decoration:none; color:var(--text);}
+  .story:first-of-type{border-top:0;}
+  .story .t{font-size:14px; line-height:1.45;}
+  .story .s{font-size:12px; color:var(--faint); margin-top:3px;}
+  .story:hover .t{color:var(--acc);}
+
+  /* ---------- map ---------- */
+  .layer{margin-bottom:22px;}
+  .layer > h3{font-size:13px; text-transform:uppercase; letter-spacing:2px; color:var(--acc); margin-bottom:10px;}
+  .chips{display:flex; flex-wrap:wrap; gap:8px;}
+  .chip{background:var(--panel); border:1px solid var(--line); border-radius:999px; padding:8px 14px; font-size:13px; cursor:default;}
+  .chip .st{font-size:10px; text-transform:uppercase; letter-spacing:1px; margin-left:8px; padding:3px 8px; border-radius:999px; background:var(--panel2); color:var(--dim);}
+  .chip .st.active{color:var(--acc2);} .chip .st.done{color:var(--acc);}
+  .chip .st.shipping{color:var(--warn);} .chip .st.parked{color:var(--faint);}
+  .chip .st.idea{color:var(--warn);}
+  .filters{display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap;}
+  .filters button{background:var(--panel); border:1px solid var(--line); color:var(--dim); font-size:12px; padding:7px 14px; border-radius:999px; cursor:pointer;}
+  .filters button.on{color:var(--text); border-color:var(--acc);}
+  .foot{margin-top:34px; color:var(--faint); font-size:12px; text-align:center;}
+  .foot button{background:none; border:0; color:var(--faint); font-size:12px; cursor:pointer; text-decoration:underline;}
+</style>
+</head>
+<body>
+
+<!-- email gate -->
+<div id="gate">
+  <div class="gate-card">
+    <div class="lock">🔒</div>
+    <h1>Private page</h1>
+    <p>This homepage is email-protected. Tap below and a sign-in link will be sent to the owner's inbox — no password needed.</p>
+    <div class="gate-email" id="gateEmail">…</div>
+    <button class="btn" id="sendLink" disabled>Email me a sign-in link</button>
+    <div class="gate-msg" id="gateMsg"></div>
+  </div>
+</div>
+
+<!-- app -->
+<div id="app">
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <div class="date" id="dateLabel">-- -- ----</div>
+        <h1 class="brand">Aman's Homepage</h1>
+        <div class="sub" id="modeNote"></div>
+      </div>
+      <div class="mode-switch" role="tablist" aria-label="Personal versus Company">
+        <button id="modePersonal" class="on">Personal</button>
+        <button id="modeCompany">Company</button>
+      </div>
+    </header>
+
+    <div class="tabs">
+      <button id="tabBrief" class="on">Briefing</button>
+      <button id="tabMap">Project map</button>
+    </div>
+
+    <section id="viewBrief">
+      <div class="grid">
+        <div class="card">
+          <h2>META · Meta Platforms Inc</h2>
+          <div class="quote-price" id="qPrice">—</div>
+          <div class="quote-chg" id="qChg">—</div>
+          <div class="quote-meta" id="qMeta">—</div>
+        </div>
+        <div class="card" id="cardBusiness"><h2>Business</h2><div class="stories"></div></div>
+        <div class="card" id="cardTech"><h2>Tech</h2><div class="stories"></div></div>
+        <div class="card" id="cardNyc"><h2>NYC</h2><div class="stories"></div></div>
+        <div class="card" id="cardCeleb"><h2>Celebrity</h2><div class="stories"></div></div>
+      </div>
+    </section>
+
+    <section id="viewMap" style="display:none">
+      <div class="filters" id="statusFilters"></div>
+      <div id="layers"></div>
+    </section>
+
+    <div class="foot">
+      <span id="dataStamp"></span> · <button id="signOut">sign out</button>
+    </div>
+  </div>
+</div>
+
+<script type="module">
+import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
+
+const SUPABASE_URL = "https://yvhygigrsqxpuqoqpcsm.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl2aHlnaWdyc3F4cHVxb3FwY3NtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkwODc4OTAsImV4cCI6MjEwNDY2Mzg5MH0.s49NMbNnY2ZTHunHh7mocV7GaAfqEecbwQkpQGvhLpM";
+const ALLOWED_EMAIL = "amaan.gupta19@gmail.com";
+const LAYER_ORDER = ["Direction", "Build", "Life", "Foundation"];
+
+const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+const $ = id => document.getElementById(id);
+
+/* ---------- auth gate ---------- */
+async function boot(){
+  $('gateEmail').textContent = ALLOWED_EMAIL;
+  $('sendLink').disabled = false;
+  const { data:{ session } } = await supabase.auth.getSession();
+  if (session && session.user && session.user.email === ALLOWED_EMAIL) return enter();
+  // also handle the magic-link return before showing the gate form
+  supabase.auth.onAuthStateChange((evt, s) => {
+    if (s && s.user && s.user.email === ALLOWED_EMAIL) enter();
+  });
+  $('gate').style.display = 'flex';
+}
+$('sendLink').onclick = async () => {
+  const btn = $('sendLink'), msg = $('gateMsg');
+  btn.disabled = true; msg.className = 'gate-msg'; msg.textContent = 'Sending…';
+  const { error } = await supabase.auth.signInWithOtp({
+    email: ALLOWED_EMAIL,
+    options: { emailRedirectTo: location.origin + location.pathname }
+  });
+  if (error){ msg.textContent = 'Could not send the link: ' + error.message; btn.disabled = false; }
+  else { msg.className = 'gate-msg ok'; msg.textContent = 'Check your inbox — tap the link to enter.'; }
+};
+$('signOut').onclick = async () => { await supabase.auth.signOut(); location.reload(); };
+function enter(){ $('gate').style.display='none'; $('app').style.display='block'; load(); }
+
+/* ---------- page ---------- */
+let DATA = null, mode = 'personal', tab = 'brief', statusFilter = 'all';
+
+function setMode(m){
+  mode = m;
+  $('modePersonal').classList.toggle('on', m==='personal');
+  $('modeCompany').classList.toggle('on', m==='company');
+  const showMap = m==='personal';
+  $('tabMap').classList.toggle('hidden', !showMap);
+  $('modeNote').textContent = m==='company' ? 'Company view — personal projects hidden.' : 'Personal view — everything visible.';
+  if (!showMap && tab==='map') setTab('brief');
+  try{ localStorage.setItem('ah-mode', m); }catch(e){}
+}
+function setTab(t){
+  tab = t;
+  $('tabBrief').classList.toggle('on', t==='brief');
+  $('tabMap').classList.toggle('on', t==='map');
+  $('viewBrief').style.display = t==='brief' ? 'block' : 'none';
+  $('viewMap').style.display = t==='map' ? 'block' : 'none';
+}
+$('modePersonal').onclick = () => setMode('personal');
+$('modeCompany').onclick = () => setMode('company');
+$('tabBrief').onclick = () => setTab('brief');
+$('tabMap').onclick = () => setTab('map');
+
+async function load(){
+  const res = await fetch('data.json', {cache:'no-store'});
+  DATA = await res.json();
+  try{ setMode(localStorage.getItem('ah-mode') || 'personal'); }catch(e){ setMode('personal'); }
+  renderBrief();
+  await loadProjects();
+  renderMap();
+  $('dataStamp').textContent = 'data as of ' + (DATA.quote.fetchedAt ? new Date(DATA.quote.fetchedAt).toLocaleString() : DATA.dateLabel);
+}
+
+let PROJECTS = [];
+async function loadProjects(){
+  try{
+    const { data, error } = await supabase.from('projects').select('name,layer,status').order('name');
+    if (error) throw error;
+    PROJECTS = data || [];
+  }catch(e){
+    console.error('project load failed', e);
+    PROJECTS = [];
+  }
+}
+
+function renderBrief(){
+  $('dateLabel').textContent = DATA.dateLabel || '';
+  const q = DATA.quote, el = $('qChg');
+  $('qPrice').textContent = '$' + Number(q.price).toFixed(2);
+  const up = q.change >= 0;
+  el.textContent = (up?'+':'') + Number(q.change).toFixed(2) + ' (' + (up?'+':'') + Number(q.changePercent).toFixed(2) + '%)';
+  el.className = 'quote-chg ' + (up ? 'up' : 'down');
+  $('qMeta').textContent = q.companyName + ' · ' + q.currency;
+  const groups = { business: $('cardBusiness'), tech: $('cardTech'), nyc: $('cardNyc'), celeb: $('cardCeleb') };
+  const cards = { business:'business', tech:'tech', nyc:'nyc', celeb:'celebrity' };
+  for (const [key, card] of Object.entries(groups)){
+    const box = card.querySelector('.stories'); box.innerHTML = '';
+    DATA.stories.filter(s => s.category === cards[key]).slice(0,5).forEach(s => {
+      const a = document.createElement('a');
+      a.className = 'story'; a.href = s.sourceUrl; a.target = '_blank'; a.rel = 'noopener';
+      a.innerHTML = '<div class="t"></div><div class="s"></div>';
+      a.querySelector('.t').textContent = s.title;
+      a.querySelector('.s').textContent = s.sourceName;
+      box.appendChild(a);
+    });
+    card.style.display = box.children.length ? 'block' : 'none';
+  }
+}
+
+function renderMap(){
+  // project data lives in Supabase (private); grouped by layer here
+  const byName = {};
+  PROJECTS.forEach(p => { byName[p.name] = p.status; });
+  const statuses = ['all', ...new Set(PROJECTS.map(p => p.status))];
+  const fbox = $('statusFilters'); fbox.innerHTML = '';
+  statuses.forEach(st => {
+    const b = document.createElement('button');
+    b.textContent = st[0].toUpperCase() + st.slice(1);
+    b.classList.toggle('on', st === statusFilter);
+    b.onclick = () => { statusFilter = st; renderMap(); };
+    fbox.appendChild(b);
+  });
+  const layers = $('layers'); layers.innerHTML = '';
+  LAYER_ORDER.forEach(layerName => {
+    const vis = PROJECTS.filter(p => p.layer === layerName && (statusFilter==='all' || p.status===statusFilter));
+    if (!vis.length) return;
+    const div = document.createElement('div'); div.className = 'layer';
+    const h = document.createElement('h3'); h.textContent = layerName; div.appendChild(h);
+    const chips = document.createElement('div'); chips.className = 'chips';
+    vis.forEach(p => {
+      const c = document.createElement('span'); c.className = 'chip';
+      const st = p.status || '';
+      c.innerHTML = '<span></span><span class="st ' + st + '">' + st + '</span>';
+      c.querySelector('span').textContent = p.name;
+      chips.appendChild(c);
+    });
+    div.appendChild(chips); layers.appendChild(div);
+  });
+  if (!PROJECTS.length){
+    layers.innerHTML = '<div class="card"><h2>Project map</h2><div class="story"><div class="t">Could not load projects. Check your connection and reload.</div></div></div>';
+  }
+}
+
+boot();
+</script>
+</body>
+</html>

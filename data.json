@@ -1,0 +1,74 @@
+{
+  "dateLabel": "10 09 2026",
+  "quote": {
+    "change": 40.21,
+    "changePercent": 6.5544,
+    "companyName": "Meta Platforms Inc",
+    "currency": "USD",
+    "fetchedAt": "2026-09-10T10:59:28.315Z",
+    "price": 653.69,
+    "symbol": "META"
+  },
+  "stories": [
+    {
+      "category": "business",
+      "sourceName": "reuters.com",
+      "sourceUrl": "https://www.reuters.com/world/us-treasury-chief-bessent-backs-using-us-financial-power-foreign-policy-tool-2026-09-09/",
+      "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool"
+    },
+    {
+      "category": "business",
+      "sourceName": "wsj.com",
+      "sourceUrl": "https://www.wsj.com",
+      "title": "Trump administration blasts Ford business deals with Chinese firms"
+    },
+    {
+      "category": "tech",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology",
+      "title": "US claims Chinese AI firms are carrying out 'industrial-scale' theft of trade secrets"
+    },
+    {
+      "category": "tech",
+      "sourceName": "wsj.com",
+      "sourceUrl": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-1307ac74",
+      "title": "Apple officially launches the iPhone Duo, its long-awaited foldable iPhone model"
+    },
+    {
+      "category": "tech",
+      "sourceName": "wsj.com",
+      "sourceUrl": "https://www.wsj.com/tech/ai/ai-is-disrupting-software-companiesbut-not-as-fast-as-many-feared-a380443a",
+      "title": "AI Is Disrupting Software Companies\u2014but Not as Fast as Many Feared"
+    },
+    {
+      "category": "nyc",
+      "sourceName": "brooklynslifestyle.com",
+      "sourceUrl": "https://brooklynslifestyle.com/things-to-do-in-nyc-this-september/",
+      "title": "Things to Do in NYC in September: 26 Essential Experiences"
+    },
+    {
+      "category": "nyc",
+      "sourceName": "newyorktheatreguide.com",
+      "sourceUrl": "https://www.newyorktheatreguide.com/theatre-news/news/things-to-do-in-nyc-this-month",
+      "title": "Feast of San Gennaro marks 100th celebration, September 17-27 on Mulberry Street"
+    },
+    {
+      "category": "nyc",
+      "sourceName": "lohud.com",
+      "sourceUrl": "https://www.lohud.com/story/news/2026/09/10/ny-directs-70m-to-nonprofit-security-ahead-of-jewish-high-holidays/91686343007/",
+      "title": "NYC directs $70M to nonprofit security ahead of Jewish High Holidays"
+    },
+    {
+      "category": "celebrity",
+      "sourceName": "people.com",
+      "sourceUrl": "https://people.com/megan-thee-stallion-wants-to-become-the-mariah-carey-of-summer-12113448",
+      "title": "Megan Thee Stallion Declares She Wants to Become the Mariah Carey of Summer"
+    },
+    {
+      "category": "celebrity",
+      "sourceName": "people.com",
+      "sourceUrl": "https://people.com/emmys-2026-shailene-woodley-wins-guest-actress-drama-paradise-12102718",
+      "title": "Shailene Woodley Scores Her First Emmy with Guest Actress in a Drama Win"
+    }
+  ]
+}
