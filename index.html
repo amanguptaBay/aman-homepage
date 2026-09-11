@@ -140,6 +140,12 @@
   .story .t{font-size:14px; line-height:1.45;}
   .story .s{font-size:12px; color:var(--faint); margin-top:3px;}
   .story:hover .t{color:var(--acc);}
+  .ev{display:block; padding:10px 0; border-top:1px solid var(--line);}
+  .ev:first-of-type{border-top:0;}
+  .ev .t{font-size:14px; font-weight:600; line-height:1.4;}
+  .ev .s{font-size:12px; color:var(--faint); margin-top:3px;}
+  .ev .now{display:inline-block; font-size:10px; font-weight:700; letter-spacing:1px; color:#0a0a0a; background:var(--acc2); border-radius:999px; padding:2px 8px; margin-left:8px; vertical-align:1px;}
+  .ev-note{font-size:11px; color:var(--faint); margin-top:10px;}
 
   /* ---------- map ---------- */
   .layer{margin-bottom:22px;}
@@ -212,6 +218,7 @@
           <div class="quote-chg" id="qChg">—</div>
           <div class="quote-meta" id="qMeta">—</div>
         </div>
+        <div class="card" id="cardEvents"><h2>Major things in NYC</h2><div id="nycEvents"></div><div class="ev-note">Recurring dates are approximate</div></div>
         <div class="card" id="cardBusiness"><h2>Business</h2><div class="stories"></div></div>
         <div class="card" id="cardTech"><h2>Tech</h2><div class="stories"></div></div>
         <div class="card" id="cardNyc"><h2>NYC</h2><div class="stories"></div></div>
@@ -805,6 +812,78 @@ function todayLabel(){
   return p(d.getDate()) + ' ' + p(d.getMonth() + 1) + ' ' + d.getFullYear();
 }
 
+/* ---------- major NYC tentpoles ---------- */
+const DAY_MS = 864e5;
+function dLocal(y,m,dd){ return new Date(y, m-1, dd); }
+function parseD(s){ const p=s.split('-'); return dLocal(+p[0],+p[1],+p[2]); }
+function addDays(d,n){ const x=new Date(d); x.setDate(x.getDate()+n); return x; }
+function nthWeekday(y,m,wd,n){ // m 1-12, wd 0=Sun..6=Sat, n>=1 or -1 = last
+  if(n>0){ const off=(wd-dLocal(y,m,1).getDay()+7)%7; return dLocal(y,m,1+off+7*(n-1)); }
+  const last=dLocal(y,m+1,0), off=(last.getDay()-wd+7)%7; return dLocal(y,m,last.getDate()-off);
+}
+function thanksgiving(y){ return nthWeekday(y,11,4,4); }
+function fmtEv(d){ return d.toLocaleDateString('en-US',{month:'short',day:'numeric'}); }
+function fmtEvRange(s,e){ return fmtEv(s)===fmtEv(e) ? fmtEv(s) : fmtEv(s)+' – '+fmtEv(e); }
+const NYC_TENTPOLES=[
+ {name:'US Open', sub:'Flushing Meadows · tennis',
+  fixed:{2026:[['2026-08-30','2026-09-13']]},
+  editions:y=>{ const s=nthWeekday(y,8,0,-1); return [[s,addDays(s,14)]]; }},
+ {name:'New York Fashion Week', sub:'Manhattan · runway shows',
+  fixed:{2026:[['2026-09-10','2026-09-15']],2027:[['2027-02-11','2027-02-14']]},
+  editions:y=>{ const f=nthWeekday(y,2,4,2), s=nthWeekday(y,9,4,2); return [[f,addDays(f,5)],[s,addDays(s,5)]]; }},
+ {name:'New York Comic Con', sub:'Javits Center',
+  editions:y=>{ const s=nthWeekday(y,10,4,2); return [[s,addDays(s,3)]]; }},
+ {name:'NYC Marathon', sub:'five boroughs · running',
+  editions:y=>{ const s=nthWeekday(y,11,0,1); return [[s,s]]; }},
+ {name:"Macy's Thanksgiving Day Parade", sub:'Manhattan',
+  editions:y=>{ const s=thanksgiving(y); return [[s,s]]; }},
+ {name:'Rockefeller Tree Lighting', sub:'Midtown',
+  editions:y=>{ let s=thanksgiving(y); do{ s=addDays(s,1); }while(s.getDay()!==3); return [[s,s]]; }},
+ {name:"New Year's Eve", sub:'Times Square',
+  editions:y=>{ const s=dLocal(y,12,31); return [[s,s]]; }},
+ {name:'NYC Pride March', sub:'Manhattan',
+  editions:y=>{ const s=nthWeekday(y,6,0,-1); return [[s,s]]; }},
+ {name:'Tribeca Festival', sub:'downtown · film',
+  fixed:{2026:[['2026-06-03','2026-06-14']]},
+  editions:y=>{ const s=nthWeekday(y,6,3,1); return [[s,addDays(s,11)]]; }},
+ {name:'Governors Ball', sub:'Flushing Meadows · music',
+  fixed:{2026:[['2026-06-05','2026-06-07']]},
+  editions:y=>{ const s=nthWeekday(y,6,5,1); return [[s,addDays(s,2)]]; }},
+ {name:'Fleet Week', sub:'NY Harbor · ships',
+  editions:y=>{ const s=addDays(nthWeekday(y,5,1,-1),-5); return [[s,addDays(s,6)]]; }},
+];
+function renderNycEvents(){
+  const box=$('nycEvents'); if(!box) return; box.innerHTML='';
+  const now=new Date(); now.setHours(0,0,0,0);
+  const y=now.getFullYear();
+  let occs=[];
+  [y,y+1].forEach(yy=>{
+    NYC_TENTPOLES.forEach(ev=>{
+      const raw=(ev.fixed && ev.fixed[yy]) ? ev.fixed[yy] : ev.editions(yy);
+      raw.forEach(([s,e])=>{
+        const sd=typeof s==='string'?parseD(s):s, ed=typeof e==='string'?parseD(e):e;
+        if(ed>=now) occs.push({ev,s:sd,e:ed});
+      });
+    });
+  });
+  occs.sort((a,b)=>a.s-b.s);
+  occs.slice(0,5).forEach(o=>{
+    const div=document.createElement('div'); div.className='ev';
+    const happening=o.s<=now && now<=o.e;
+    const days=Math.round((o.s-now)/DAY_MS);
+    const rel=happening ? 'ends '+fmtEv(o.e)
+      : days<=0 ? 'starts today'
+      : days===1 ? 'tomorrow'
+      : days<21 ? 'in '+days+' days'
+      : 'in '+Math.round(days/7)+' weeks';
+    div.innerHTML='<div class="t"></div><div class="s"></div>';
+    div.querySelector('.t').textContent=o.ev.name;
+    if(happening){ const pill=document.createElement('span'); pill.className='now'; pill.textContent='NOW'; div.querySelector('.t').appendChild(pill); }
+    div.querySelector('.s').textContent=o.ev.sub+' · '+fmtEvRange(o.s,o.e)+' · '+rel;
+    box.appendChild(div);
+  });
+}
+
 function renderBrief(){
   $('dateLabel').textContent = todayLabel();
   const q = DATA.quote, el = $('qChg');
@@ -827,6 +906,7 @@ function renderBrief(){
     });
     card.style.display = box.children.length ? 'block' : 'none';
   }
+  renderNycEvents();
 }
 
 function renderMap(){
