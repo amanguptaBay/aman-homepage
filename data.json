@@ -1,133 +1,133 @@
 {
-  "dateLabel": "13 09 2026",
+  "dateLabel": "14 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 648.03,
-    "change": -5.66,
-    "changePercent": -0.8659,
-    "fetchedAt": "2026-09-13T14:44:08.972170+00:00"
+    "price": 661.59,
+    "change": 17.21,
+    "changePercent": 2.6708,
+    "fetchedAt": "2026-09-14T16:40:55.332559+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "sourceUrl": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-      "sourceUrl": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
+      "title": "10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-      "sourceUrl": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+      "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-      "sourceUrl": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+      "title": "Trump says Ukraine and Russia agreed not to hit energy targets",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-      "sourceUrl": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+      "title": "What Amodei's AI slowdown could mean for Anthropic's imminent IPO",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-      "sourceUrl": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "title": "Volkswagen\u2019s slippery new EV breaks a bunch of efficiency records",
+      "sourceUrl": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel\u2019s Blade disaster",
-      "sourceUrl": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+      "title": "Google\u2019s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
+      "sourceUrl": "https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Your car is selling your data",
-      "sourceUrl": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "title": "Adam Conover explains how YouTube ruined everything",
+      "sourceUrl": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s new phones are here",
-      "sourceUrl": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "title": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+      "sourceUrl": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
+      "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "East Harlem man dies 3 weeks after violent clash outside Carver Houses",
-      "sourceUrl": "https://gothamist.com/news/east-harlem-man-dies-3-weeks-after-violent-clash-outside-carver-houses",
+      "title": "'Counter Culture' offers photographic ode to New York City\u2019s enduring diners",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/counter-culture-offers-photographic-ode-to-new-york-citys-enduring-diners",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Showers are soaking the NYC region. They aren't expected to stick around.",
-      "sourceUrl": "https://gothamist.com/news/showers-are-soaking-the-nyc-region-they-arent-expected-to-stick-around",
+      "title": "NYPD search for the driver in a hit-and-run that killed a woman near Washington Heights",
+      "sourceUrl": "https://gothamist.com/news/nypd-search-for-the-driver-in-a-hit-and-run-that-killed-a-woman-near-washington-heights",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Councilmembers make new push to improve diversity at NYC specialized high schools",
-      "sourceUrl": "https://gothamist.com/news/councilmembers-make-new-push-to-improve-diversity-at-nyc-specialized-high-schools",
+      "title": "Early Addition: Trump's childhood home in Queens, once a feral cat hangout, finds new buyer",
+      "sourceUrl": "https://gothamist.com/news/early-addition-trumps-childhood-home-in-queens-once-a-feral-cat-hangout-finds-new-buyer",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A new queer film festival is coming to Fire Island this month",
-      "sourceUrl": "https://gothamist.com/news/a-new-queer-film-festival-is-coming-to-fire-island-this-month",
+      "title": "COVID hospitalizations are on the rise in NYC. Here's how to protect yourself.",
+      "sourceUrl": "https://gothamist.com/news/covid-hospitalizations-are-on-the-rise-in-nyc-heres-how-to-protect-yourself",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD lieutenant claims overtime pay was awarded on racial lines in new suit",
-      "sourceUrl": "https://gothamist.com/news/nypd-lieutenant-claims-overtime-pay-was-awarded-on-racial-lines-in-new-suit",
+      "title": "Mayor Mamdani still waiting on federal security clearance 8 months into office",
+      "sourceUrl": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Constantly Snacking? This Natural Supplement Helps Curbs Cravings",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/calocurb-natural-supplement-weight-loss/",
+      "title": "Katie Holmes, Patrick Schwarzenegger, Kaley Cuoco and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "TV Shows That Surprisingly Never Won a Single Emmy",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/pictures/tv-shows-that-surprisingly-never-won-an-emmy-award-photos/",
+      "title": "17 Luxe-Looking Amazon Pieces That Scream 'Banana Republic' (From $6!)",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/banana-republic-looking-amazon-pieces/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jordon Hudson Caught Filming Reporter on Sidelines of UNC Game",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/jordon-hudson-caught-filming-reporter-at-unc-game/",
+      "title": "Catherine Zeta-Jones Thinks 'Nepo Baby' Is a 'Horrific Phrase'",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/catherine-zeta-jones-says-nepo-baby-is-a-horrific-phrase/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'McBee Dynasty' Star Steve McBee Sr. Breaks Silence on Prison Release",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/steven-mcbee-sr-breaks-silence-on-prison-release/",
+      "title": "13 Cute Halloween Shirts to Wear to Parties, Pumpkin Patches and Beyond",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/cute-halloween-shirts-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Lady Gaga Calls This Viral K-Beauty Mask Part of Her 'Holy Trinity'",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/lady-gaga-k-beauty-gel-mask/",
+      "title": "Taylor Frankie Paul Had 'No Desire' to Be Around 'Mormon Wives' Costars",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/taylor-frankie-paul-calls-out-mormon-wives-costars/",
       "sourceName": "usmagazine.com"
     }
   ]
