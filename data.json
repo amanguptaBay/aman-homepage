@@ -1,133 +1,133 @@
 {
-  "dateLabel": "14 09 2026",
+  "dateLabel": "15 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 661.59,
-    "change": 17.21,
-    "changePercent": 2.6708,
-    "fetchedAt": "2026-09-14T16:40:55.332559+00:00"
+    "price": 672.5,
+    "change": 24.47,
+    "changePercent": 3.7753,
+    "fetchedAt": "2026-09-15T15:20:43.019603+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump says Ukraine and Russia agreed not to hit energy targets",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
+      "title": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "What Amodei's AI slowdown could mean for Anthropic's imminent IPO",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Volkswagen\u2019s slippery new EV breaks a bunch of efficiency records",
-      "sourceUrl": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
+      "title": "Now Light\u2019s minimalist phone can easily call an Uber",
+      "sourceUrl": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google\u2019s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
-      "sourceUrl": "https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale",
+      "title": "Meta\u2019s new One subscriptions put a price on social media and AI",
+      "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Adam Conover explains how YouTube ruined everything",
-      "sourceUrl": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai",
+      "title": "Fujifilm\u2019s Instax Pal 2 is a tiny digital camera that may not disappoint",
+      "sourceUrl": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The four-hour-long Elon Musk documentary might be preaching to the choir",
-      "sourceUrl": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
-      "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "title": "Voicemod\u2019s new pocket-friendly device brings real-time voice changing to your phone",
+      "sourceUrl": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "'Counter Culture' offers photographic ode to New York City\u2019s enduring diners",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/counter-culture-offers-photographic-ode-to-new-york-citys-enduring-diners",
+      "title": "A 59 year-old woman with head trauma found dead at Bay Ridge Brooklyn home, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/a-59-year-old-woman-with-head-trauma-found-dead-at-bay-ridge-brooklyn-home-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD search for the driver in a hit-and-run that killed a woman near Washington Heights",
-      "sourceUrl": "https://gothamist.com/news/nypd-search-for-the-driver-in-a-hit-and-run-that-killed-a-woman-near-washington-heights",
+      "title": "What we know so far about the Legionnaires\u2019 outbreak ahead of Bronx town hall",
+      "sourceUrl": "https://gothamist.com/news/what-we-know-so-far-about-the-legionnaires-outbreak-ahead-of-bronx-town-hall",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Trump's childhood home in Queens, once a feral cat hangout, finds new buyer",
-      "sourceUrl": "https://gothamist.com/news/early-addition-trumps-childhood-home-in-queens-once-a-feral-cat-hangout-finds-new-buyer",
+      "title": "Early Addition: Stop fishing with barbed hooks in Central Park, it's hurting the turtles",
+      "sourceUrl": "https://gothamist.com/news/early-addition-stop-fishing-with-barbed-hooks-in-central-park-its-hurting-the-turtles",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "COVID hospitalizations are on the rise in NYC. Here's how to protect yourself.",
-      "sourceUrl": "https://gothamist.com/news/covid-hospitalizations-are-on-the-rise-in-nyc-heres-how-to-protect-yourself",
+      "title": "Mamdani calls for crackdown on NYC's worst drivers after series of hit-and-run deaths",
+      "sourceUrl": "https://gothamist.com/news/mamdani-calls-for-crackdown-on-nycs-worst-drivers-after-series-of-hit-and-run-deaths",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mayor Mamdani still waiting on federal security clearance 8 months into office",
-      "sourceUrl": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
+      "title": "Mahmoud Khalil sues Columbia over alleged treatment of pro-Palestinian activists",
+      "sourceUrl": "https://gothamist.com/news/mahmoud-khalil-sues-columbia-over-alleged-treatment-of-pro-palestinian-activists",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Katie Holmes, Patrick Schwarzenegger, Kaley Cuoco and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "Satin Pants Are the Rich-Lady Alternative to Loungewear",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/satin-pants-rich-lady-loungewear-alternative/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "17 Luxe-Looking Amazon Pieces That Scream 'Banana Republic' (From $6!)",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/banana-republic-looking-amazon-pieces/",
+      "title": "17 Throw-On-and-Go Matching Sets With Serious Rich-Mom Energy",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/throw-on-and-go-matching-sets-rich-mom-energy/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Catherine Zeta-Jones Thinks 'Nepo Baby' Is a 'Horrific Phrase'",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/catherine-zeta-jones-says-nepo-baby-is-a-horrific-phrase/",
+      "title": "Layla Taylor and Mayci Neeley Hint at 'Mormon Wives' Exits After Mikayla",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/layla-taylor-and-mayci-neeley-hint-at-mormon-wives-exits/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "13 Cute Halloween Shirts to Wear to Parties, Pumpkin Patches and Beyond",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/cute-halloween-shirts-amazon/",
+      "title": "Meghan Markle Shares Sweet 42nd Birthday Tribute to Prince Harry",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markle-shares-42nd-birthday-tribute-to-prince-harry/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Taylor Frankie Paul Had 'No Desire' to Be Around 'Mormon Wives' Costars",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/taylor-frankie-paul-calls-out-mormon-wives-costars/",
+      "title": "What You Didn\u2019t See on TV at the 2026 Emmys: PDA, Reunions and More",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/what-you-didnt-see-on-tv-at-the-2026-emmys-pda-more/",
       "sourceName": "usmagazine.com"
     }
   ]
