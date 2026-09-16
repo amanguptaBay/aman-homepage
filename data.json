@@ -1,133 +1,133 @@
 {
-  "dateLabel": "15 09 2026",
+  "dateLabel": "16 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 672.5,
-    "change": 24.47,
-    "changePercent": 3.7753,
-    "fetchedAt": "2026-09-15T15:20:43.019603+00:00"
+    "price": 678.45,
+    "change": 12.85,
+    "changePercent": 1.9298,
+    "fetchedAt": "2026-09-16T15:12:36.551306+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-      "sourceUrl": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+      "title": "OpenAI investors have approached the company about a new funding round",
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
-      "sourceUrl": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-      "sourceUrl": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
+      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
-      "sourceUrl": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+      "title": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-      "sourceUrl": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+      "title": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies",
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Now Light\u2019s minimalist phone can easily call an Uber",
-      "sourceUrl": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+      "title": "The sexy AI-powered dating app scams are here",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Meta\u2019s new One subscriptions put a price on social media and AI",
-      "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "title": "Xreal\u2019s well-rounded 1S glasses are back down to their lowest price",
+      "sourceUrl": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Fujifilm\u2019s Instax Pal 2 is a tiny digital camera that may not disappoint",
-      "sourceUrl": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+      "title": "A brief history of AI executives calling for regulation",
+      "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune\u2019s Weave",
+      "sourceUrl": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Voicemod\u2019s new pocket-friendly device brings real-time voice changing to your phone",
-      "sourceUrl": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
+      "title": "The iPhone 18 Pro\u2019s big camera update is all about the small gains",
+      "sourceUrl": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "A 59 year-old woman with head trauma found dead at Bay Ridge Brooklyn home, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/a-59-year-old-woman-with-head-trauma-found-dead-at-bay-ridge-brooklyn-home-nypd-says",
+      "title": "Knicks fans bet big on their team. The sports betting giants lost.",
+      "sourceUrl": "https://gothamist.com/news/knicks-fans-bet-big-on-their-team-the-sports-betting-giants-lost",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "What we know so far about the Legionnaires\u2019 outbreak ahead of Bronx town hall",
-      "sourceUrl": "https://gothamist.com/news/what-we-know-so-far-about-the-legionnaires-outbreak-ahead-of-bronx-town-hall",
+      "title": "Broken valves caused a data center to spill 5K gallons of diesel in NJ's Meadowlands",
+      "sourceUrl": "https://gothamist.com/news/broken-valves-caused-a-data-center-to-spill-5k-gallons-of-diesel-in-njs-meadowlands",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Stop fishing with barbed hooks in Central Park, it's hurting the turtles",
-      "sourceUrl": "https://gothamist.com/news/early-addition-stop-fishing-with-barbed-hooks-in-central-park-its-hurting-the-turtles",
+      "title": "Early Addition: Is it too easy for NYPD officers to fake a career-ending disability and retire early?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-is-it-too-easy-for-nypd-officers-to-fake-a-career-ending-disability-and-retire-early",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani calls for crackdown on NYC's worst drivers after series of hit-and-run deaths",
-      "sourceUrl": "https://gothamist.com/news/mamdani-calls-for-crackdown-on-nycs-worst-drivers-after-series-of-hit-and-run-deaths",
+      "title": "Man charged with murder for killing his wife in their Bay Ridge home, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/man-charged-with-murder-for-killing-his-wife-in-their-bay-ridge-home-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mahmoud Khalil sues Columbia over alleged treatment of pro-Palestinian activists",
-      "sourceUrl": "https://gothamist.com/news/mahmoud-khalil-sues-columbia-over-alleged-treatment-of-pro-palestinian-activists",
+      "title": "NYC officials want to put rain gardens on top of bus stops",
+      "sourceUrl": "https://gothamist.com/news/nyc-officials-want-to-put-rain-gardens-on-top-of-bus-stops",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Satin Pants Are the Rich-Lady Alternative to Loungewear",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/satin-pants-rich-lady-loungewear-alternative/",
+      "title": "Meghan Markle's Phone Number Leaked From School Parents' Group Chat: Report",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markles-phone-number-leaked-from-group-chat-report/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "17 Throw-On-and-Go Matching Sets With Serious Rich-Mom Energy",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/throw-on-and-go-matching-sets-rich-mom-energy/",
+      "title": "Give Your Fall Wardrobe 'Rich Mom' Vibes With These 13 Plaid-Lined Trench Coats",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-plaid-lined-trench-coats-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Layla Taylor and Mayci Neeley Hint at 'Mormon Wives' Exits After Mikayla",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/layla-taylor-and-mayci-neeley-hint-at-mormon-wives-exits/",
+      "title": "Influencer James Wehr Was Driver in Deadly Crash, Pulled Over Hours Before",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/james-wehr-was-driving-during-crash-pulled-over-hours-before/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Meghan Markle Shares Sweet 42nd Birthday Tribute to Prince Harry",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markle-shares-42nd-birthday-tribute-to-prince-harry/",
+      "title": "NBC Helicopter Crashes in Los Angeles, Leaving 3 Dead: 'Lost Contact'",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/nbc-news-helicopter-crashes-in-los-angeles-leaving-3-dead/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "What You Didn\u2019t See on TV at the 2026 Emmys: PDA, Reunions and More",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/what-you-didnt-see-on-tv-at-the-2026-emmys-pda-more/",
+      "title": "James Ransone's Widow Slams Emmys for Leaving Him Out of 'In Memoriam'",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/james-ransones-widow-slams-emmys-in-memoriam-segment-snub/",
       "sourceName": "usmagazine.com"
     }
   ]
