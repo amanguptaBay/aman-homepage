@@ -1,133 +1,133 @@
 {
-  "dateLabel": "16 09 2026",
+  "dateLabel": "17 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 678.45,
-    "change": 12.85,
-    "changePercent": 1.9298,
-    "fetchedAt": "2026-09-16T15:12:36.551306+00:00"
+    "price": 674.62,
+    "change": 4.38,
+    "changePercent": 0.6535,
+    "fetchedAt": "2026-09-17T15:21:39.190412+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "OpenAI investors have approached the company about a new funding round",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+      "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "sourceUrl": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+      "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
+      "sourceUrl": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
+      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019",
+      "sourceUrl": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+      "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
+      "sourceUrl": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "The sexy AI-powered dating app scams are here",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "title": "Camp Snap\u2019s 110D gives slim retro film cameras a digital upgrade",
+      "sourceUrl": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Xreal\u2019s well-rounded 1S glasses are back down to their lowest price",
-      "sourceUrl": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
+      "title": "Your robotaxi might be a narc",
+      "sourceUrl": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "A brief history of AI executives calling for regulation",
-      "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "sourceUrl": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune\u2019s Weave",
-      "sourceUrl": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
+      "title": "AI is feared globally as the destroyer of jobs",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The iPhone 18 Pro\u2019s big camera update is all about the small gains",
-      "sourceUrl": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+      "sourceUrl": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Knicks fans bet big on their team. The sports betting giants lost.",
-      "sourceUrl": "https://gothamist.com/news/knicks-fans-bet-big-on-their-team-the-sports-betting-giants-lost",
+      "title": "How attacking data centers became smart politics for the left and right in New York",
+      "sourceUrl": "https://gothamist.com/news/how-attacking-data-centers-became-smart-politics-for-the-left-and-right-in-new-york",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Broken valves caused a data center to spill 5K gallons of diesel in NJ's Meadowlands",
-      "sourceUrl": "https://gothamist.com/news/broken-valves-caused-a-data-center-to-spill-5k-gallons-of-diesel-in-njs-meadowlands",
+      "title": "20-year-old dies after medical distress in Queens Courthouse, officials say",
+      "sourceUrl": "https://gothamist.com/news/20-year-old-dies-after-medical-distress-in-queens-courthouse-officials-say",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Is it too easy for NYPD officers to fake a career-ending disability and retire early?",
-      "sourceUrl": "https://gothamist.com/news/early-addition-is-it-too-easy-for-nypd-officers-to-fake-a-career-ending-disability-and-retire-early",
+      "title": "Staten Island dominates NYC\u2019s high school bowling scene. We witnessed why.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/staten-island-dominates-nycs-high-school-bowling-scene-we-witnessed-why",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Man charged with murder for killing his wife in their Bay Ridge home, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/man-charged-with-murder-for-killing-his-wife-in-their-bay-ridge-home-nypd-says",
+      "title": "Early Addition: New York is reportedly the second-safest state for teen drivers. Guess who's No. 1?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-new-york-is-reportedly-the-second-safest-state-for-teen-drivers-guess-whos-no-1",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC officials want to put rain gardens on top of bus stops",
-      "sourceUrl": "https://gothamist.com/news/nyc-officials-want-to-put-rain-gardens-on-top-of-bus-stops",
+      "title": "NYC pension funds make $300M affordable housing investment to help solve apartment shortage",
+      "sourceUrl": "https://gothamist.com/news/nyc-pension-funds-make-300m-affordable-housing-investment-to-help-solve-apartment-shortage",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Meghan Markle's Phone Number Leaked From School Parents' Group Chat: Report",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markles-phone-number-leaked-from-group-chat-report/",
+      "title": "Amazon Marked Down 33+ Beauty Favorites Ahead of Prime Big Deal Days \u2014 From $3",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/amazon-beauty-must-haves-prime-big-deal-days/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Give Your Fall Wardrobe 'Rich Mom' Vibes With These 13 Plaid-Lined Trench Coats",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-plaid-lined-trench-coats-amazon/",
+      "title": "Kandi Burruss Slams Ex Todd Tucker Over Claim They Regularly Had Threesomes",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kandi-burruss-slams-todd-tucker-after-he-revealed-threesomes/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Influencer James Wehr Was Driver in Deadly Crash, Pulled Over Hours Before",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/james-wehr-was-driving-during-crash-pulled-over-hours-before/",
+      "title": "Upgrade Your Fall Wardrobe With the Season's Biggest Trend: Fringe",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/western-chic-look-fringe-pieces/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "NBC Helicopter Crashes in Los Angeles, Leaving 3 Dead: 'Lost Contact'",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/nbc-news-helicopter-crashes-in-los-angeles-leaving-3-dead/",
+      "title": "James Wehr Crashed After Wet Road Created 'Hazardous Condition': Attorney",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/james-wehr-crashed-after-water-created-hazardous-condition/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "James Ransone's Widow Slams Emmys for Leaving Him Out of 'In Memoriam'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/james-ransones-widow-slams-emmys-in-memoriam-segment-snub/",
+      "title": "Hayden Panettiere's Ex Brian Hickerson Speaks Out 1 Month After Her Death",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/hayden-panettieres-ex-speaks-out-1-month-after-stars-death/",
       "sourceName": "usmagazine.com"
     }
   ]
