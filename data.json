@@ -1,133 +1,133 @@
 {
-  "dateLabel": "17 09 2026",
+  "dateLabel": "18 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 674.62,
-    "change": 4.38,
-    "changePercent": 0.6535,
-    "fetchedAt": "2026-09-17T15:21:39.190412+00:00"
+    "price": 675.03,
+    "change": 1.72,
+    "changePercent": 0.2558,
+    "fetchedAt": "2026-09-18T14:41:52.051206+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
-      "sourceUrl": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
-      "sourceUrl": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
+      "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019",
-      "sourceUrl": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+      "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
-      "sourceUrl": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
+      "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Camp Snap\u2019s 110D gives slim retro film cameras a digital upgrade",
-      "sourceUrl": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
+      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue\u2019s Pocket",
+      "sourceUrl": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Your robotaxi might be a narc",
-      "sourceUrl": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
+      "title": "Flash floods can strike without warning \u2014 this new technology could change that",
+      "sourceUrl": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "sourceUrl": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "sourceUrl": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "title": "The AI Superintelligence Slowdown",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-      "sourceUrl": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "How attacking data centers became smart politics for the left and right in New York",
-      "sourceUrl": "https://gothamist.com/news/how-attacking-data-centers-became-smart-politics-for-the-left-and-right-in-new-york",
+      "title": "NYC inches closer to creating 'land bank' for tax debts and seized properties",
+      "sourceUrl": "https://gothamist.com/news/nyc-inches-closer-to-creating-land-bank-for-tax-debts-and-seized-properties",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "20-year-old dies after medical distress in Queens Courthouse, officials say",
-      "sourceUrl": "https://gothamist.com/news/20-year-old-dies-after-medical-distress-in-queens-courthouse-officials-say",
+      "title": "Data center company that spilled fuel into the Meadowlands plans another center next door",
+      "sourceUrl": "https://gothamist.com/news/data-center-company-that-spilled-fuel-into-the-meadowlands-plans-another-center-next-door",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Staten Island dominates NYC\u2019s high school bowling scene. We witnessed why.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/staten-island-dominates-nycs-high-school-bowling-scene-we-witnessed-why",
+      "title": "Early Addition: Watch out for Jalen Brunson in 'Law & Order: SVU'",
+      "sourceUrl": "https://gothamist.com/news/early-addition-watch-out-for-jalen-brunson-in-law-order-svu",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: New York is reportedly the second-safest state for teen drivers. Guess who's No. 1?",
-      "sourceUrl": "https://gothamist.com/news/early-addition-new-york-is-reportedly-the-second-safest-state-for-teen-drivers-guess-whos-no-1",
+      "title": "$50K worth of meds stolen in serial pharmacy burglaries as NYPD searches for suspects",
+      "sourceUrl": "https://gothamist.com/news/50k-worth-of-meds-stolen-in-serial-pharmacy-burglaries-as-nypd-searches-for-suspects",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC pension funds make $300M affordable housing investment to help solve apartment shortage",
-      "sourceUrl": "https://gothamist.com/news/nyc-pension-funds-make-300m-affordable-housing-investment-to-help-solve-apartment-shortage",
+      "title": "Talking concrete and confidence with John Wilson, documentarian of oddball NYC",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/talking-concrete-and-confidence-with-john-wilson-documentarian-of-oddball-nyc",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Amazon Marked Down 33+ Beauty Favorites Ahead of Prime Big Deal Days \u2014 From $3",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/amazon-beauty-must-haves-prime-big-deal-days/",
+      "title": "Tom Cruise Says Taylor Swift Schooled Him on Football at Chiefs Game",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tom-cruise-says-taylor-swift-schooled-him-on-football/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kandi Burruss Slams Ex Todd Tucker Over Claim They Regularly Had Threesomes",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kandi-burruss-slams-todd-tucker-after-he-revealed-threesomes/",
+      "title": "Cobalt Blue Is Shaping up to Be Fall 2026\u2019s Hottest Color Trend",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/cobalt-blue-fashion-finds-fall-2026/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Upgrade Your Fall Wardrobe With the Season's Biggest Trend: Fringe",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/western-chic-look-fringe-pieces/",
+      "title": "Christine Taylor Says She Initially Dismissed Ben Stiller as a \u2018Rebound\u2019",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/christine-taylor-dismissed-ben-stiller-as-a-rebound/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "James Wehr Crashed After Wet Road Created 'Hazardous Condition': Attorney",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/james-wehr-crashed-after-water-created-hazardous-condition/",
+      "title": "Barbra Streisand Slams Trump's 'Unchecked Ego' Amid Kennedy Center Drama",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/barbra-streisand-slams-president-donald-trumps-ego/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Hayden Panettiere's Ex Brian Hickerson Speaks Out 1 Month After Her Death",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/hayden-panettieres-ex-speaks-out-1-month-after-stars-death/",
+      "title": "Kim Kardashian Reveals Health Scare Related to Death of Her Dad Robert",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kim-kardashian-shares-diagnosis-related-to-late-dad-robert/",
       "sourceName": "usmagazine.com"
     }
   ]
