@@ -1,133 +1,133 @@
 {
-  "dateLabel": "18 09 2026",
+  "dateLabel": "19 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 675.03,
-    "change": 1.72,
-    "changePercent": 0.2558,
-    "fetchedAt": "2026-09-18T14:41:52.051206+00:00"
+    "price": 665.75,
+    "change": -7.56,
+    "changePercent": -1.1228,
+    "fetchedAt": "2026-09-19T14:02:25.460063+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+      "sourceUrl": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "title": "MS NOW journalists blocked from White House after Trump bans three media outlets",
+      "sourceUrl": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+      "sourceUrl": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
+      "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+      "sourceUrl": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+      "title": "Buffett takes next step in plan to keep Berkshire from straying",
+      "sourceUrl": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue\u2019s Pocket",
-      "sourceUrl": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
+      "title": "Does AI need an antitrust exemption so it doesn\u2019t kill everyone????",
+      "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Flash floods can strike without warning \u2014 this new technology could change that",
-      "sourceUrl": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "title": "It\u2019s not just LG. Every TV company is spying on you",
+      "sourceUrl": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "sourceUrl": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "title": "The AI regulation smackdown isn\u2019t over",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The AI Superintelligence Slowdown",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "sourceUrl": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYC inches closer to creating 'land bank' for tax debts and seized properties",
-      "sourceUrl": "https://gothamist.com/news/nyc-inches-closer-to-creating-land-bank-for-tax-debts-and-seized-properties",
+      "title": "NYC Climate Week opens with an invitation to \u2018smash a data center' pi\u00f1ata",
+      "sourceUrl": "https://gothamist.com/news/nyc-climate-week-opens-with-an-invitation-to-smash-a-data-center-pi%C3%B1ata",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Data center company that spilled fuel into the Meadowlands plans another center next door",
-      "sourceUrl": "https://gothamist.com/news/data-center-company-that-spilled-fuel-into-the-meadowlands-plans-another-center-next-door",
+      "title": "15-year-old girl dies after truck hits two teens in East Village",
+      "sourceUrl": "https://gothamist.com/news/15-year-old-girl-dies-after-truck-hits-two-teens-in-east-village",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Watch out for Jalen Brunson in 'Law & Order: SVU'",
-      "sourceUrl": "https://gothamist.com/news/early-addition-watch-out-for-jalen-brunson-in-law-order-svu",
+      "title": "NYC's vintage Bus Fest returns with double-decker coach from 1918",
+      "sourceUrl": "https://gothamist.com/news/nycs-vintage-bus-fest-returns-with-double-decker-coach-from-1918",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "$50K worth of meds stolen in serial pharmacy burglaries as NYPD searches for suspects",
-      "sourceUrl": "https://gothamist.com/news/50k-worth-of-meds-stolen-in-serial-pharmacy-burglaries-as-nypd-searches-for-suspects",
+      "title": "Family of man beaten to death by NY prison guards to receive $24 million",
+      "sourceUrl": "https://gothamist.com/news/family-of-man-beaten-to-death-by-ny-prison-guards-to-receive-24-million",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Talking concrete and confidence with John Wilson, documentarian of oddball NYC",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/talking-concrete-and-confidence-with-john-wilson-documentarian-of-oddball-nyc",
+      "title": "Students sue Columbia over protest, saying guards locked them in library for hours",
+      "sourceUrl": "https://gothamist.com/news/students-sue-columbia-over-protest-saying-guards-locked-them-in-library-for-hours",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Tom Cruise Says Taylor Swift Schooled Him on Football at Chiefs Game",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tom-cruise-says-taylor-swift-schooled-him-on-football/",
+      "title": "Nick Reiner Hasn\u2019t Received \u2018Even $5\u2019 From Family Trust, Lawyers Claim",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/nick-reiner-hasnt-received-even-5-from-family-trust/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Cobalt Blue Is Shaping up to Be Fall 2026\u2019s Hottest Color Trend",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/cobalt-blue-fashion-finds-fall-2026/",
+      "title": "DWTS' Emma Slater Reveals 'Painful' Toenail Injury Sustained in Rehearsals",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-emma-slater-reveals-her-horrific-toenail-injury/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Christine Taylor Says She Initially Dismissed Ben Stiller as a \u2018Rebound\u2019",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/christine-taylor-dismissed-ben-stiller-as-a-rebound/",
+      "title": "Gwyneth Paltrow Explains Origin of Viral \u2018Conscious Uncoupling\u2019 Phrase",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/gwyneth-paltrow-explains-conscious-uncoupling-origins/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Barbra Streisand Slams Trump's 'Unchecked Ego' Amid Kennedy Center Drama",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/barbra-streisand-slams-president-donald-trumps-ego/",
+      "title": "Mature-Skin? Lisa Kudrow's $28 Red Carpet Concealer Won't Crease",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/lisa-kudrow-laura-geller-red-carpet-concealer/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kim Kardashian Reveals Health Scare Related to Death of Her Dad Robert",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kim-kardashian-shares-diagnosis-related-to-late-dad-robert/",
+      "title": "Jersey Shore\u2019s Jenni \u2018JWoww\u2019 Farley Claps Back at Weight Loss Criticism",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-body/news/jenni-jwoww-farley-claps-back-at-weight-loss-criticism/",
       "sourceName": "usmagazine.com"
     }
   ]
