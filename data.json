@@ -1,5 +1,5 @@
 {
-  "dateLabel": "19 09 2026",
+  "dateLabel": "20 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,127 +7,127 @@
     "price": 665.75,
     "change": -7.56,
     "changePercent": -1.1228,
-    "fetchedAt": "2026-09-19T14:02:25.460063+00:00"
+    "fetchedAt": "2026-09-20T14:22:48.679695+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-      "sourceUrl": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "sourceUrl": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "MS NOW journalists blocked from White House after Trump bans three media outlets",
-      "sourceUrl": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+      "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "sourceUrl": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-      "sourceUrl": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+      "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+      "sourceUrl": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-      "sourceUrl": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+      "sourceUrl": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Buffett takes next step in plan to keep Berkshire from straying",
-      "sourceUrl": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+      "title": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
+      "sourceUrl": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Does AI need an antitrust exemption so it doesn\u2019t kill everyone????",
-      "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "title": "A24\u2019s reputation is on the line with the SCP Foundation movie",
+      "sourceUrl": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "It\u2019s not just LG. Every TV company is spying on you",
-      "sourceUrl": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "title": "A great new video game movie",
+      "sourceUrl": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The AI regulation smackdown isn\u2019t over",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "title": "The hidden monopoly behind your TI graphing calculator",
+      "sourceUrl": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "sourceUrl": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "title": "All roads lead to cable",
+      "sourceUrl": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYC Climate Week opens with an invitation to \u2018smash a data center' pi\u00f1ata",
+      "title": "An ICE critic's email prompted a visit to the man's NY home. A judge says his rights were likely violated.",
+      "sourceUrl": "https://gothamist.com/news/an-ice-critics-email-prompted-a-visit-to-the-mans-ny-home-a-judge-says-his-rights-were-likely-violated",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Sorry, NYC drivers. Traffic is about to get even worse than usual.",
+      "sourceUrl": "https://gothamist.com/news/sorry-nyc-drivers-traffic-is-about-to-get-even-worse-than-usual",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "More than 80 chickens rescued from abandoned truck in Brooklyn, activists say",
+      "sourceUrl": "https://gothamist.com/news/more-than-80-chickens-rescued-from-abandoned-truck-in-brooklyn-activists-say",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "NYC Climate Week, the largest event of its kind globally, kicks off Sunday",
       "sourceUrl": "https://gothamist.com/news/nyc-climate-week-opens-with-an-invitation-to-smash-a-data-center-pi%C3%B1ata",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "15-year-old girl dies after truck hits two teens in East Village",
+      "title": "15-year-old girl dies after truck hits 2 teens in East Village",
       "sourceUrl": "https://gothamist.com/news/15-year-old-girl-dies-after-truck-hits-two-teens-in-east-village",
       "sourceName": "gothamist.com"
     },
     {
-      "category": "nyc",
-      "title": "NYC's vintage Bus Fest returns with double-decker coach from 1918",
-      "sourceUrl": "https://gothamist.com/news/nycs-vintage-bus-fest-returns-with-double-decker-coach-from-1918",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Family of man beaten to death by NY prison guards to receive $24 million",
-      "sourceUrl": "https://gothamist.com/news/family-of-man-beaten-to-death-by-ny-prison-guards-to-receive-24-million",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Students sue Columbia over protest, saying guards locked them in library for hours",
-      "sourceUrl": "https://gothamist.com/news/students-sue-columbia-over-protest-saying-guards-locked-them-in-library-for-hours",
-      "sourceName": "gothamist.com"
-    },
-    {
       "category": "celebrity",
-      "title": "Nick Reiner Hasn\u2019t Received \u2018Even $5\u2019 From Family Trust, Lawyers Claim",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/nick-reiner-hasnt-received-even-5-from-family-trust/",
+      "title": "13 Elevated Loungewear Pants That Make Plain Sweats Look Boring",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/elevated-loungewear-pants/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "DWTS' Emma Slater Reveals 'Painful' Toenail Injury Sustained in Rehearsals",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-emma-slater-reveals-her-horrific-toenail-injury/",
+      "title": "Ed Sheeran and Macklemore's 'Loop Tour' Drama Explained: What to Know",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ed-sheeran-and-macklemores-tour-controversy-explained/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Gwyneth Paltrow Explains Origin of Viral \u2018Conscious Uncoupling\u2019 Phrase",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/gwyneth-paltrow-explains-conscious-uncoupling-origins/",
+      "title": "Melissa Barrera Praises Support for Macklemore Amid Ed Sheeran Tour Drama",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/melissa-barrera-supports-macklemore-amid-ed-sheeran-drama/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Mature-Skin? Lisa Kudrow's $28 Red Carpet Concealer Won't Crease",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/lisa-kudrow-laura-geller-red-carpet-concealer/",
+      "title": "Elizabeth Banks' Rich Mom Sweater Nailed Fall 2026's Hottest Neutral Color Trend",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/elizabeth-banks-rich-mom-sweater-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jersey Shore\u2019s Jenni \u2018JWoww\u2019 Farley Claps Back at Weight Loss Criticism",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-body/news/jenni-jwoww-farley-claps-back-at-weight-loss-criticism/",
+      "title": "Ed Sheeran Makes Huge Change to 'Loop Tour' Amid Macklemore Controversy",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ed-sheeran-makes-change-to-tour-amid-macklemore-controversy/",
       "sourceName": "usmagazine.com"
     }
   ]
