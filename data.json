@@ -1,133 +1,133 @@
 {
-  "dateLabel": "20 09 2026",
+  "dateLabel": "21 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 665.75,
-    "change": -7.56,
-    "changePercent": -1.1228,
-    "fetchedAt": "2026-09-20T14:22:48.679695+00:00"
+    "price": 728.58,
+    "change": 46.27,
+    "changePercent": 6.7814,
+    "fetchedAt": "2026-09-21T16:41:30.040764+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "sourceUrl": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "title": "White House TV pool won't cover Trump after press ban: CNN",
+      "sourceUrl": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "sourceUrl": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "title": "Trump says DOJ will rein in AI 'if we have to'",
+      "sourceUrl": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-      "sourceUrl": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+      "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-      "sourceUrl": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+      "title": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
+      "sourceUrl": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
-      "sourceUrl": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
+      "title": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+      "sourceUrl": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "A24\u2019s reputation is on the line with the SCP Foundation movie",
-      "sourceUrl": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+      "title": "Bungie says it\u2019s \u2018not done with Destiny\u2019 and will bring back vaulted content",
+      "sourceUrl": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "A great new video game movie",
-      "sourceUrl": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "sourceUrl": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The hidden monopoly behind your TI graphing calculator",
-      "sourceUrl": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+      "title": "Can John Ternus find Apple\u2019s next big thing?",
+      "sourceUrl": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "title": "iPhone owners can now submit claims in Apple\u2019s $250 million Siri AI settlement",
+      "sourceUrl": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "All roads lead to cable",
-      "sourceUrl": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+      "title": "Vivo\u2019s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+      "sourceUrl": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "An ICE critic's email prompted a visit to the man's NY home. A judge says his rights were likely violated.",
-      "sourceUrl": "https://gothamist.com/news/an-ice-critics-email-prompted-a-visit-to-the-mans-ny-home-a-judge-says-his-rights-were-likely-violated",
+      "title": "Put away those scarves. New York City is in for a mild fall and winter.",
+      "sourceUrl": "https://gothamist.com/news/put-away-those-scarves-new-york-city-is-in-for-a-mild-fall-and-winter",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Sorry, NYC drivers. Traffic is about to get even worse than usual.",
-      "sourceUrl": "https://gothamist.com/news/sorry-nyc-drivers-traffic-is-about-to-get-even-worse-than-usual",
+      "title": "Early Addition: Former Council Speaker Christine Quinn is pro-Waymo",
+      "sourceUrl": "https://gothamist.com/news/early-addition-former-council-speaker-christine-quinn-is-pro-waymo",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "More than 80 chickens rescued from abandoned truck in Brooklyn, activists say",
-      "sourceUrl": "https://gothamist.com/news/more-than-80-chickens-rescued-from-abandoned-truck-in-brooklyn-activists-say",
+      "title": "Mamdani says NYC will investigate every tenant heat complaint starting this October",
+      "sourceUrl": "https://gothamist.com/news/mamdani-says-nyc-will-investigate-every-tenant-heat-complaint-starting-this-october",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC Climate Week, the largest event of its kind globally, kicks off Sunday",
-      "sourceUrl": "https://gothamist.com/news/nyc-climate-week-opens-with-an-invitation-to-smash-a-data-center-pi%C3%B1ata",
+      "title": "New York bodegas join grocery giants' push to sell wine, liquor",
+      "sourceUrl": "https://gothamist.com/news/new-york-bodegas-join-grocery-giants-push-to-sell-wine-liquor",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "15-year-old girl dies after truck hits 2 teens in East Village",
-      "sourceUrl": "https://gothamist.com/news/15-year-old-girl-dies-after-truck-hits-two-teens-in-east-village",
+      "title": "Heated legal dispute over 'hot garbage' smell in a $5,850 Midtown luxury apartment",
+      "sourceUrl": "https://gothamist.com/news/heated-legal-dispute-over-hot-garbage-smell-in-a-5850-midtown-luxury-apartment",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "13 Elevated Loungewear Pants That Make Plain Sweats Look Boring",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/elevated-loungewear-pants/",
+      "title": "This 'Rich-Feeling' Fall Top Is 'So Soft, Stretchy and Buttery' \u2014 Only $14",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/shopper-loved-sweater-top-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ed Sheeran and Macklemore's 'Loop Tour' Drama Explained: What to Know",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ed-sheeran-and-macklemores-tour-controversy-explained/",
+      "title": "22 Best Netflix Movies for Kids (September 2026): \u2018Dog Man\u2019 and More",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-kids-movies-on-netflix-right-now/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Melissa Barrera Praises Support for Macklemore Amid Ed Sheeran Tour Drama",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/melissa-barrera-supports-macklemore-amid-ed-sheeran-drama/",
+      "title": "Patrick Clancy Confirms He Is Starting a Family With New Wife Rachel Danis",
+      "sourceUrl": "https://www.usmagazine.com/crime-news/news/patrick-clancy-starting-a-family-with-new-wife-rachel-danis/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Elizabeth Banks' Rich Mom Sweater Nailed Fall 2026's Hottest Neutral Color Trend",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/elizabeth-banks-rich-mom-sweater-look-for-less/",
+      "title": "Get Katie Holmes' Sporty NYC Rich Mom Matching Set Look for $25",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/katie-holmes-rich-mom-matching-set-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ed Sheeran Makes Huge Change to 'Loop Tour' Amid Macklemore Controversy",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ed-sheeran-makes-change-to-tour-amid-macklemore-controversy/",
+      "title": "17 Throw-On Amazon Dresses With \u2018Rich Mom Running Errands\u2019 Energy",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/throw-on-and-go-rich-mom-amazon-dresses/",
       "sourceName": "usmagazine.com"
     }
   ]
