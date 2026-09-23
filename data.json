@@ -1,133 +1,133 @@
 {
-  "dateLabel": "22 09 2026",
+  "dateLabel": "23 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 747.66,
-    "change": 81.91,
-    "changePercent": 12.3034,
-    "fetchedAt": "2026-09-22T15:14:26.427537+00:00"
+    "price": 748.27,
+    "change": 7.02,
+    "changePercent": 0.9477,
+    "fetchedAt": "2026-09-23T15:13:27.401775+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-      "sourceUrl": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Watch: Trump speaks at UN General Assembly",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+      "title": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Santoli: The S&P 500 is within striking distance of record as bull relies on familiar leadership",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/santoli-the-sp-500-is-within-striking-distance-of-record-as-bull-relies-on-familiar-leadership.html",
+      "title": "McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+      "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Democrats lead the polls. Republicans lead in cash heading into the midterms",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/republicans-democrats-election-fundraising-2026.html",
+      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Xbox is barely Xbox anymore",
-      "sourceUrl": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
+      "title": "One of the best Metroid games for the Switch is 30 percent off",
+      "sourceUrl": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Xbox is merging its Forza developers into a single studio",
-      "sourceUrl": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
+      "sourceUrl": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-      "sourceUrl": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "sourceUrl": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
-      "sourceUrl": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
+      "title": "Discord will now automatically estimate your age",
+      "sourceUrl": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Beats 360 are what I\u2019d bring to the gym if I hated earbuds",
-      "sourceUrl": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
+      "title": "McDonald\u2019s is testing ads on its drive-thru menus",
+      "sourceUrl": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Nearly 200K NY home care workers to decide whether to unionize with 1199SEIU",
-      "sourceUrl": "https://gothamist.com/news/nearly-200k-ny-home-care-workers-to-decide-whether-to-unionize-with-1199seiu",
+      "title": "'Our 911 call system is vulnerable': NYC councilmember calls for changes after outage",
+      "sourceUrl": "https://gothamist.com/news/our-911-call-system-is-vulnerable-nyc-councilmember-calls-for-changes-after-outage",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Flight fiasco lingers as delays at JFK, LaGuardia and EWR persist after cable cutting incident",
-      "sourceUrl": "https://gothamist.com/news/flight-fiasco-lingers-as-delays-at-jfk-laguardia-and-ewr-persist-after-cable-cutting-incident",
+      "title": "Early Addition: Chris Christie says of course he's thinking about a 2028 presidential run",
+      "sourceUrl": "https://gothamist.com/news/early-addition-chris-christie-says-of-course-hes-thinking-about-a-2028-presidential-run",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Imagine if the Yankees win and we get another explosive diarrhea-type illness",
-      "sourceUrl": "https://gothamist.com/news/early-addition-imagine-if-the-yankees-win-and-we-get-another-explosive-diarrhea-type-illness",
+      "title": "The nor\u2019easter cometh: NYC\u2019s first week of fall ends with stormy conditions this weekend",
+      "sourceUrl": "https://gothamist.com/news/the-noreaster-cometh-nycs-first-week-of-fall-ends-with-stormy-conditions-this-weekend",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Arrests made in 2 separate Bronx teen shooting deaths, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/arrests-made-in-2-separate-bronx-teen-shooting-deaths-nypd-says",
+      "title": "NYPD detective punished for social media posts in uniform",
+      "sourceUrl": "https://gothamist.com/news/nypd-detective-punished-for-social-media-posts-in-uniform",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Bally's says its Bronx casino project is still a safe bet, amid debt concerns",
-      "sourceUrl": "https://gothamist.com/news/ballys-says-its-bronx-casino-project-is-still-a-safe-bet-amid-debt-concerns",
+      "title": "A massive MTA archive ended up in a Virginia warehouse. A Brooklyn man brought it home.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/a-massive-mta-archive-ended-up-in-a-virginia-warehouse-a-brooklyn-man-brought-it-home",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "16 Best Action Movies on Netflix Right Now (September 2026): \u2018Top Gun: Maverick\u2019 and More",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-action-movies-on-netflix-right-now/",
+      "title": "President Trump Snaps at Kaitlan Collins After CNN White House Ban",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/president-donald-trump-snaps-at-kaitlan-collins-after-cnn-ban/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Christina Applegate Shares 1st Instagram Video After Lengthy Hospitalization",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/christina-applegate-posts-1st-instagram-video-after-hospitalization/",
+      "title": "13 Designer-Inspired Purses That Make Any Fall Outfit Look So *Expensive*",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/designer-inspired-fall-purses/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These 17 French Girl-Style Blouses Are My Latest Fall Obsession, From $10",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/french-girl-style-blouses-fall-obsession/",
+      "title": "Dolly Parton's Nephew Accused of 'Threats' and 'Intimidation' by Her Manager",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/dolly-partons-nephew-accused-of-threats-and-intimidation/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Grand Jury Declines Charges in Death of Mississippi Teen Nolan Wells",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/no-criminal-charges-in-death-of-mississippi-teen-nolan-wells/",
+      "title": "Tom Cruise Says It Would Be \u2018Amazing to Work\u2019 With Taylor Swift on \u2018Anything\u2019",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/tom-cruise-says-itd-be-amazing-to-work-with-taylor-swift/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Mormon Wives' Mikayla Matthews Won't Return Despite Taylor's Apparent Exit",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mormon-wives-mikayla-wont-return-amid-taylor-paul-exit/",
+      "title": "Taylor Swift's 'Patient Zero' Cover Art Attracts Fan Photoshop Claims",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/taylor-swifts-patient-zero-cover-attracts-photoshop-claims/",
       "sourceName": "usmagazine.com"
     }
   ]
