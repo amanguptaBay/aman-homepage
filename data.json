@@ -1,133 +1,133 @@
 {
-  "dateLabel": "24 09 2026",
+  "dateLabel": "25 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 766.36,
-    "change": 29.76,
-    "changePercent": 4.0402,
-    "fetchedAt": "2026-09-24T15:35:10.941322+00:00"
+    "price": 748.41,
+    "change": 4.31,
+    "changePercent": 0.5799,
+    "fetchedAt": "2026-09-25T15:39:02.224568+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
-      "sourceUrl": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Oracle sends 'force majeure' notice about data center project \u2014 stock sinks 5%",
-      "sourceUrl": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "White House still blocks some reporters despite judge's order lifting Trump ban",
-      "sourceUrl": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
+      "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+      "sourceUrl": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Big business warns Trump against diesel export ban in joint letter",
-      "sourceUrl": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "sourceUrl": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "title": "Airlines waive flight-change fees ahead of nor'easter",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
-      "sourceUrl": "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter",
+      "title": "Cricut\u2019s new compact crafter prints, cuts, and laminates stickers",
+      "sourceUrl": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Why can\u2019t we just keep rogue AIs off the internet?",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "title": "Gaming\u2019s biggest horror series are more vital than ever",
+      "sourceUrl": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google is sending an AI satellite into space next week",
-      "sourceUrl": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
+      "sourceUrl": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The vibes are bad for Flock in Washington",
-      "sourceUrl": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "title": "Insta360 conquered 360 cameras \u2014 now it\u2019s eyeing glasses",
+      "sourceUrl": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "I have some questions for Mark Zuckerberg",
-      "sourceUrl": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
+      "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "The bodega bathrooms of NYC: An experienced user\u2019s guide",
-      "sourceUrl": "https://gothamist.com/news/the-bodega-bathrooms-of-nyc-an-experienced-users-guide",
+      "title": "Slower Citi Bike speed limit means higher costs for riders and more cash for Lyft",
+      "sourceUrl": "https://gothamist.com/news/slower-citi-bike-speed-limit-means-higher-costs-for-riders-and-more-cash-for-lyft",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: The hot NYC reality show where nothing too dramatic happens",
-      "sourceUrl": "https://gothamist.com/news/early-addition-the-hot-nyc-reality-show-where-nothing-too-dramatic-happens",
+      "title": "Stronger-than-expected nor\u2019easter barrels toward NYC: Flooding and wild winds possible",
+      "sourceUrl": "https://gothamist.com/news/stronger-than-expected-noreaster-barrels-toward-nyc-flooding-and-wild-winds-possible",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Tests confirmed live Legionella at 7 South Bronx sites amid Legionnaires' outbreak",
-      "sourceUrl": "https://gothamist.com/news/tests-confirmed-live-legionella-at-7-south-bronx-sites-amid-legionnaires-outbreak",
+      "title": "Early Addition: The three days in April that ruined NJ's apple-picking season",
+      "sourceUrl": "https://gothamist.com/news/early-addition-the-three-days-in-april-that-ruined-njs-apple-picking-season",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Congestion pricing funds $5 million program for overnight truck deliveries in NYC",
-      "sourceUrl": "https://gothamist.com/news/congestion-pricing-funds-5-million-program-for-overnight-truck-deliveries-in-manhattan",
+      "title": "There are 100s of places to visit during Open House New York. Here's 5 of our favorites.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/there-are-100s-of-places-to-visit-during-open-house-new-york-heres-5-of-our-favorites",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC braces for protests, street closures as Netanyahu speaks at the UN",
-      "sourceUrl": "https://gothamist.com/news/nyc-braces-for-protests-street-closures-as-netanyahu-speaks-at-the-un",
+      "title": "How Trump's trade war with Canada is squeezing a farm cidery in Albany",
+      "sourceUrl": "https://gothamist.com/news/how-trumps-trade-war-with-canada-is-squeezing-a-farm-cidery-in-albany",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "17 Flowy Fall Tops That Will Make You Retire Your Bodysuit Collection",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/flowy-tops-replace-bodysuits-fall-amazon/",
+      "title": "Sarah Jane Nader, Catherine Zeta-Jones, Dakota Johnson and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Lindsey Vonn Goes Instagram Official With French Skier Matthieu Bailet",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/lindsey-vonn-goes-official-with-french-skier-matthieu-bailet/",
+      "title": "Psst! These Amazon Fall Pieces Look Very 'Reformation' (All Under $55!)",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/amazon-fall-pieces-reformation-inspired/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Amazon Is a Hidden Gem for Tummy-Control Fall Dresses \u2014 Our 17 Favorites",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/tummy-control-fall-dresses-amazon/",
+      "title": "Ben Affleck Reveals How His Kids Roasted Him Over His Dating History",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/ben-affleck-reveals-how-kids-roasted-him-over-dating-history/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ryan Murphy Says He Has Written a Script for a 'Glee' Revival",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ryan-murphy-has-written-a-script-for-a-glee-reboot/",
+      "title": "13 \u2018Corporate Cool\u2019 Amazon Finds to Give Your Workwear a Fall Refresh",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/corporate-cool-fall-rich-mom-finds-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Influencer Clavicular's Biggest Scandals and Controversies",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/influencer-claviculars-biggest-scandals-and-controversies/",
+      "title": "Milania Giudice Receiving Professional Care After Troubling Airport Video",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/milania-giudice-receiving-professional-care-amid-airport-video/",
       "sourceName": "usmagazine.com"
     }
   ]
