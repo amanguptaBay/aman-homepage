@@ -1,133 +1,133 @@
 {
-  "dateLabel": "25 09 2026",
+  "dateLabel": "26 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 748.41,
-    "change": 4.31,
-    "changePercent": 0.5799,
-    "fetchedAt": "2026-09-25T15:39:02.224568+00:00"
+    "price": 751.66,
+    "change": 7.56,
+    "changePercent": 1.016,
+    "fetchedAt": "2026-09-26T14:48:27.434144+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "sourceUrl": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-      "sourceUrl": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "Airlines waive flight-change fees ahead of nor'easter",
+      "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
       "sourceUrl": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
       "sourceName": "cnbc.com"
     },
     {
+      "category": "business",
+      "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+      "sourceUrl": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "sourceName": "cnbc.com"
+    },
+    {
       "category": "tech",
-      "title": "Cricut\u2019s new compact crafter prints, cuts, and laminates stickers",
-      "sourceUrl": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "sourceUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Gaming\u2019s biggest horror series are more vital than ever",
-      "sourceUrl": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+      "title": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything",
+      "sourceUrl": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
-      "sourceUrl": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "title": "Pok\u00e9mon card resellers have turned collecting into an online blood sport",
+      "sourceUrl": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Insta360 conquered 360 cameras \u2014 now it\u2019s eyeing glasses",
-      "sourceUrl": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+      "title": "Can \u2018eSUV\u2019 e-bikes really go from trail to town?",
+      "sourceUrl": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
-      "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "title": "Roku\u2019s first OLED TVs are up to $400 off, starting at $699",
+      "sourceUrl": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Slower Citi Bike speed limit means higher costs for riders and more cash for Lyft",
-      "sourceUrl": "https://gothamist.com/news/slower-citi-bike-speed-limit-means-higher-costs-for-riders-and-more-cash-for-lyft",
+      "title": "Ever wish you could get paid to walk through a stranger\u2019s house? \u2018The Scout\u2019 is for you.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/ever-wish-you-could-get-paid-to-walk-through-a-strangers-house-the-scout-is-for-you",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Stronger-than-expected nor\u2019easter barrels toward NYC: Flooding and wild winds possible",
-      "sourceUrl": "https://gothamist.com/news/stronger-than-expected-noreaster-barrels-toward-nyc-flooding-and-wild-winds-possible",
+      "title": "NYC braces for two days of rain and wind as coastal flooding threat grows",
+      "sourceUrl": "https://gothamist.com/news/nyc-braces-for-two-days-of-rain-and-wind-as-coastal-flooding-threat-grows",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: The three days in April that ruined NJ's apple-picking season",
-      "sourceUrl": "https://gothamist.com/news/early-addition-the-three-days-in-april-that-ruined-njs-apple-picking-season",
+      "title": "Flooding in Westchester? The county executive has been there before.",
+      "sourceUrl": "https://gothamist.com/news/flooding-in-westchester-the-county-executive-has-been-there-before",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "There are 100s of places to visit during Open House New York. Here's 5 of our favorites.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/there-are-100s-of-places-to-visit-during-open-house-new-york-heres-5-of-our-favorites",
+      "title": "Dangerous storm forecast cancels Global Citizen, All Things Go, major NYC events",
+      "sourceUrl": "https://gothamist.com/news/dangerous-storm-forecast-cancels-global-citizen-all-things-go-major-nyc-events",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "How Trump's trade war with Canada is squeezing a farm cidery in Albany",
-      "sourceUrl": "https://gothamist.com/news/how-trumps-trade-war-with-canada-is-squeezing-a-farm-cidery-in-albany",
+      "title": "Oversight board finds pattern of lax supervision in 4 Rikers deaths",
+      "sourceUrl": "https://gothamist.com/news/oversight-board-finds-pattern-of-lax-supervision-in-4-rikers-deaths",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Sarah Jane Nader, Catherine Zeta-Jones, Dakota Johnson and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "Bye, Frumpy Loungewear! Fashion-Forward Two-Piece Sets From $7",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-mom-matching-loungewear-sets-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Psst! These Amazon Fall Pieces Look Very 'Reformation' (All Under $55!)",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/amazon-fall-pieces-reformation-inspired/",
+      "title": "Kim Kardashian Packs on the PDA with Lewis Hamilton Under the Eiffel Tower",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kim-kardashian-packs-on-the-pda-with-lewis-hamilton-in-paris/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ben Affleck Reveals How His Kids Roasted Him Over His Dating History",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/ben-affleck-reveals-how-kids-roasted-him-over-dating-history/",
+      "title": "MLB\u2019s Justin Verlander and Kate Upton Enjoy Rare Family Outing With 2 Kids",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/justin-verlander-and-kate-upton-enjoy-rare-family-outing/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "13 \u2018Corporate Cool\u2019 Amazon Finds to Give Your Workwear a Fall Refresh",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/corporate-cool-fall-rich-mom-finds-amazon/",
+      "title": "Prince Harry Reveals How Meghan Markle Reacted to His Skydiving Challenge",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/how-meghan-markle-reacted-to-prince-harrys-skydiving-stunt/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Milania Giudice Receiving Professional Care After Troubling Airport Video",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/milania-giudice-receiving-professional-care-amid-airport-video/",
+      "title": "Presley Gerber's Best Friend Breaks Silence on His Death in Touching Tribute",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/presley-gerbers-best-friend-breaks-silence-on-his-death/",
       "sourceName": "usmagazine.com"
     }
   ]
