@@ -1,5 +1,5 @@
 {
-  "dateLabel": "26 09 2026",
+  "dateLabel": "27 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,68 +7,86 @@
     "price": 751.66,
     "change": 7.56,
     "changePercent": 1.016,
-    "fetchedAt": "2026-09-26T14:48:27.434144+00:00"
+    "fetchedAt": "2026-09-27T15:26:51.793650+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "sourceUrl": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "sourceUrl": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+      "sourceUrl": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+      "sourceUrl": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-      "sourceUrl": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "sourceUrl": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "sourceUrl": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "sourceUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "title": "Why OLPC\u2019s $100 laptop never stood a chance",
+      "sourceUrl": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything",
-      "sourceUrl": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+      "title": "Googlebooks might be the real deal",
+      "sourceUrl": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Pok\u00e9mon card resellers have turned collecting into an online blood sport",
-      "sourceUrl": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+      "title": "The smart home graveyard is getting crowded",
+      "sourceUrl": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Can \u2018eSUV\u2019 e-bikes really go from trail to town?",
-      "sourceUrl": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "sourceUrl": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Roku\u2019s first OLED TVs are up to $400 off, starting at $699",
-      "sourceUrl": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "title": "Decap is the man behind the drums behind your favorite song",
+      "sourceUrl": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
       "sourceName": "theverge.com"
+    },
+    {
+      "category": "nyc",
+      "title": "The NY Liberty head back to the playoffs today. Catch up on what you missed.",
+      "sourceUrl": "https://gothamist.com/news/the-ny-liberty-head-back-to-the-playoffs-today-catch-up-on-what-you-missed",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Kean and Bennett face off in high-stakes NJ midterm debate Sunday night",
+      "sourceUrl": "https://gothamist.com/news/kean-and-bennett-face-off-in-high-stakes-nj-midterm-debate-sunday-night",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Man killed by falling tree in Brooklyn, NYC responds to hundreds of tree damage reports",
+      "sourceUrl": "https://gothamist.com/news/man-killed-by-falling-tree-in-brooklyn-nyc-responds-to-hundreds-of-tree-damage-reports",
+      "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
@@ -78,56 +96,38 @@
     },
     {
       "category": "nyc",
-      "title": "NYC braces for two days of rain and wind as coastal flooding threat grows",
+      "title": "Nor'easter brings power outages, flooding, damage to NYC region",
       "sourceUrl": "https://gothamist.com/news/nyc-braces-for-two-days-of-rain-and-wind-as-coastal-flooding-threat-grows",
       "sourceName": "gothamist.com"
     },
     {
-      "category": "nyc",
-      "title": "Flooding in Westchester? The county executive has been there before.",
-      "sourceUrl": "https://gothamist.com/news/flooding-in-westchester-the-county-executive-has-been-there-before",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Dangerous storm forecast cancels Global Citizen, All Things Go, major NYC events",
-      "sourceUrl": "https://gothamist.com/news/dangerous-storm-forecast-cancels-global-citizen-all-things-go-major-nyc-events",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Oversight board finds pattern of lax supervision in 4 Rikers deaths",
-      "sourceUrl": "https://gothamist.com/news/oversight-board-finds-pattern-of-lax-supervision-in-4-rikers-deaths",
-      "sourceName": "gothamist.com"
-    },
-    {
       "category": "celebrity",
-      "title": "Bye, Frumpy Loungewear! Fashion-Forward Two-Piece Sets From $7",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-mom-matching-loungewear-sets-amazon/",
+      "title": "These 13 Walmart Fashion Finds Look So Much Like Zara, But Start at $7",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/zara-style-fashion-finds-from-walmart/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kim Kardashian Packs on the PDA with Lewis Hamilton Under the Eiffel Tower",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kim-kardashian-packs-on-the-pda-with-lewis-hamilton-in-paris/",
+      "title": "Karl-Anthony Towns Pokes Fun at NBA Finals Fouls as Knicks Crash \u2018SNL\u2019",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/knicks-karl-anthony-towns-pokes-fun-at-nba-finals-fouls-on-snl/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "MLB\u2019s Justin Verlander and Kate Upton Enjoy Rare Family Outing With 2 Kids",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/justin-verlander-and-kate-upton-enjoy-rare-family-outing/",
+      "title": "Rebecca Gayheart Shares Update on Daughters 7 Months After Eric Dane\u2019s Death",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/rebecca-gayheart-gives-update-on-kids-after-eric-dane-death/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Prince Harry Reveals How Meghan Markle Reacted to His Skydiving Challenge",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/how-meghan-markle-reacted-to-prince-harrys-skydiving-stunt/",
+      "title": "Rihanna Shares Rare, Never-Before-Seen Photos and Video of Baby Rocki",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/rihanna-shares-rare-photos-and-video-of-baby-rocki/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Presley Gerber's Best Friend Breaks Silence on His Death in Touching Tribute",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/presley-gerbers-best-friend-breaks-silence-on-his-death/",
+      "title": "Theranos Founder Elizabeth Holmes\u2019 'Health and Safety' Post Gets Backlash",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/elizabeth-holmes-faces-backlash-for-health-and-safety-post/",
       "sourceName": "usmagazine.com"
     }
   ]
