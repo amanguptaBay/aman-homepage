@@ -1,134 +1,104 @@
 {
-  "dateLabel": "27 09 2026",
+  "dateLabel": "28 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 751.66,
-    "change": 7.56,
-    "changePercent": 1.016,
-    "fetchedAt": "2026-09-27T15:26:51.793650+00:00"
+    "price": 721.6,
+    "change": -55.99,
+    "changePercent": -7.2005,
+    "fetchedAt": "2026-09-28T18:18:20.474948+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "sourceUrl": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "sourceUrl": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-      "sourceUrl": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+      "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+      "sourceUrl": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Wall Street money takes back over from small investors as driving force of the stock market",
-      "sourceUrl": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+      "title": "Trump to announce plan for $15 billion steel plant, would be largest in U.S. history",
+      "sourceUrl": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-      "sourceUrl": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+      "sourceUrl": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-      "sourceUrl": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "sourceUrl": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Why OLPC\u2019s $100 laptop never stood a chance",
-      "sourceUrl": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Googlebooks might be the real deal",
-      "sourceUrl": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The smart home graveyard is getting crowded",
-      "sourceUrl": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+      "title": "Walmart won\u2019t hike prices based on your shopping history, CEO says",
+      "sourceUrl": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "sourceUrl": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
+      "sourceUrl": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "sourceUrl": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+      "title": "Dreame\u2019s step-climbing X50 Ultra mopping vacuum is hundreds off",
+      "sourceUrl": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "The NY Liberty head back to the playoffs today. Catch up on what you missed.",
-      "sourceUrl": "https://gothamist.com/news/the-ny-liberty-head-back-to-the-playoffs-today-catch-up-on-what-you-missed",
+      "title": "NYC nor\u2019easter dries up after weather service reports minor flooding",
+      "sourceUrl": "https://gothamist.com/news/nyc-noreaster-dries-up-after-weather-service-reports-minor-flooding",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Kean and Bennett face off in high-stakes NJ midterm debate Sunday night",
-      "sourceUrl": "https://gothamist.com/news/kean-and-bennett-face-off-in-high-stakes-nj-midterm-debate-sunday-night",
+      "title": "Plans are looking up for sky-high apartment project by Brooklyn Bridge",
+      "sourceUrl": "https://gothamist.com/news/plans-are-looking-up-for-sky-high-apartment-project-by-brooklyn-bridge",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Man killed by falling tree in Brooklyn, NYC responds to hundreds of tree damage reports",
-      "sourceUrl": "https://gothamist.com/news/man-killed-by-falling-tree-in-brooklyn-nyc-responds-to-hundreds-of-tree-damage-reports",
+      "title": "Early Addition: Remember that sunset?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-remember-that-sunset",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Ever wish you could get paid to walk through a stranger\u2019s house? \u2018The Scout\u2019 is for you.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/ever-wish-you-could-get-paid-to-walk-through-a-strangers-house-the-scout-is-for-you",
+      "title": "NYPD investigates after a woman was found dead in Central Park",
+      "sourceUrl": "https://gothamist.com/news/nypd-investigates-after-a-woman-was-found-dead-in-central-park",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Nor'easter brings power outages, flooding, damage to NYC region",
-      "sourceUrl": "https://gothamist.com/news/nyc-braces-for-two-days-of-rain-and-wind-as-coastal-flooding-threat-grows",
+      "title": "NYC childcare providers say city contract rates fall $12.6K short per child",
+      "sourceUrl": "https://gothamist.com/news/nyc-childcare-providers-say-city-contracts-fall-126k-short-per-child",
       "sourceName": "gothamist.com"
-    },
-    {
-      "category": "celebrity",
-      "title": "These 13 Walmart Fashion Finds Look So Much Like Zara, But Start at $7",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/zara-style-fashion-finds-from-walmart/",
-      "sourceName": "usmagazine.com"
-    },
-    {
-      "category": "celebrity",
-      "title": "Karl-Anthony Towns Pokes Fun at NBA Finals Fouls as Knicks Crash \u2018SNL\u2019",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/knicks-karl-anthony-towns-pokes-fun-at-nba-finals-fouls-on-snl/",
-      "sourceName": "usmagazine.com"
-    },
-    {
-      "category": "celebrity",
-      "title": "Rebecca Gayheart Shares Update on Daughters 7 Months After Eric Dane\u2019s Death",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/rebecca-gayheart-gives-update-on-kids-after-eric-dane-death/",
-      "sourceName": "usmagazine.com"
-    },
-    {
-      "category": "celebrity",
-      "title": "Rihanna Shares Rare, Never-Before-Seen Photos and Video of Baby Rocki",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/rihanna-shares-rare-photos-and-video-of-baby-rocki/",
-      "sourceName": "usmagazine.com"
-    },
-    {
-      "category": "celebrity",
-      "title": "Theranos Founder Elizabeth Holmes\u2019 'Health and Safety' Post Gets Backlash",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/elizabeth-holmes-faces-backlash-for-health-and-safety-post/",
-      "sourceName": "usmagazine.com"
     }
   ]
 }
