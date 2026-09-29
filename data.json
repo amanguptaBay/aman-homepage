@@ -1,104 +1,134 @@
 {
-  "dateLabel": "28 09 2026",
+  "dateLabel": "29 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 721.6,
-    "change": -55.99,
-    "changePercent": -7.2005,
-    "fetchedAt": "2026-09-28T18:18:20.474948+00:00"
+    "price": 718.86,
+    "change": -32.8,
+    "changePercent": -4.3637,
+    "fetchedAt": "2026-09-29T16:41:18.441576+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Nvidia share buyback plan gets $150 billion boost",
-      "sourceUrl": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
+      "sourceUrl": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
-      "sourceUrl": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+      "title": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
+      "sourceUrl": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump to announce plan for $15 billion steel plant, would be largest in U.S. history",
-      "sourceUrl": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+      "title": "Education Department extends deadline for student loan interest rate discount",
+      "sourceUrl": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
-      "sourceUrl": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+      "sourceUrl": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-      "sourceUrl": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
+      "sourceUrl": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "title": "Xbox\u2019s Mythic Achievements are here and they\u2019re just like PlayStation Platinum trophies",
+      "sourceUrl": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "title": "Apple\u2019s new CEO could change when it launches phones and laptops",
+      "sourceUrl": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Walmart won\u2019t hike prices based on your shopping history, CEO says",
-      "sourceUrl": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-      "sourceUrl": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
+      "title": "This might be our first look at Google\u2019s Pixel 11A",
+      "sourceUrl": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Dreame\u2019s step-climbing X50 Ultra mopping vacuum is hundreds off",
-      "sourceUrl": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+      "title": "Leaked images reveal new colors for Amazon\u2019s next entry-level Kindle",
+      "sourceUrl": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYC nor\u2019easter dries up after weather service reports minor flooding",
-      "sourceUrl": "https://gothamist.com/news/nyc-noreaster-dries-up-after-weather-service-reports-minor-flooding",
+      "title": "Mamdani opts not to define antisemitism in report to combat Jewish hate crimes",
+      "sourceUrl": "https://gothamist.com/news/mamdani-opts-not-to-define-antisemitism-in-report-to-combat-jewish-hate-crimes",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Plans are looking up for sky-high apartment project by Brooklyn Bridge",
-      "sourceUrl": "https://gothamist.com/news/plans-are-looking-up-for-sky-high-apartment-project-by-brooklyn-bridge",
+      "title": "Immanuel Wilkins is upholding NYC's jazz history. He's also dreaming up its future.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/immanuel-wilkins-is-upholding-nycs-jazz-history-hes-also-dreaming-up-its-future",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Remember that sunset?",
-      "sourceUrl": "https://gothamist.com/news/early-addition-remember-that-sunset",
+      "title": "Police are still investigating bike crash that killed dad of 2 in Central Park",
+      "sourceUrl": "https://gothamist.com/news/police-are-still-investigating-bike-crash-that-killed-dad-of-2-in-central-park",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD investigates after a woman was found dead in Central Park",
-      "sourceUrl": "https://gothamist.com/news/nypd-investigates-after-a-woman-was-found-dead-in-central-park",
+      "title": "NYC has a plan to stop homeless people from cycling between hospitals and the streets",
+      "sourceUrl": "https://gothamist.com/news/nyc-has-a-plan-to-stop-homeless-people-from-cycling-between-hospitals-and-the-streets",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC childcare providers say city contract rates fall $12.6K short per child",
-      "sourceUrl": "https://gothamist.com/news/nyc-childcare-providers-say-city-contracts-fall-126k-short-per-child",
+      "title": "Early Addition: Billy Joel is auctioning off 70 of his motorcycles",
+      "sourceUrl": "https://gothamist.com/news/early-addition-billy-joel-is-auctioning-off-70-of-his-motorcycles",
       "sourceName": "gothamist.com"
+    },
+    {
+      "category": "celebrity",
+      "title": "Tom Cruise, Kendall Jenner, Sylvester Stallone and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "sourceName": "usmagazine.com"
+    },
+    {
+      "category": "celebrity",
+      "title": "'Tulsa King' Star Hints at Shocking Character Disappearances in Season 4",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tulsa-kings-neal-mcdonough-hints-at-shocking-character-absences/",
+      "sourceName": "usmagazine.com"
+    },
+    {
+      "category": "celebrity",
+      "title": "It's Still Too Warm for Sweaters \u2014 I'm Wearing This Cool-Girl Shirt Style Instead",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/striped-long-sleeve-shirts-elevated-fall-wardrobe/",
+      "sourceName": "usmagazine.com"
+    },
+    {
+      "category": "celebrity",
+      "title": "Penn Badgley's Wife Addresses Rumors She Told Him to Stop Doing Sex Scenes",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/penn-badgleys-wife-addresses-why-he-stopped-doing-sex-scenes/",
+      "sourceName": "usmagazine.com"
+    },
+    {
+      "category": "celebrity",
+      "title": "5 Best 3-Hour Movies Ever, Ranked",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/5-best-3-hour-movies-ever-made-ranked/",
+      "sourceName": "usmagazine.com"
     }
   ]
 }
