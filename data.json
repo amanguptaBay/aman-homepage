@@ -1,133 +1,133 @@
 {
-  "dateLabel": "29 09 2026",
+  "dateLabel": "30 09 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 718.86,
-    "change": -32.8,
-    "changePercent": -4.3637,
-    "fetchedAt": "2026-09-29T16:41:18.441576+00:00"
+    "price": 737.01,
+    "change": 21.39,
+    "changePercent": 2.9897,
+    "fetchedAt": "2026-09-30T16:32:53.765989+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
+      "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Education Department extends deadline for student loan interest rate discount",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
+      "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Xbox\u2019s Mythic Achievements are here and they\u2019re just like PlayStation Platinum trophies",
-      "sourceUrl": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+      "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
+      "sourceUrl": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s new CEO could change when it launches phones and laptops",
-      "sourceUrl": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+      "title": "The Halide camera app now offers full control of the iPhone 18 Pro\u2019s aperture",
+      "sourceUrl": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "This might be our first look at Google\u2019s Pixel 11A",
-      "sourceUrl": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "sourceUrl": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Leaked images reveal new colors for Amazon\u2019s next entry-level Kindle",
-      "sourceUrl": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
+      "title": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
+      "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani opts not to define antisemitism in report to combat Jewish hate crimes",
-      "sourceUrl": "https://gothamist.com/news/mamdani-opts-not-to-define-antisemitism-in-report-to-combat-jewish-hate-crimes",
+      "title": "What Trump's Title IX rollback means for LGBTQ+ students in New York",
+      "sourceUrl": "https://gothamist.com/news/what-trumps-title-ix-rollback-means-for-lgbtq-students-in-new-york",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Immanuel Wilkins is upholding NYC's jazz history. He's also dreaming up its future.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/immanuel-wilkins-is-upholding-nycs-jazz-history-hes-also-dreaming-up-its-future",
+      "title": "At the Museum at FIT, an argument for dolls as the ultimate fashion influencers",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/at-the-museum-at-fit-an-argument-for-dolls-as-the-ultimate-fashion-influencers",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Police are still investigating bike crash that killed dad of 2 in Central Park",
-      "sourceUrl": "https://gothamist.com/news/police-are-still-investigating-bike-crash-that-killed-dad-of-2-in-central-park",
+      "title": "Early Addition: Pedicabs keep blasting 'Empire State of Mind' outside Broadway theaters during the show",
+      "sourceUrl": "https://gothamist.com/news/early-addition-pedicabs-keep-blasting-empire-state-of-mind-outside-broadway-theaters-during-the-show",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC has a plan to stop homeless people from cycling between hospitals and the streets",
-      "sourceUrl": "https://gothamist.com/news/nyc-has-a-plan-to-stop-homeless-people-from-cycling-between-hospitals-and-the-streets",
+      "title": "LES stabbing sends 3 men to the hospital as NYPD search for the top hat-wearing suspect",
+      "sourceUrl": "https://gothamist.com/news/a-les-stabbing-sends-3-men-to-the-hospital-as-nypd-search-for-the-top-hat-wearing-suspect",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Billy Joel is auctioning off 70 of his motorcycles",
-      "sourceUrl": "https://gothamist.com/news/early-addition-billy-joel-is-auctioning-off-70-of-his-motorcycles",
+      "title": "The end nears for Jake's Dilemma. What about other Upper West Side shops?",
+      "sourceUrl": "https://gothamist.com/news/the-end-nears-for-jakes-dilemma-what-about-other-upper-west-side-shops",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Tom Cruise, Kendall Jenner, Sylvester Stallone and More!",
+      "title": "Jeremy Allen White, Jennifer Lawrence, Sam Asghari and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'Tulsa King' Star Hints at Shocking Character Disappearances in Season 4",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tulsa-kings-neal-mcdonough-hints-at-shocking-character-absences/",
+      "title": "Rob Lowe's Family Guide: Meet Wife Sheryl, 2 Sons, Brother Chad Lowe",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/pictures/rob-lowes-family-guide-wife-sheryl-berkoff-2-sons/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "It's Still Too Warm for Sweaters \u2014 I'm Wearing This Cool-Girl Shirt Style Instead",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/striped-long-sleeve-shirts-elevated-fall-wardrobe/",
+      "title": "These 17 Expensive-Looking Fall Pieces Are So Chic for Women Over 50",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-fall-fashion-finds-women-over-50/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Penn Badgley's Wife Addresses Rumors She Told Him to Stop Doing Sex Scenes",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/penn-badgleys-wife-addresses-why-he-stopped-doing-sex-scenes/",
+      "title": "33 Best Stand-Up Specials on Netflix Right Now (September 2026): \u2018Uncle Stav\u2019 and More",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-stand-up-specials-on-netflix-right-now/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "5 Best 3-Hour Movies Ever, Ranked",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/5-best-3-hour-movies-ever-made-ranked/",
+      "title": "Walmart\u2019s October Sale Is Coming \u2014 But These Fashion Deals Are up to 77% Off Now",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/it-girl-fashion-walmart-deals-and-more-sale/",
       "sourceName": "usmagazine.com"
     }
   ]
