@@ -1,133 +1,133 @@
 {
-  "dateLabel": "30 09 2026",
+  "dateLabel": "01 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 737.01,
-    "change": 21.39,
-    "changePercent": 2.9897,
-    "fetchedAt": "2026-09-30T16:32:53.765989+00:00"
+    "price": 727.86,
+    "change": -10.93,
+    "changePercent": -1.4794,
+    "fetchedAt": "2026-10-01T17:10:46.441894+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "title": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
+      "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+      "title": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+      "title": "Nike is set to report earnings after the bell. Here's what to expect",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
-      "sourceUrl": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+      "title": "Sony brings AI graphics upscaling to the regular PS5",
+      "sourceUrl": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Halide camera app now offers full control of the iPhone 18 Pro\u2019s aperture",
-      "sourceUrl": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+      "title": "Can VR glasses save VR?",
+      "sourceUrl": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "title": "Microsoft\u2019s Office and Teams chief is leaving",
+      "sourceUrl": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "sourceUrl": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "title": "Inside Microsoft\u2019s big Copilot rethink",
+      "sourceUrl": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
-      "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "title": "NYC is now the first city in America that bans sketchy subscriptions",
+      "sourceUrl": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "What Trump's Title IX rollback means for LGBTQ+ students in New York",
-      "sourceUrl": "https://gothamist.com/news/what-trumps-title-ix-rollback-means-for-lgbtq-students-in-new-york",
+      "title": "In the mood for a pastoral autumn experience? Try Queens.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/in-the-mood-for-a-pastoral-autumn-experience-try-queens",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "At the Museum at FIT, an argument for dolls as the ultimate fashion influencers",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/at-the-museum-at-fit-an-argument-for-dolls-as-the-ultimate-fashion-influencers",
+      "title": "NYPD arrests 25-year-old who stabbed a man to death on the J train",
+      "sourceUrl": "https://gothamist.com/news/nypd-arrest-25-year-old-who-stabbed-a-man-to-death-on-the-j-train",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Pedicabs keep blasting 'Empire State of Mind' outside Broadway theaters during the show",
-      "sourceUrl": "https://gothamist.com/news/early-addition-pedicabs-keep-blasting-empire-state-of-mind-outside-broadway-theaters-during-the-show",
+      "title": "Judge orders psych evaluation for man accused of killing woman in Central Park",
+      "sourceUrl": "https://gothamist.com/news/judge-orders-psych-evaluation-for-man-accused-of-killing-woman-in-central-park",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "LES stabbing sends 3 men to the hospital as NYPD search for the top hat-wearing suspect",
-      "sourceUrl": "https://gothamist.com/news/a-les-stabbing-sends-3-men-to-the-hospital-as-nypd-search-for-the-top-hat-wearing-suspect",
+      "title": "Landslide or nailbiter? For House hopefuls, NY Gov. Hochul\u2019s margin matters",
+      "sourceUrl": "https://gothamist.com/news/landslide-or-nailbiter-for-house-hopefuls-ny-gov-hochuls-margin-matters",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "The end nears for Jake's Dilemma. What about other Upper West Side shops?",
-      "sourceUrl": "https://gothamist.com/news/the-end-nears-for-jakes-dilemma-what-about-other-upper-west-side-shops",
+      "title": "October is spooky season at the movies in New York City",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/october-is-spooky-season-at-the-movies-in-new-york-city",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Jeremy Allen White, Jennifer Lawrence, Sam Asghari and More!",
+      "title": "Florence Pugh, Jennifer Lopez, Busy Philipps and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Rob Lowe's Family Guide: Meet Wife Sheryl, 2 Sons, Brother Chad Lowe",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/pictures/rob-lowes-family-guide-wife-sheryl-berkoff-2-sons/",
+      "title": "What's New on Hulu and Disney+ in October 2026 \u2014 The Full List of Movies and Shows",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/whats-new-on-hulu-and-disney-in-october-2026/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These 17 Expensive-Looking Fall Pieces Are So Chic for Women Over 50",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-fall-fashion-finds-women-over-50/",
+      "title": "RHOSLC's Mary Cosby Explains Why She Returned After Son Robert Jr.'s Death",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/why-mary-cosby-returned-to-rhoslc-weeks-after-sons-death/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "33 Best Stand-Up Specials on Netflix Right Now (September 2026): \u2018Uncle Stav\u2019 and More",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-stand-up-specials-on-netflix-right-now/",
+      "title": "I Found 17 Boutique-Inspired Amazon Sweaters to Wear With Jeans",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/boutique-inspired-amazon-sweaters-wear-with-jeans/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Walmart\u2019s October Sale Is Coming \u2014 But These Fashion Deals Are up to 77% Off Now",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/it-girl-fashion-walmart-deals-and-more-sale/",
+      "title": "13 Cozy Fall Shoes That Feel Like Chunky Knit Sweaters \u2014 From $19",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/cozy-knit-fall-shoes-amazon/",
       "sourceName": "usmagazine.com"
     }
   ]
