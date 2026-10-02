@@ -1,133 +1,133 @@
 {
-  "dateLabel": "01 10 2026",
+  "dateLabel": "02 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 727.86,
-    "change": -10.93,
-    "changePercent": -1.4794,
-    "fetchedAt": "2026-10-01T17:10:46.441894+00:00"
+    "price": 729.51,
+    "change": 4.33,
+    "changePercent": 0.5971,
+    "fetchedAt": "2026-10-02T16:24:30.356175+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
-      "sourceUrl": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-      "sourceUrl": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+      "title": "Men are losing ground in the labor market. Here's why",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-      "sourceUrl": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
+      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
-      "sourceUrl": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nike is set to report earnings after the bell. Here's what to expect",
-      "sourceUrl": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Sony brings AI graphics upscaling to the regular PS5",
-      "sourceUrl": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+      "title": "Dots get up in Muse\u2019s business",
+      "sourceUrl": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Can VR glasses save VR?",
-      "sourceUrl": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+      "title": "Tesla will now let you drive off mid-charge if there\u2019s an emergency",
+      "sourceUrl": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft\u2019s Office and Teams chief is leaving",
-      "sourceUrl": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+      "title": "Keurig\u2019s new machine uses plastic-free compressed coffee pucks",
+      "sourceUrl": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Inside Microsoft\u2019s big Copilot rethink",
-      "sourceUrl": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "title": "Paramount\u2019s Warner Bros. megamerger will just be called Skydance",
+      "sourceUrl": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "NYC is now the first city in America that bans sketchy subscriptions",
-      "sourceUrl": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+      "title": "Tesla\u2019s recovery hits a speed bump",
+      "sourceUrl": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "In the mood for a pastoral autumn experience? Try Queens.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/in-the-mood-for-a-pastoral-autumn-experience-try-queens",
+      "title": "Intoxication not a 'license' to rape: Hochul pushes to tighten law amid Cornell scandal",
+      "sourceUrl": "https://gothamist.com/news/intoxication-not-a-license-to-rape-hochul-pushes-to-tighten-law-amid-cornell-scandal",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD arrests 25-year-old who stabbed a man to death on the J train",
-      "sourceUrl": "https://gothamist.com/news/nypd-arrest-25-year-old-who-stabbed-a-man-to-death-on-the-j-train",
+      "title": "NYC music in October: The Strokes, a Blink-182 cover band, and Polish experimentalism",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/nyc-music-in-october-the-strokes-a-blink-182-cover-band-and-polish-experimentalism",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Judge orders psych evaluation for man accused of killing woman in Central Park",
-      "sourceUrl": "https://gothamist.com/news/judge-orders-psych-evaluation-for-man-accused-of-killing-woman-in-central-park",
+      "title": "NYC Parks police told a yoga teacher to leash her dog. It got ugly.",
+      "sourceUrl": "https://gothamist.com/news/nyc-parks-police-told-a-yoga-teacher-to-leash-her-dog-it-got-ugly",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Landslide or nailbiter? For House hopefuls, NY Gov. Hochul\u2019s margin matters",
-      "sourceUrl": "https://gothamist.com/news/landslide-or-nailbiter-for-house-hopefuls-ny-gov-hochuls-margin-matters",
+      "title": "Early Addition: There's finally stuff inside the Times Square tower where the ball drops",
+      "sourceUrl": "https://gothamist.com/news/early-addition-theres-finally-stuff-inside-the-times-square-tower-where-the-ball-drops",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "October is spooky season at the movies in New York City",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/october-is-spooky-season-at-the-movies-in-new-york-city",
+      "title": "NYC subway dragging death highlights an old school MTA failsafe",
+      "sourceUrl": "https://gothamist.com/news/nyc-subway-dragging-death-highlights-an-old-school-mta-failsafe",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Florence Pugh, Jennifer Lopez, Busy Philipps and More!",
+      "title": "Zendaya, JoJo Siwa, Brooklyn Beckham and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "What's New on Hulu and Disney+ in October 2026 \u2014 The Full List of Movies and Shows",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/whats-new-on-hulu-and-disney-in-october-2026/",
+      "title": "17 Loose, Hamptons-Style Fall Dresses to Look Like a Rich Mom \u2014 From $6",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/hamptons-style-fall-dresses-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "RHOSLC's Mary Cosby Explains Why She Returned After Son Robert Jr.'s Death",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/why-mary-cosby-returned-to-rhoslc-weeks-after-sons-death/",
+      "title": "David Boreanaz Pays Tribute to Chad Lowe's Daughter Fiona After Death at 13",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/david-boreanaz-pays-tribute-to-chad-lowes-daughter-fiona/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "I Found 17 Boutique-Inspired Amazon Sweaters to Wear With Jeans",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/boutique-inspired-amazon-sweaters-wear-with-jeans/",
+      "title": "Ditch Your Dated Sneakers! 3 Trendy Styles New York City Rich Girls Are Wearing",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/trendy-nyc-rich-girl-sneaker-styles/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "13 Cozy Fall Shoes That Feel Like Chunky Knit Sweaters \u2014 From $19",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/cozy-knit-fall-shoes-amazon/",
+      "title": "4 Best New Shows to Watch This Weekend (October 2-4): \u2018East of Eden\u2019 and More",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/4-best-new-shows-to-watch-this-weekend-october-2-4-2026/",
       "sourceName": "usmagazine.com"
     }
   ]
