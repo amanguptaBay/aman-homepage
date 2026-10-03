@@ -1,133 +1,133 @@
 {
-  "dateLabel": "02 10 2026",
+  "dateLabel": "03 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 729.51,
-    "change": 4.33,
-    "changePercent": 0.5971,
-    "fetchedAt": "2026-10-02T16:24:30.356175+00:00"
+    "price": 728.08,
+    "change": 2.9,
+    "changePercent": 0.3999,
+    "fetchedAt": "2026-10-03T14:58:59.198345+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-      "sourceUrl": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+      "sourceUrl": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Men are losing ground in the labor market. Here's why",
-      "sourceUrl": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+      "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+      "sourceUrl": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-      "sourceUrl": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+      "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+      "sourceUrl": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "sourceUrl": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+      "sourceUrl": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-      "sourceUrl": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
+      "title": "Novig credits Sydney Sweeney-backed campaign for platform\u2019s surge in growth",
+      "sourceUrl": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Dots get up in Muse\u2019s business",
-      "sourceUrl": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Tesla will now let you drive off mid-charge if there\u2019s an emergency",
-      "sourceUrl": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+      "title": "3D movies are finally worth watching",
+      "sourceUrl": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Keurig\u2019s new machine uses plastic-free compressed coffee pucks",
-      "sourceUrl": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Paramount\u2019s Warner Bros. megamerger will just be called Skydance",
-      "sourceUrl": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+      "title": "Netflix is pivoting away from prestige",
+      "sourceUrl": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Tesla\u2019s recovery hits a speed bump",
-      "sourceUrl": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
+      "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+      "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Intoxication not a 'license' to rape: Hochul pushes to tighten law amid Cornell scandal",
-      "sourceUrl": "https://gothamist.com/news/intoxication-not-a-license-to-rape-hochul-pushes-to-tighten-law-amid-cornell-scandal",
+      "title": "US judge tosses Trump lawsuit targeting pro-Palestinian protesters in NJ",
+      "sourceUrl": "https://gothamist.com/news/us-judge-tosses-trump-lawsuit-targeting-pro-palestinian-protesters-in-nj",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC music in October: The Strokes, a Blink-182 cover band, and Polish experimentalism",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/nyc-music-in-october-the-strokes-a-blink-182-cover-band-and-polish-experimentalism",
+      "title": "A big, bright Saturn will be the highlight of NYC's fall stargazing season",
+      "sourceUrl": "https://gothamist.com/news/a-big-bright-saturn-will-be-the-highlight-of-nycs-fall-stargazing-season",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC Parks police told a yoga teacher to leash her dog. It got ugly.",
-      "sourceUrl": "https://gothamist.com/news/nyc-parks-police-told-a-yoga-teacher-to-leash-her-dog-it-got-ugly",
+      "title": "NYC tow companies busted for ripping off drivers must give $67K in refunds, city says",
+      "sourceUrl": "https://gothamist.com/news/nyc-tow-companies-busted-for-ripping-off-drivers-must-give-67k-in-refunds-city-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: There's finally stuff inside the Times Square tower where the ball drops",
-      "sourceUrl": "https://gothamist.com/news/early-addition-theres-finally-stuff-inside-the-times-square-tower-where-the-ball-drops",
+      "title": "Off-duty NYPD officer stabbed in the Bronx, police say",
+      "sourceUrl": "https://gothamist.com/news/off-duty-nypd-officer-stabbed-in-the-bronx-police-say",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC subway dragging death highlights an old school MTA failsafe",
-      "sourceUrl": "https://gothamist.com/news/nyc-subway-dragging-death-highlights-an-old-school-mta-failsafe",
+      "title": "DOC negligence factored in death at Rikers' Bellevue hospital outpost, jail officials say",
+      "sourceUrl": "https://gothamist.com/news/doc-negligence-factored-in-death-at-rikers-bellevue-hospital-outpost-jail-officials-say",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Zendaya, JoJo Siwa, Brooklyn Beckham and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "13 Designer-Looking Amazon Fashion Finds My 58-Year-Old Mom Loves",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/mom-approved-designer-looking-clothing-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "17 Loose, Hamptons-Style Fall Dresses to Look Like a Rich Mom \u2014 From $6",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/hamptons-style-fall-dresses-amazon/",
+      "title": "Chad Lowe's Daughter Fiona's Dance Teacher Shares Tribute After Her Death",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/chad-lowes-daughter-fionas-dance-teacher-pays-tribute/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "David Boreanaz Pays Tribute to Chad Lowe's Daughter Fiona After Death at 13",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/david-boreanaz-pays-tribute-to-chad-lowes-daughter-fiona/",
+      "title": "Zach Bryan Wears \u2018Free Palestine\u2019 Shirt On Stage After Macklemore Controversy",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/zach-bryan-wears-free-palestine-shirt-after-macklemore-drama/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ditch Your Dated Sneakers! 3 Trendy Styles New York City Rich Girls Are Wearing",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/trendy-nyc-rich-girl-sneaker-styles/",
+      "title": "Regina King Swears by This Deodorant for Keeping Naturally Fresh",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/regina-king-billie-aluminum-free-deodorant/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "4 Best New Shows to Watch This Weekend (October 2-4): \u2018East of Eden\u2019 and More",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/4-best-new-shows-to-watch-this-weekend-october-2-4-2026/",
+      "title": "Why Donald Trump Thinks Cornell 7 'Won't Get a Fair Shake' in Rape Probe",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/donald-trump-slams-letitia-jamess-role-in-cornell-7-probe/",
       "sourceName": "usmagazine.com"
     }
   ]
