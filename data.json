@@ -1,133 +1,133 @@
 {
-  "dateLabel": "04 10 2026",
+  "dateLabel": "05 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 728.08,
-    "change": 2.9,
-    "changePercent": 0.3999,
-    "fetchedAt": "2026-10-04T15:32:50.269521+00:00"
+    "price": 744.36,
+    "change": 18.43,
+    "changePercent": 2.5388,
+    "fetchedAt": "2026-10-05T19:26:27.527791+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "sourceUrl": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+      "sourceUrl": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-      "sourceUrl": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+      "sourceUrl": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
-      "sourceUrl": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+      "sourceUrl": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
-      "sourceUrl": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "title": "Fairshake crypto PAC network backs 32 House candidates in midterms",
+      "sourceUrl": "https://www.cnbc.com/2026/10/05/fairshake-crypto-super-pac-house-races.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-      "sourceUrl": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "sourceUrl": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "This toolless modular lever-action wallet is the coolest I\u2019ve stuck to my phone",
-      "sourceUrl": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "title": "Sam Altman says \u2018some bad things\u2019 will happen but AI is totally worth it",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "sourceUrl": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "title": "Nvidia\u2019s Shield TV Pro just got a $100 price hike",
+      "sourceUrl": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "sourceUrl": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "title": "Apple\u2019s new M6 Mac Mini is over $100 off",
+      "sourceUrl": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The iPad Mini is slightly cheaper again during Prime Day",
-      "sourceUrl": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "title": "CNN\u2019s boss will remain as Paramount and WBD merge into Skydance",
+      "sourceUrl": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NJ reports first West Nile Virus death of the year",
-      "sourceUrl": "https://gothamist.com/news/nj-reports-first-west-nile-virus-death-of-the-year",
+      "title": "NYPD detective forced to retire after false statements in Brooklyn investigation",
+      "sourceUrl": "https://gothamist.com/news/nypd-detective-forced-to-retire-after-false-statements-in-brooklyn-investigation",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Banned books and Winnie the Pooh: October in NYC libraries",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/banned-books-and-winnie-the-pooh-october-in-nyc-libraries",
+      "title": "Mamdani faces pressure to forge ahead with plan to fix polluting South Bronx market",
+      "sourceUrl": "https://gothamist.com/news/mamdani-faces-pressure-to-forge-ahead-with-plan-to-fix-polluting-south-bronx-market",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY's prison system is in crisis. It's driving staff away from the job.",
-      "sourceUrl": "https://gothamist.com/news/nys-prison-system-is-in-crisis-its-driving-staff-away-from-the-job",
+      "title": "Dominican man who shot border patrol officer in NYC sentenced to 15 years in prison",
+      "sourceUrl": "https://gothamist.com/news/dominican-man-who-shot-border-patrol-officer-in-nyc-sentenced-to-15-years-in-prison",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD searching for suspect after fatal stabbing in Queens",
-      "sourceUrl": "https://gothamist.com/news/nypd-searching-for-suspect-after-fatal-stabbing-in-queens",
+      "title": "NYC extends program offering late-night soccer games at 5 parks",
+      "sourceUrl": "https://gothamist.com/news/nyc-extends-program-offering-late-night-soccer-games-at-5-parks",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD: 2 suspects in off-duty officer stabbing tried to rob victim",
-      "sourceUrl": "https://gothamist.com/news/nypd-2-suspects-in-off-duty-officer-stabbing-stole-victims-chain-during-attack",
+      "title": "Two Legionnaires\u2019 disease cases appear at a Queens housing complex. Here\u2019s what we know.",
+      "sourceUrl": "https://gothamist.com/news/two-legionnaires-disease-cases-appear-at-a-queens-housing-complex-heres-what-we-know",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "13 Colorful, Rich Mom Sneakers to Give Fall Outfits a Luxe Twist \u2014 From $11",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-colorful-fall-sneakers-amazon/",
+      "title": "Ben Affleck, Venus Williams, Val Chmerkovskiy and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Hilary Duff Uses the Glow Serum That Mature Shoppers Say Fades Dark Spots",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/hilary-duff-clinique-moisture-surge-serum-glowy-skin/",
+      "title": "Taylor Swift\u2019s Adidas Sneakers Are Still on Amazon \u2014 But Not for Long",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/taylor-swift-adidas-samba-sneakers-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "The Chico's Fall Sale Is Here: Take 40% Off Fall Fashion Essentials",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/chicos-fall-cyber-sale/",
+      "title": "Isaiah Washington and Wife Jenisa's Relationship Timeline Before Her Death",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/isaiah-washington-and-late-wife-jenisas-relationship-timeline/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Nick Reiner's Aunt Reveals Where She Stands With Him Ahead of Trial",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/nick-reiners-aunt-reveals-where-she-stands-with-him/",
+      "title": "'Below Deck Med' Stars Joe and Nathan's Feud Explained Before Arrest",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/below-deck-stars-joe-bradley-nathan-gallaghers-feud-explained/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Taylor Swift Crashes 'SNL' to Poke Fun at Dakota Johnson's Breakups",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/taylor-swift-pokes-fun-at-dakota-johnsons-breakups-on-snl/",
+      "title": "Meghan Markle's $658 Weekender Tote Look Is Only $44",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/meghan-markle-weekender-tote-look-amazon/",
       "sourceName": "usmagazine.com"
     }
   ]
