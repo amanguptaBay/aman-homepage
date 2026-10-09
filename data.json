@@ -1,133 +1,133 @@
 {
-  "dateLabel": "08 10 2026",
+  "dateLabel": "09 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 716.64,
-    "change": -22.24,
-    "changePercent": -3.01,
-    "fetchedAt": "2026-10-08T17:38:42.399554+00:00"
+    "price": 725.09,
+    "change": 3.78,
+    "changePercent": 0.524,
+    "fetchedAt": "2026-10-09T17:14:20.405206+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump says U.S. will not attack Iran before midterm election",
-      "sourceUrl": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-      "sourceUrl": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "U.S. suspends Microsoft, Adobe from green-card labor program in foreign worker crackdown",
-      "sourceUrl": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+      "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
-      "sourceUrl": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
-      "sourceUrl": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
+      "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+      "sourceUrl": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Trump administration says Microsoft \u2018abused\u2019 worker visa program and is cutting off access",
-      "sourceUrl": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
+      "title": "Apple and LG leak shows new \u2018tap to control\u2019 HomeKit features",
+      "sourceUrl": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "New York accuses TikTok of serving users \u2018placebo\u2019 safety features",
-      "sourceUrl": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
+      "title": "YouTube, Meta, and Twitch won\u2019t say if they\u2019ll allow the US government to livestream an execution",
+      "sourceUrl": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Are you ready for everything to look like TikTok?",
-      "sourceUrl": "https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok",
+      "title": "The AI is in the computer",
+      "sourceUrl": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Amazon is phasing out Fire Tablets because they weren\u2019t \u2018giving customers what they were asking for\u2019",
-      "sourceUrl": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
+      "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+      "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYC parents want affordable childcare. But they don't all want the same thing.",
-      "sourceUrl": "https://gothamist.com/news/nyc-parents-want-affordable-childcare-but-they-dont-all-want-the-same-thing",
+      "title": "Feds blame NYC's sanctuary policies for violent ICE arrest in Marble Hill",
+      "sourceUrl": "https://gothamist.com/news/feds-blame-nycs-sanctuary-policies-for-violent-ice-arrest",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "The hottest way to show you're an authentic New Yorker is\u2026 riding a Citi Bike?",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/the-hottest-way-to-show-youre-an-authentic-new-yorker-is-riding-a-citi-bike",
+      "title": "NYPD rushed man shot by ICE to hospital in police SUV, bodycam footage shows",
+      "sourceUrl": "https://gothamist.com/news/nypd-rushed-man-shot-by-ice-to-hospital-in-police-suv-bodycam-footage-shows",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY gov race pits old immigration playbook against new outrage over data centers",
-      "sourceUrl": "https://gothamist.com/news/ny-gov-race-pits-old-immigration-playbook-against-new-outrage-over-data-centers",
+      "title": "Pencils down: NYC lawmakers want to switch back to paper tests as state mandates screens",
+      "sourceUrl": "https://gothamist.com/news/pencils-down-nyc-lawmakers-want-to-switch-back-to-paper-tests-as-state-mandates-screens",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Is the NYC\u2019s hottest attraction the free observation deck at 1 Centre Street?",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/is-the-nycs-hottest-attraction-the-free-observation-deck-at-1-centre-street",
+      "title": "Penn Station\u2019s future could be determined by midterm elections",
+      "sourceUrl": "https://gothamist.com/news/penn-stations-future-could-be-determined-by-midterm-elections",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Bronx man arrested for allegedly stabbing Queens man to death in a public park",
-      "sourceUrl": "https://gothamist.com/news/bronx-man-arrested-for-stabbing-queens-man-to-death-in-a-public-park",
+      "title": "ICE mistakenly arrested 2 men in the Bronx, then mounted cover-up, US judge rules",
+      "sourceUrl": "https://gothamist.com/news/ice-mistakenly-arrested-2-men-in-the-bronx-then-mounted-cover-up-us-judge-rules",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Jessica Biel, Halle Bailey, Guillermo Rodriguez and More!",
+      "title": "Serena Williams, Jessica Chastain, Gaten Matarazzo and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ben Affleck Addresses If He Wore a Prosthetic for 'Gone Girl' Shower Scene",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ben-affleck-shares-if-he-wore-prosthetic-penis-in-gone-girl/",
+      "title": "Dolly Parton Appears in Posthumous Video 6 Weeks After Her Death",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/dolly-parton-appears-in-posthumous-video-6-weeks-after-death/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Elizabeth Berkley Claims 'DWTS' Created Drama 'When It Didn't Exist'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/elizabeth-berkley-claims-dwts-created-drama-during-her-season/",
+      "title": "17 Parisian-Inspired Fall Dresses That Are *so* Flattering on Women Over 40",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/parisian-style-fall-dresses-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "13 Cinched-Waist Tops That Are Figure-Flattering Without Feeling Tight",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/figure-flattering-cinched-waist-top-styles/",
+      "title": "3 Best New Netflix Movies to Watch This Weekend (October 9-11): \u2018Animals\u2019 and More",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/3-best-new-netflix-movies-to-watch-this-weekend-october-9-11-2026/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "The Best Rom-Com From Every Year of the '90s",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/the-best-rom-com-from-every-year-of-the-90s/",
+      "title": "Got Batwings? These Boutique-Like Fall Tops Magically Hide Arm Bulge",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/arm-slimming-boutique-inspired-fall-tops-amazon/",
       "sourceName": "usmagazine.com"
     }
   ]
