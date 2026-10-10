@@ -1,133 +1,133 @@
 {
-  "dateLabel": "09 10 2026",
+  "dateLabel": "10 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 725.09,
-    "change": 3.78,
-    "changePercent": 0.524,
-    "fetchedAt": "2026-10-09T17:14:20.405206+00:00"
+    "price": 718.67,
+    "change": -2.64,
+    "changePercent": -0.366,
+    "fetchedAt": "2026-10-10T15:59:40.399208+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-      "sourceUrl": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
+      "sourceUrl": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-      "sourceUrl": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "sourceUrl": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-      "sourceUrl": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
-      "sourceUrl": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+      "sourceUrl": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-      "sourceUrl": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+      "sourceUrl": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
-      "sourceUrl": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "sourceUrl": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple and LG leak shows new \u2018tap to control\u2019 HomeKit features",
-      "sourceUrl": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "YouTube, Meta, and Twitch won\u2019t say if they\u2019ll allow the US government to livestream an execution",
-      "sourceUrl": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
+      "title": "Will Warner Bros. kill Skydance \u2014 or will David Ellison kill Warner Bros?",
+      "sourceUrl": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The AI is in the computer",
-      "sourceUrl": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
+      "title": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
+      "sourceUrl": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
-      "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Feds blame NYC's sanctuary policies for violent ICE arrest in Marble Hill",
-      "sourceUrl": "https://gothamist.com/news/feds-blame-nycs-sanctuary-policies-for-violent-ice-arrest",
+      "title": "Rain could put a damper on NYC\u2019s long weekend. Here\u2019s when it will clear.",
+      "sourceUrl": "https://gothamist.com/news/rain-could-put-a-damper-on-nycs-long-weekend-heres-when-it-will-clear",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD rushed man shot by ICE to hospital in police SUV, bodycam footage shows",
-      "sourceUrl": "https://gothamist.com/news/nypd-rushed-man-shot-by-ice-to-hospital-in-police-suv-bodycam-footage-shows",
+      "title": "Holy civics! NYC schools' own comic books in the spotlight at Comic Con",
+      "sourceUrl": "https://gothamist.com/news/holy-civics-nyc-schools-own-comic-books-in-the-spotlight-at-comic-con",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Pencils down: NYC lawmakers want to switch back to paper tests as state mandates screens",
-      "sourceUrl": "https://gothamist.com/news/pencils-down-nyc-lawmakers-want-to-switch-back-to-paper-tests-as-state-mandates-screens",
+      "title": "What we know about the ICE shooting in NYC",
+      "sourceUrl": "https://gothamist.com/news/what-we-know-about-the-ice-shooting-in-nyc",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Penn Station\u2019s future could be determined by midterm elections",
-      "sourceUrl": "https://gothamist.com/news/penn-stations-future-could-be-determined-by-midterm-elections",
+      "title": "DSA to Mamdani: Fire NYPD commissioner if ICE doesn't leave NYC",
+      "sourceUrl": "https://gothamist.com/news/dsa-to-mamdani-fire-nypd-commissioner-if-ice-doesnt-leave-nyc",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "ICE mistakenly arrested 2 men in the Bronx, then mounted cover-up, US judge rules",
-      "sourceUrl": "https://gothamist.com/news/ice-mistakenly-arrested-2-men-in-the-bronx-then-mounted-cover-up-us-judge-rules",
+      "title": "Two people killed in Bronx vehicle crash",
+      "sourceUrl": "https://gothamist.com/news/three-people-critically-injured-in-bronx-vehicle-crash",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Serena Williams, Jessica Chastain, Gaten Matarazzo and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "10 Best Rom-Com Movies on Hulu Right Now (October 2026): \u2018Sixteen Candles\u2019 and More",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-rom-com-movies-on-hulu-right-now/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Dolly Parton Appears in Posthumous Video 6 Weeks After Her Death",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/dolly-parton-appears-in-posthumous-video-6-weeks-after-death/",
+      "title": "16 Best Horror Movies to Watch on Prime Video (October 2026): \u2018Stir of Echoes' and More",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-horror-movies-on-amazon-prime-video/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "17 Parisian-Inspired Fall Dresses That Are *so* Flattering on Women Over 40",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/parisian-style-fall-dresses-amazon/",
+      "title": "Don't Wait! These Bestselling Advent Calendars Are Back for 2026",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/best-advent-calendars-2026/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "3 Best New Netflix Movies to Watch This Weekend (October 9-11): \u2018Animals\u2019 and More",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/3-best-new-netflix-movies-to-watch-this-weekend-october-9-11-2026/",
+      "title": "13 Boutique-Looking \u2018Roll Hem\u2019 Sweaters We\u2019re Loving for Fall 2026",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/boutique-looking-roll-hem-fall-sweaters/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Got Batwings? These Boutique-Like Fall Tops Magically Hide Arm Bulge",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/arm-slimming-boutique-inspired-fall-tops-amazon/",
+      "title": "Kyle Busch's Widow and Son, 11, Pay Tribute to the Late NASCAR Legend",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/kyle-buschs-widow-and-son-honor-late-nascar-driver/",
       "sourceName": "usmagazine.com"
     }
   ]
