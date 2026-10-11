@@ -1,5 +1,5 @@
 {
-  "dateLabel": "10 10 2026",
+  "dateLabel": "11 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,9 +7,21 @@
     "price": 718.67,
     "change": -2.64,
     "changePercent": -0.366,
-    "fetchedAt": "2026-10-10T15:59:40.399208+00:00"
+    "fetchedAt": "2026-10-11T16:27:08.123992+00:00"
   },
   "stories": [
+    {
+      "category": "business",
+      "title": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
+      "sourceUrl": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "sourceUrl": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "sourceName": "cnbc.com"
+    },
     {
       "category": "business",
       "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
@@ -18,57 +30,69 @@
     },
     {
       "category": "business",
-      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-      "sourceUrl": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "title": "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology as soon as next year",
+      "sourceUrl": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "sourceUrl": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "sourceUrl": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-      "sourceUrl": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "sourceUrl": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-      "sourceUrl": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "sourceUrl": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "title": "George A. Romero\u2019s Season of the Witch is a slow-burn feminist occult drama",
+      "sourceUrl": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Will Warner Bros. kill Skydance \u2014 or will David Ellison kill Warner Bros?",
-      "sourceUrl": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "sourceUrl": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
-      "sourceUrl": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+      "title": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
+      "sourceUrl": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "AI agent makers are promising privacy \u2014 will they deliver?",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "title": "Horror is big business",
+      "sourceUrl": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
       "sourceName": "theverge.com"
+    },
+    {
+      "category": "nyc",
+      "title": "NJ Transit riders face 5 weeks of schedule disruptions starting Sunday",
+      "sourceUrl": "https://gothamist.com/news/nj-transit-riders-face-5-weeks-of-schedule-disruptions-starting-sunday",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "For a Democrat in a traditionally red NJ district, how to woo Republican voters",
+      "sourceUrl": "https://gothamist.com/news/for-a-democrat-in-a-traditionally-red-nj-district-how-to-woo-republican-voters",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "2 pedestrians killed in Bronx crash after driver ran red light, police say",
+      "sourceUrl": "https://gothamist.com/news/2-pedestrians-killed-in-bronx-crash-after-driver-ran-red-light-police-say",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "North African restaurants are rare in NYC. These 10 are the best.",
+      "sourceUrl": "https://gothamist.com/food/north-african-restaurants-are-rare-in-nyc-these-10-are-the-best",
+      "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
@@ -77,57 +101,33 @@
       "sourceName": "gothamist.com"
     },
     {
-      "category": "nyc",
-      "title": "Holy civics! NYC schools' own comic books in the spotlight at Comic Con",
-      "sourceUrl": "https://gothamist.com/news/holy-civics-nyc-schools-own-comic-books-in-the-spotlight-at-comic-con",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "What we know about the ICE shooting in NYC",
-      "sourceUrl": "https://gothamist.com/news/what-we-know-about-the-ice-shooting-in-nyc",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "DSA to Mamdani: Fire NYPD commissioner if ICE doesn't leave NYC",
-      "sourceUrl": "https://gothamist.com/news/dsa-to-mamdani-fire-nypd-commissioner-if-ice-doesnt-leave-nyc",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Two people killed in Bronx vehicle crash",
-      "sourceUrl": "https://gothamist.com/news/three-people-critically-injured-in-bronx-vehicle-crash",
-      "sourceName": "gothamist.com"
-    },
-    {
       "category": "celebrity",
-      "title": "10 Best Rom-Com Movies on Hulu Right Now (October 2026): \u2018Sixteen Candles\u2019 and More",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-rom-com-movies-on-hulu-right-now/",
+      "title": "Bye, Boots! The Classy, Rich-Girl Fall Flats to Wear With Jeans \u2014 From $6",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-girl-flats-wear-with-jeans-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "16 Best Horror Movies to Watch on Prime Video (October 2026): \u2018Stir of Echoes' and More",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/best-horror-movies-on-amazon-prime-video/",
+      "title": "These Chic Jackets Look Like Reformation, but Cost Less Than $100",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/fall-jackets-reformation-style/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Don't Wait! These Bestselling Advent Calendars Are Back for 2026",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/best-advent-calendars-2026/",
+      "title": "Move Over, Wide-Leg Jeans! Barrel-Leg Styles Are Fall's New Favorite",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/flattering-barrel-leg-jeans/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "13 Boutique-Looking \u2018Roll Hem\u2019 Sweaters We\u2019re Loving for Fall 2026",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/boutique-looking-roll-hem-fall-sweaters/",
+      "title": "Maggie Sajak Cheers On Jackson Olson and Jonas Brothers at Banana Bowl",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/maggie-sajak-cheers-on-boyfriend-jackson-olson-at-banana-bowl/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kyle Busch's Widow and Son, 11, Pay Tribute to the Late NASCAR Legend",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/kyle-buschs-widow-and-son-honor-late-nascar-driver/",
+      "title": "Travis Kelce Rocks Cleveland Guardians Gear While Cheering on Team",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/travis-kelce-rocks-cleveland-guardians-gear-at-mlb-game/",
       "sourceName": "usmagazine.com"
     }
   ]
