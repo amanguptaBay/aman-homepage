@@ -1,133 +1,133 @@
 {
-  "dateLabel": "11 10 2026",
+  "dateLabel": "12 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 718.67,
-    "change": -2.64,
-    "changePercent": -0.366,
-    "fetchedAt": "2026-10-11T16:27:08.123992+00:00"
+    "price": 742.96,
+    "change": 22.07,
+    "changePercent": 3.0615,
+    "fetchedAt": "2026-10-12T20:02:38.111740+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
-      "sourceUrl": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "sourceUrl": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "sourceUrl": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+      "sourceUrl": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
-      "sourceUrl": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+      "sourceUrl": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology as soon as next year",
-      "sourceUrl": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "sourceUrl": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "sourceUrl": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "title": "A massive trade just happened in surging shares of Snap",
+      "sourceUrl": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "NASA dumped over 800GB of Artemis II data online",
-      "sourceUrl": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "title": "Meta has some Wonder Full new AI models",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "George A. Romero\u2019s Season of the Witch is a slow-burn feminist occult drama",
-      "sourceUrl": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "sourceUrl": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Vurt wants you to look at vertical videos as a genre of their own",
-      "sourceUrl": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "title": "The Yandex outage probably didn\u2019t blitz Russian bots",
+      "sourceUrl": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-      "sourceUrl": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
+      "sourceUrl": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Horror is big business",
-      "sourceUrl": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "title": "Android is the best and worst thing about Googlebooks",
+      "sourceUrl": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NJ Transit riders face 5 weeks of schedule disruptions starting Sunday",
-      "sourceUrl": "https://gothamist.com/news/nj-transit-riders-face-5-weeks-of-schedule-disruptions-starting-sunday",
+      "title": "Man shot by ICE in NYC still has bullet lodged in neck, attorneys say",
+      "sourceUrl": "https://gothamist.com/news/man-shot-by-ice-in-nyc-still-has-bullet-lodged-in-neck-attorneys-say",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "For a Democrat in a traditionally red NJ district, how to woo Republican voters",
-      "sourceUrl": "https://gothamist.com/news/for-a-democrat-in-a-traditionally-red-nj-district-how-to-woo-republican-voters",
+      "title": "NY measles spread prompts 'disaster' emergency. It didn't have to be this way, health commissioner says.",
+      "sourceUrl": "https://gothamist.com/news/ny-measles-spread-prompts-disaster-emergency-it-didnt-have-to-be-this-way-health-commissioner-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "2 pedestrians killed in Bronx crash after driver ran red light, police say",
-      "sourceUrl": "https://gothamist.com/news/2-pedestrians-killed-in-bronx-crash-after-driver-ran-red-light-police-say",
+      "title": "NYC wants to move deliveries onto the waterways. It's starting with a 55-year-old boat.",
+      "sourceUrl": "https://gothamist.com/news/nyc-wants-to-move-deliveries-onto-the-waterways-its-starting-with-a-55-year-old-boat",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "North African restaurants are rare in NYC. These 10 are the best.",
-      "sourceUrl": "https://gothamist.com/food/north-african-restaurants-are-rare-in-nyc-these-10-are-the-best",
+      "title": "Inside the luxury Greenpoint high-rise powered by a rumbling generator for over a month",
+      "sourceUrl": "https://gothamist.com/news/inside-the-luxury-greenpoint-high-rise-powered-by-a-rumbling-generator-for-over-a-month",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Rain could put a damper on NYC\u2019s long weekend. Here\u2019s when it will clear.",
-      "sourceUrl": "https://gothamist.com/news/rain-could-put-a-damper-on-nycs-long-weekend-heres-when-it-will-clear",
+      "title": "Mayor Mamdani orders review of NYPD use of force policies",
+      "sourceUrl": "https://gothamist.com/news/mayor-mamdani-orders-review-of-nypd-use-of-force-policies",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Bye, Boots! The Classy, Rich-Girl Fall Flats to Wear With Jeans \u2014 From $6",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-girl-flats-wear-with-jeans-amazon/",
+      "title": "Christina Aguilera, Andrew Garfield, Noah Wyle and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These Chic Jackets Look Like Reformation, but Cost Less Than $100",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/fall-jackets-reformation-style/",
+      "title": "Sleep Trackers Tell You How Badly You Slept. EEG Headbands Actually Fix It",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/sleep-trackers-grade-your-sleep-eeg-headbands-try-to-improve-it/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Move Over, Wide-Leg Jeans! Barrel-Leg Styles Are Fall's New Favorite",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/flattering-barrel-leg-jeans/",
+      "title": "Why Amanda Seyfried \u2018Passed\u2019 on Doing a Show With a Lot of Sex Scenes",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/amanda-seyfried-passed-on-show-with-a-lot-of-sex-scenes/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Maggie Sajak Cheers On Jackson Olson and Jonas Brothers at Banana Bowl",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/maggie-sajak-cheers-on-boyfriend-jackson-olson-at-banana-bowl/",
+      "title": "These Loose Fall Dresses Slim *So Much* Better Than Bodycon Styles \u2014 Starting at $10",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/loose-fall-dresses-more-slimming-than-bodycon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Travis Kelce Rocks Cleveland Guardians Gear While Cheering on Team",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/travis-kelce-rocks-cleveland-guardians-gear-at-mlb-game/",
+      "title": "These 17 Tummy-Flattering Dresses Hide Bloat and Look So Cute With Sneakers",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/tummy-flattering-dresses-for-sneakers/",
       "sourceName": "usmagazine.com"
     }
   ]
