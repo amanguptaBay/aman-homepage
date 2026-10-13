@@ -1,133 +1,133 @@
 {
-  "dateLabel": "12 10 2026",
+  "dateLabel": "13 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 742.96,
-    "change": 22.07,
-    "changePercent": 3.0615,
-    "fetchedAt": "2026-10-12T20:02:38.111740+00:00"
+    "price": 763.42,
+    "change": 44.75,
+    "changePercent": 6.2268,
+    "fetchedAt": "2026-10-13T17:50:52.512975+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "sourceUrl": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-      "sourceUrl": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-      "sourceUrl": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "sourceUrl": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "A massive trade just happened in surging shares of Snap",
-      "sourceUrl": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
+      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Meta has some Wonder Full new AI models",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "title": "The feds are looking into reports of Tesla\u2019s robotaxis speeding through school zones",
+      "sourceUrl": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "sourceUrl": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "title": "The Xteink X4 Pro is a great, tiny e-reader, and it\u2019s cheaper than ever",
+      "sourceUrl": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Yandex outage probably didn\u2019t blitz Russian bots",
-      "sourceUrl": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "sourceUrl": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
-      "sourceUrl": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "sourceUrl": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Android is the best and worst thing about Googlebooks",
-      "sourceUrl": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "title": "A redesigned Play Store is coming to cars with Google built-in",
+      "sourceUrl": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Man shot by ICE in NYC still has bullet lodged in neck, attorneys say",
-      "sourceUrl": "https://gothamist.com/news/man-shot-by-ice-in-nyc-still-has-bullet-lodged-in-neck-attorneys-say",
+      "title": "Woman whose body was found in Brooklyn garbage can was strangled, medical examiner says",
+      "sourceUrl": "https://gothamist.com/news/woman-whose-body-was-found-in-brooklyn-garbage-can-was-strangled-medical-examiner-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY measles spread prompts 'disaster' emergency. It didn't have to be this way, health commissioner says.",
-      "sourceUrl": "https://gothamist.com/news/ny-measles-spread-prompts-disaster-emergency-it-didnt-have-to-be-this-way-health-commissioner-says",
+      "title": "New York Public Radio CEO steps down after 8 months on job",
+      "sourceUrl": "https://gothamist.com/news/new-york-public-radio-ceo-steps-down-after-8-months-on-job",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC wants to move deliveries onto the waterways. It's starting with a 55-year-old boat.",
-      "sourceUrl": "https://gothamist.com/news/nyc-wants-to-move-deliveries-onto-the-waterways-its-starting-with-a-55-year-old-boat",
+      "title": "Early Addition: Can't stop the sticker bombers",
+      "sourceUrl": "https://gothamist.com/news/early-addition-cant-stop-the-sticker-bombers",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Inside the luxury Greenpoint high-rise powered by a rumbling generator for over a month",
-      "sourceUrl": "https://gothamist.com/news/inside-the-luxury-greenpoint-high-rise-powered-by-a-rumbling-generator-for-over-a-month",
+      "title": "Cyclist dies in wrong-way crash with an ambulance on Staten Island",
+      "sourceUrl": "https://gothamist.com/news/cyclist-dies-in-wrong-way-crash-with-an-ambulance-on-staten-island",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mayor Mamdani orders review of NYPD use of force policies",
-      "sourceUrl": "https://gothamist.com/news/mayor-mamdani-orders-review-of-nypd-use-of-force-policies",
+      "title": "With election 3 weeks away, Hochul and Blakeman to square off in lone NY governor debate",
+      "sourceUrl": "https://gothamist.com/news/with-election-3-weeks-away-hochul-and-blakeman-to-square-off-in-lone-ny-governor-debate",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Christina Aguilera, Andrew Garfield, Noah Wyle and More!",
+      "title": "Brooks Nader, Joe Locke, Jason Momoa and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Sleep Trackers Tell You How Badly You Slept. EEG Headbands Actually Fix It",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/sleep-trackers-grade-your-sleep-eeg-headbands-try-to-improve-it/",
+      "title": "Hailee Steinfeld Makes Rare Appearance at Husband Josh Allen's Game",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/hailee-steinfeld-cheers-for-husband-josh-allen-at-bills-game/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Why Amanda Seyfried \u2018Passed\u2019 on Doing a Show With a Lot of Sex Scenes",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/amanda-seyfried-passed-on-show-with-a-lot-of-sex-scenes/",
+      "title": "Marshals' Ash Santos Clarifies Luke Grimes' Fight Scene as Kayce in New York",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/marshals-ash-santos-clarifies-luke-grimes-kayce-fight-scene-in-nyc/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These Loose Fall Dresses Slim *So Much* Better Than Bodycon Styles \u2014 Starting at $10",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/loose-fall-dresses-more-slimming-than-bodycon/",
+      "title": "Always Tired? Reviewers Say Their \u2018Energy Feels Steady\u2019 After Trying This Science-Backed Drink Mix",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/tmrw-daily-drink-mix-supplement/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These 17 Tummy-Flattering Dresses Hide Bloat and Look So Cute With Sneakers",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/tummy-flattering-dresses-for-sneakers/",
+      "title": "James McAvoy Recalls Being Bullied by Famous 'Band of Brothers' Actor on Set",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/james-mcavoy-bullied-by-famous-band-of-brothers-actor-on-set/",
       "sourceName": "usmagazine.com"
     }
   ]
