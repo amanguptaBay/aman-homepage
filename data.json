@@ -1,133 +1,133 @@
 {
-  "dateLabel": "13 10 2026",
+  "dateLabel": "14 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 763.42,
-    "change": 44.75,
-    "changePercent": 6.2268,
-    "fetchedAt": "2026-10-13T17:50:52.512975+00:00"
+    "price": 740.08,
+    "change": -2.88,
+    "changePercent": -0.3876,
+    "fetchedAt": "2026-10-14T15:37:18.478171+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-      "sourceUrl": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+      "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-      "sourceUrl": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
+      "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-      "sourceUrl": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+      "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-      "sourceUrl": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-      "sourceUrl": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "The feds are looking into reports of Tesla\u2019s robotaxis speeding through school zones",
-      "sourceUrl": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+      "title": "Anthropic\u2019s self-replicating AI warning is alarming deja vu",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Xteink X4 Pro is a great, tiny e-reader, and it\u2019s cheaper than ever",
-      "sourceUrl": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
+      "title": "Netflix is laying off around 1,000 employees",
+      "sourceUrl": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "sourceUrl": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "title": "HomeView doesn\u2019t natively support any video apps yet \u2014 not even Apple\u2019s",
+      "sourceUrl": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "sourceUrl": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "title": "Ukraine claims Starlink is suddenly disrupting service for its military",
+      "sourceUrl": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "A redesigned Play Store is coming to cars with Google built-in",
-      "sourceUrl": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
+      "title": "$15 gets you Psychonauts 2, the latest Like a Dragon game, and more",
+      "sourceUrl": "https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Woman whose body was found in Brooklyn garbage can was strangled, medical examiner says",
-      "sourceUrl": "https://gothamist.com/news/woman-whose-body-was-found-in-brooklyn-garbage-can-was-strangled-medical-examiner-says",
+      "title": "New Yorkers are paying $300 million for natural gas they don't even use",
+      "sourceUrl": "https://gothamist.com/news/new-yorkers-are-paying-300-million-for-natural-gas-they-dont-even-use",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "New York Public Radio CEO steps down after 8 months on job",
-      "sourceUrl": "https://gothamist.com/news/new-york-public-radio-ceo-steps-down-after-8-months-on-job",
+      "title": "Early Addition: Eric Adams did not convince a Wisconsin town to build a data center",
+      "sourceUrl": "https://gothamist.com/news/early-addition-eric-adams-did-not-convince-a-wisconsin-town-to-build-a-data-center",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Can't stop the sticker bombers",
-      "sourceUrl": "https://gothamist.com/news/early-addition-cant-stop-the-sticker-bombers",
+      "title": "Hit-and-run driver arrested trying to flee to Uzbekistan after deadly crash, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/hit-and-run-driver-arrested-trying-to-flee-to-uzbekistan-after-deadly-crash-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Cyclist dies in wrong-way crash with an ambulance on Staten Island",
-      "sourceUrl": "https://gothamist.com/news/cyclist-dies-in-wrong-way-crash-with-an-ambulance-on-staten-island",
+      "title": "NY measles outbreak more widespread than official count, health officials say",
+      "sourceUrl": "https://gothamist.com/news/ny-measles-outbreak-more-widespread-than-official-count-health-officials-say",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "With election 3 weeks away, Hochul and Blakeman to square off in lone NY governor debate",
-      "sourceUrl": "https://gothamist.com/news/with-election-3-weeks-away-hochul-and-blakeman-to-square-off-in-lone-ny-governor-debate",
+      "title": "A NYC judge brought his gun into court for an \u2018experiment\u2019. Now he\u2019s censured.",
+      "sourceUrl": "https://gothamist.com/news/a-nyc-judge-brought-his-gun-into-court-for-an-experiment-now-hes-censured",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Brooks Nader, Joe Locke, Jason Momoa and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "I'm Swapping Tight Pants for Romantic Fall Floral Skirts, Starting at $19",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/fall-floral-skirts-replace-pants/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Hailee Steinfeld Makes Rare Appearance at Husband Josh Allen's Game",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/hailee-steinfeld-cheers-for-husband-josh-allen-at-bills-game/",
+      "title": "Wait, These Luxe-Looking Sweaters Are Giving Cashmere Vibes",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/cashmere-blend-sweaters-under-50/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Marshals' Ash Santos Clarifies Luke Grimes' Fight Scene as Kayce in New York",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/marshals-ash-santos-clarifies-luke-grimes-kayce-fight-scene-in-nyc/",
+      "title": "Melissa Gilbert Reflects on 'Uncertainty and Turmoil' Amid Husband's Arrest",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/melissa-gilbert-reflects-on-uncertainty-and-turmoil-in-life/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Always Tired? Reviewers Say Their \u2018Energy Feels Steady\u2019 After Trying This Science-Backed Drink Mix",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/tmrw-daily-drink-mix-supplement/",
+      "title": "Machine Gun Kelly Reacts to Fabricated Post About 'Fumbling' Megan Fox",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/machine-gun-kelly-reacts-to-post-about-fumbling-megan-fox/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "James McAvoy Recalls Being Bullied by Famous 'Band of Brothers' Actor on Set",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/james-mcavoy-bullied-by-famous-band-of-brothers-actor-on-set/",
+      "title": "Teddi Mellencamp Documents Plastic Surgery Procedure Amid Cancer Treatment",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/teddi-mellencamp-gets-plastic-surgery-amid-cancer-treatment/",
       "sourceName": "usmagazine.com"
     }
   ]
