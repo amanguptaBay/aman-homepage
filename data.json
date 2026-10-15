@@ -1,133 +1,133 @@
 {
-  "dateLabel": "14 10 2026",
+  "dateLabel": "15 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 740.08,
-    "change": -2.88,
-    "changePercent": -0.3876,
-    "fetchedAt": "2026-10-14T15:37:18.478171+00:00"
+    "price": 735.3,
+    "change": -27.2,
+    "changePercent": -3.5672,
+    "fetchedAt": "2026-10-15T15:23:51.266266+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart",
-      "sourceUrl": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "sourceUrl": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-      "sourceUrl": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "sourceUrl": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "sourceUrl": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+      "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+      "sourceUrl": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-      "sourceUrl": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "title": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
+      "sourceUrl": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
-      "sourceUrl": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+      "sourceUrl": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Anthropic\u2019s self-replicating AI warning is alarming deja vu",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "title": "Shelly\u2019s new presence sensor simultaneously detects up to 10 people without a camera",
+      "sourceUrl": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Netflix is laying off around 1,000 employees",
-      "sourceUrl": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
+      "title": "Microsoft\u2019s new Photos app combines your PC, OneDrive, and iCloud galleries",
+      "sourceUrl": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "HomeView doesn\u2019t natively support any video apps yet \u2014 not even Apple\u2019s",
-      "sourceUrl": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
+      "title": "Trump calls off livestream of execution",
+      "sourceUrl": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Ukraine claims Starlink is suddenly disrupting service for its military",
-      "sourceUrl": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
+      "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
+      "sourceUrl": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "$15 gets you Psychonauts 2, the latest Like a Dragon game, and more",
-      "sourceUrl": "https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale",
+      "title": "An Israeli firm is sending spyware through online ads, researchers say",
+      "sourceUrl": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "New Yorkers are paying $300 million for natural gas they don't even use",
-      "sourceUrl": "https://gothamist.com/news/new-yorkers-are-paying-300-million-for-natural-gas-they-dont-even-use",
+      "title": "Can eligible NYC singles find love with 30 minutes and some really spicy food?",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/can-eligible-nyc-singles-find-love-with-30-minutes-and-some-really-spicy-food",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Eric Adams did not convince a Wisconsin town to build a data center",
-      "sourceUrl": "https://gothamist.com/news/early-addition-eric-adams-did-not-convince-a-wisconsin-town-to-build-a-data-center",
+      "title": "Manhattan DA charges woman with stealing $25K in immigration fraud scheme",
+      "sourceUrl": "https://gothamist.com/news/manhattan-da-charges-woman-stole-25k-in-immigration-fraud-scheme",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Hit-and-run driver arrested trying to flee to Uzbekistan after deadly crash, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/hit-and-run-driver-arrested-trying-to-flee-to-uzbekistan-after-deadly-crash-nypd-says",
+      "title": "NYC lawmaker wants dedicated NYPD units to combat chaotic car meetups",
+      "sourceUrl": "https://gothamist.com/news/nyc-lawmaker-wants-dedicated-nypd-units-to-combat-chaotic-car-meetups",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY measles outbreak more widespread than official count, health officials say",
-      "sourceUrl": "https://gothamist.com/news/ny-measles-outbreak-more-widespread-than-official-count-health-officials-say",
+      "title": "Early Addition: NYC comptroller backs off investing city pension funds in Israel bonds",
+      "sourceUrl": "https://gothamist.com/news/early-addition-nyc-comptroller-backs-off-investing-city-pension-funds-in-israel-bonds",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A NYC judge brought his gun into court for an \u2018experiment\u2019. Now he\u2019s censured.",
-      "sourceUrl": "https://gothamist.com/news/a-nyc-judge-brought-his-gun-into-court-for-an-experiment-now-hes-censured",
+      "title": "NYPD investigating after 5-year-old Queens girl found dead",
+      "sourceUrl": "https://gothamist.com/news/nypd-investigating-after-5-year-old-queens-girl-found-dead",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "I'm Swapping Tight Pants for Romantic Fall Floral Skirts, Starting at $19",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/fall-floral-skirts-replace-pants/",
+      "title": "Dreamy Fall Dresses That Look Like Free People, but Start at $10",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/free-people-inspired-fall-dresses/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Wait, These Luxe-Looking Sweaters Are Giving Cashmere Vibes",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/cashmere-blend-sweaters-under-50/",
+      "title": "Selena Gomez Reveals 'Sweet' Way She Celebrated 1st Wedding Anniversary",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/selena-gomez-benny-blancos-sweet-1st-wedding-anniversary/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Melissa Gilbert Reflects on 'Uncertainty and Turmoil' Amid Husband's Arrest",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/melissa-gilbert-reflects-on-uncertainty-and-turmoil-in-life/",
+      "title": "Bye, Leggings! These 13 Chic Fall Travel Outfits Are Just as Comfy",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-comfy-fall-travel-outfits/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Machine Gun Kelly Reacts to Fabricated Post About 'Fumbling' Megan Fox",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/machine-gun-kelly-reacts-to-post-about-fumbling-megan-fox/",
+      "title": "Selena Gomez and Benny Blanco\u2019s Relationship Timeline",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/selena-gomez-and-benny-blancos-relationship-timeline/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Teddi Mellencamp Documents Plastic Surgery Procedure Amid Cancer Treatment",
-      "sourceUrl": "https://www.usmagazine.com/stylish/news/teddi-mellencamp-gets-plastic-surgery-amid-cancer-treatment/",
+      "title": "Madonna Celebrates Daughter Lourdes' 30th Birthday With Rare Photos",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/madonna-celebrates-lourdes-30th-birthday-with-rare-photos/",
       "sourceName": "usmagazine.com"
     }
   ]
