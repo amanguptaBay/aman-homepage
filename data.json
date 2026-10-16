@@ -1,133 +1,133 @@
 {
-  "dateLabel": "15 10 2026",
+  "dateLabel": "16 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 735.3,
-    "change": -27.2,
-    "changePercent": -3.5672,
-    "fetchedAt": "2026-10-15T15:23:51.266266+00:00"
+    "price": 722.81,
+    "change": -14.73,
+    "changePercent": -1.9972,
+    "fetchedAt": "2026-10-16T15:04:07.187462+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "sourceUrl": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+      "sourceUrl": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-      "sourceUrl": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+      "sourceUrl": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-      "sourceUrl": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+      "sourceUrl": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
-      "sourceUrl": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+      "sourceUrl": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "sourceUrl": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+      "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+      "sourceUrl": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Shelly\u2019s new presence sensor simultaneously detects up to 10 people without a camera",
-      "sourceUrl": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "sourceUrl": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft\u2019s new Photos app combines your PC, OneDrive, and iCloud galleries",
-      "sourceUrl": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
+      "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+      "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Trump calls off livestream of execution",
-      "sourceUrl": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
+      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+      "sourceUrl": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
-      "sourceUrl": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "title": "iPhone Duo orders are already delayed into 2027",
+      "sourceUrl": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "An Israeli firm is sending spyware through online ads, researchers say",
-      "sourceUrl": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+      "title": "The Sony Xperia 10 VI won\u2019t be getting a promised update to Android 17",
+      "sourceUrl": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Can eligible NYC singles find love with 30 minutes and some really spicy food?",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/can-eligible-nyc-singles-find-love-with-30-minutes-and-some-really-spicy-food",
+      "title": "NYC\u2019s whiplash weather continues into weekend with heavy winds, chilly temps, NWS says",
+      "sourceUrl": "https://gothamist.com/news/nycs-whiplash-weather-continues-into-weekend-with-heavy-winds-chilly-temps-nws-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Manhattan DA charges woman with stealing $25K in immigration fraud scheme",
-      "sourceUrl": "https://gothamist.com/news/manhattan-da-charges-woman-stole-25k-in-immigration-fraud-scheme",
+      "title": "Early Addition: Winning an affordable housing lottery is great unless it's not",
+      "sourceUrl": "https://gothamist.com/news/early-addition-winning-an-affordable-housing-lottery-is-great-unless-its-not",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC lawmaker wants dedicated NYPD units to combat chaotic car meetups",
-      "sourceUrl": "https://gothamist.com/news/nyc-lawmaker-wants-dedicated-nypd-units-to-combat-chaotic-car-meetups",
+      "title": "Mamdani and 100+ NY officials urge parking lot owners to ban ICE",
+      "sourceUrl": "https://gothamist.com/news/mamdani-and-100-ny-officials-urge-parking-lot-owners-to-ban-ice",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: NYC comptroller backs off investing city pension funds in Israel bonds",
-      "sourceUrl": "https://gothamist.com/news/early-addition-nyc-comptroller-backs-off-investing-city-pension-funds-in-israel-bonds",
+      "title": "NYC ambulance response times have grown 41% as life-threatening calls rise",
+      "sourceUrl": "https://gothamist.com/news/nyc-ambulance-response-times-have-grown-41-as-life-threatening-calls-rise",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD investigating after 5-year-old Queens girl found dead",
-      "sourceUrl": "https://gothamist.com/news/nypd-investigating-after-5-year-old-queens-girl-found-dead",
+      "title": "Federal judge tosses Trump administration lawsuit challenging NYC sanctuary laws",
+      "sourceUrl": "https://gothamist.com/news/federal-judge-tosses-trump-administration-lawsuit-challenging-nyc-sanctuary-laws",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Dreamy Fall Dresses That Look Like Free People, but Start at $10",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/free-people-inspired-fall-dresses/",
+      "title": "Teen Mom's Tyler Baltierra Defends Daughter Carly's Adoptive Parents",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/teen-moms-tyler-baltierra-defends-carlys-adoptive-parents/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Selena Gomez Reveals 'Sweet' Way She Celebrated 1st Wedding Anniversary",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/selena-gomez-benny-blancos-sweet-1st-wedding-anniversary/",
+      "title": "These Rich-Mom Outfit Sets Are My Hack for Looking Polished, From $7",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/writer-approved-rich-mom-outfit-sets-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Bye, Leggings! These 13 Chic Fall Travel Outfits Are Just as Comfy",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-comfy-fall-travel-outfits/",
+      "title": "Jennifer Meyer Addresses Ex Tobey Maguire Officiating 'Unconventional' Wedding",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jennifer-meyer-on-ex-tobey-maguire-officiating-her-wedding/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Selena Gomez and Benny Blanco\u2019s Relationship Timeline",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/selena-gomez-and-benny-blancos-relationship-timeline/",
+      "title": "Florence Pugh Stuns in Naked Dress at \u2018Klara and the Sun\u2019 London Premiere",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/florence-pugh-stuns-in-naked-dress-at-london-premiere/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Madonna Celebrates Daughter Lourdes' 30th Birthday With Rare Photos",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/madonna-celebrates-lourdes-30th-birthday-with-rare-photos/",
+      "title": "Billy Joel Can\u2019t Perform or Drive Following His Brain Disorder Diagnosis",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/billy-joel-shares-update-amid-brain-disorder-diagnosis/",
       "sourceName": "usmagazine.com"
     }
   ]
