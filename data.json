@@ -1,5 +1,5 @@
 {
-  "dateLabel": "17 10 2026",
+  "dateLabel": "18 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,68 +7,92 @@
     "price": 709.33,
     "change": -28.21,
     "changePercent": -3.8256,
-    "fetchedAt": "2026-10-17T13:59:19.272473+00:00"
+    "fetchedAt": "2026-10-18T14:12:09.319961+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "sourceUrl": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Why hedge funds could be making a bond market shock more likely",
+      "sourceUrl": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "sourceUrl": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
       "sourceUrl": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
-      "sourceUrl": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-      "sourceUrl": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
-      "sourceUrl": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-      "sourceUrl": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "title": "Roth conversions: When the \u2018juice isn't really worth the squeeze,\u2019 according to a top-ranked advisor",
+      "sourceUrl": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Websites are closing their doors to AI agents",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "title": "Trump says Google kisses his ass",
+      "sourceUrl": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Bose\u2019s new wired earbuds are simple in the best way",
-      "sourceUrl": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "title": "The best gadget I bought this year is a milk frother",
+      "sourceUrl": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s HomeView is just the latest threat to online recipe writers",
-      "sourceUrl": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "title": "How overhead projectors took over your classroom",
+      "sourceUrl": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "It\u2019s a dream week for tech docs",
-      "sourceUrl": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+      "title": "Cities want to put the boot on robotaxis",
+      "sourceUrl": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "All the news about the iPhone Duo",
-      "sourceUrl": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "title": "TikTok bans Musk documentary account",
+      "sourceUrl": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
       "sourceName": "theverge.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Bail reform remains major issue in NY governor's race, 7 years after it became law",
+      "sourceUrl": "https://gothamist.com/news/bail-reform-remains-major-issue-in-ny-governors-race-7-years-after-it-became-law",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Man shot and killed on Midtown subway platform Saturday afternoon, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/man-shot-near-midtown-subway-station-saturday-afternoon-nypd-says",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Have you seen this Yorkie? NYPD looking for adorable pup dognapped from her Queens home",
+      "sourceUrl": "https://gothamist.com/news/have-you-seen-this-yorkie-nypd-searching-for-chanel-who-was-dognapped-from-her-queens-home",
+      "sourceName": "gothamist.com"
+    },
+    {
+      "category": "nyc",
+      "title": "Being reigning champions is weird for Knicks fans, but we could get used to this.",
+      "sourceUrl": "https://gothamist.com/news/being-reigning-champions-is-weird-for-knicks-fans-we-could-get-used-to-this",
+      "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
@@ -77,57 +101,33 @@
       "sourceName": "gothamist.com"
     },
     {
-      "category": "nyc",
-      "title": "Deer are all over New Jersey roads looking for sex, state officials warn",
-      "sourceUrl": "https://gothamist.com/news/deer-are-all-over-new-jersey-roads-looking-for-sex-state-officials-warn",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Man messaged 'I got straight poison' before giving NYC college students fentanyl, feds say",
-      "sourceUrl": "https://gothamist.com/news/man-messaged-i-got-straight-poison-before-giving-nyc-college-students-fentanyl-feds-say",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "Inside the plan to fix the nearly collapsed Pfizer Building, 1/64th of an inch at a time",
-      "sourceUrl": "https://gothamist.com/news/inside-the-plan-to-fix-the-nearly-collapsed-pfizer-building-164th-of-an-inch-at-a-time",
-      "sourceName": "gothamist.com"
-    },
-    {
-      "category": "nyc",
-      "title": "School bus carrying autistic students got lost in Brooklyn for 4 hours last year",
-      "sourceUrl": "https://gothamist.com/news/school-bus-carrying-autistic-students-got-lost-in-brooklyn-for-4-hours-last-year",
-      "sourceName": "gothamist.com"
-    },
-    {
       "category": "celebrity",
-      "title": "Kate Cassidy Recalls Final Moments With Liam Payne 2 Years After His Death",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/kate-cassidy-recalls-final-moments-with-late-liam-payne/",
+      "title": "'Saturday Night Live UK' Calls Shane Gillis a 'C***' in Swipe at 'SNL' US",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/snl-uk-calls-shane-gillis-fing-c-in-swipe-at-snl-us/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Harry Styles Plays New Song in Honor of Liam Payne 2 Years After His Death",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/harry-styles-honors-liam-payne-2-years-after-his-death/",
+      "title": "OG 'DWTS' Pro Louis van Amstel Talks 'Lift' Drama Amid Val Suspension",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-pro-louis-van-amstel-on-lift-drama-amid-val-suspension/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Melissa Gilbert Shares Cryptic Post After Timothy Busfield\u2019s Case Update",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/melissa-gilbert-reacts-to-timothy-busfields-case-dismissal/",
+      "title": "Donna Kelce Denies Resurfaced Offensive Posts Are Really From Travis Kelce",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/donna-kelce-denies-offensive-posts-are-really-from-son-travis/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'Boston Blue' Star Breaks Silence on [Spoiler]'s Shocking Season 2 Split",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/boston-blues-sonequa-martin-green-defends-lena-brians-split/",
+      "title": "Taylor Swift Wears Custom Dior Gown and 32-Carat Diamond Earrings at Gala",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/taylor-swift-wears-dior-gown-and-32-carat-earrings-at-gala/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'S.W.A.T' Star Teases Major 'Conflict' After Shocking Spinoff Twist",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/s-w-a-ts-adain-bradley-teases-conflict-after-surprise-spinoff-twist/",
+      "title": "Jenna Dewan's Fiance Breaks Silence On Her 'DWTS' Partner Val's Suspension",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/jenna-dewans-fiance-addresses-her-dwts-partners-suspension/",
       "sourceName": "usmagazine.com"
     }
   ]
