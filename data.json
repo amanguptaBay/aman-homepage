@@ -1,133 +1,133 @@
 {
-  "dateLabel": "18 10 2026",
+  "dateLabel": "19 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 709.33,
-    "change": -28.21,
-    "changePercent": -3.8256,
-    "fetchedAt": "2026-10-18T14:12:09.319961+00:00"
+    "price": 701.22,
+    "change": -35.5,
+    "changePercent": -4.8193,
+    "fetchedAt": "2026-10-19T17:14:38.918169+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "sourceUrl": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+      "sourceUrl": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Why hedge funds could be making a bond market shock more likely",
-      "sourceUrl": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+      "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+      "sourceUrl": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-      "sourceUrl": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "sourceUrl": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-      "sourceUrl": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+      "sourceUrl": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Roth conversions: When the \u2018juice isn't really worth the squeeze,\u2019 according to a top-ranked advisor",
-      "sourceUrl": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
+      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+      "sourceUrl": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Trump says Google kisses his ass",
-      "sourceUrl": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "title": "Apple teases MacBook Pro event next week",
+      "sourceUrl": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The best gadget I bought this year is a milk frother",
-      "sourceUrl": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "sourceUrl": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "How overhead projectors took over your classroom",
-      "sourceUrl": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "title": "Apple\u2019s last-gen Mac Mini with the M4 is $150 off",
+      "sourceUrl": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Cities want to put the boot on robotaxis",
-      "sourceUrl": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
+      "sourceUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "TikTok bans Musk documentary account",
-      "sourceUrl": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "title": "Major European mobile carriers are teaming up for a \u2018direct\u2019 satellite program without Starlink",
+      "sourceUrl": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Bail reform remains major issue in NY governor's race, 7 years after it became law",
-      "sourceUrl": "https://gothamist.com/news/bail-reform-remains-major-issue-in-ny-governors-race-7-years-after-it-became-law",
+      "title": "The Knicks are NBA champions. Now they have to start dressing the part.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/the-knicks-are-nba-champions-now-they-have-to-start-dressing-the-part",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Man shot and killed on Midtown subway platform Saturday afternoon, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/man-shot-near-midtown-subway-station-saturday-afternoon-nypd-says",
+      "title": "Mamdani launches new team to help NYers keep SNAP, Medicaid benefits",
+      "sourceUrl": "https://gothamist.com/news/mamdani-launches-new-team-to-help-nyers-keep-snap-medicaid-benefits",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Have you seen this Yorkie? NYPD looking for adorable pup dognapped from her Queens home",
-      "sourceUrl": "https://gothamist.com/news/have-you-seen-this-yorkie-nypd-searching-for-chanel-who-was-dognapped-from-her-queens-home",
+      "title": "Riders at 53rd St. station where man was fatally shot say they worry about gun violence",
+      "sourceUrl": "https://gothamist.com/news/riders-at-53rd-st-station-where-man-was-fatally-shot-say-they-worry-about-gun-violence",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Being reigning champions is weird for Knicks fans, but we could get used to this.",
-      "sourceUrl": "https://gothamist.com/news/being-reigning-champions-is-weird-for-knicks-fans-we-could-get-used-to-this",
+      "title": "These are the NYC neighborhoods that will get free 2-K next fall",
+      "sourceUrl": "https://gothamist.com/news/these-are-the-nyc-neighborhoods-that-will-get-free-2-k-next-fall",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Tompkins Square Park is getting a makeover. Some say it's too much.",
-      "sourceUrl": "https://gothamist.com/news/tompkins-square-park-is-getting-a-makeover-some-say-its-too-much",
+      "title": "Early Addition: Get to know Wanda, the donkey in the Met's 'La Boh\u00e8me'",
+      "sourceUrl": "https://gothamist.com/news/early-addition-get-to-know-wanda-the-donkey-in-the-mets-la-boh%C3%A8me",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "'Saturday Night Live UK' Calls Shane Gillis a 'C***' in Swipe at 'SNL' US",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/snl-uk-calls-shane-gillis-fing-c-in-swipe-at-snl-us/",
+      "title": "Kendall Jenner, Jenna Ortega, Naomi Ackie and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "OG 'DWTS' Pro Louis van Amstel Talks 'Lift' Drama Amid Val Suspension",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-pro-louis-van-amstel-on-lift-drama-amid-val-suspension/",
+      "title": "Marshals' Most Shocking Deaths: From 'Yellowstone' Alums to Country Stars",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/marshals-shocking-deaths-yellowstone-alums-country-stars/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Donna Kelce Denies Resurfaced Offensive Posts Are Really From Travis Kelce",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/donna-kelce-denies-offensive-posts-are-really-from-son-travis/",
+      "title": "These 17 Tummy-Slimming Fall Maxis Look Like Luxe Boutique Finds",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/editor-loved-tummy-slimming-fall-maxi-dresses/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Taylor Swift Wears Custom Dior Gown and 32-Carat Diamond Earrings at Gala",
-      "sourceUrl": "https://www.usmagazine.com/stylish/news/taylor-swift-wears-dior-gown-and-32-carat-earrings-at-gala/",
+      "title": "Jessi Draper Cosplays as a 'Divorced Dad' to Celebrate Jordan Divorce",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jessi-draper-celebrates-jordan-ngatikaura-divorce/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jenna Dewan's Fiance Breaks Silence On Her 'DWTS' Partner Val's Suspension",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/jenna-dewans-fiance-addresses-her-dwts-partners-suspension/",
+      "title": "10 Best TV Shows of All Time, Ranked by IMDb",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/10-best-tv-shows-of-all-time-ranked-by-imdb/",
       "sourceName": "usmagazine.com"
     }
   ]
