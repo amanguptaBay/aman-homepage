@@ -1,133 +1,133 @@
 {
-  "dateLabel": "19 10 2026",
+  "dateLabel": "20 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 701.22,
-    "change": -35.5,
-    "changePercent": -4.8193,
-    "fetchedAt": "2026-10-19T17:14:38.918169+00:00"
+    "price": 692.61,
+    "change": -16.72,
+    "changePercent": -2.3572,
+    "fetchedAt": "2026-10-20T15:27:10.023095+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+      "title": "September data shows housing market in a deep freeze",
+      "sourceUrl": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+      "sourceUrl": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+      "sourceUrl": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+      "sourceUrl": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Apple teases MacBook Pro event next week",
-      "sourceUrl": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "title": "Over $963,000 worth of graded Pok\u00e9mon and sports cards were stolen from Fedex",
+      "sourceUrl": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "sourceUrl": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "sourceUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s last-gen Mac Mini with the M4 is $150 off",
-      "sourceUrl": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+      "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+      "sourceUrl": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
-      "sourceUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Major European mobile carriers are teaming up for a \u2018direct\u2019 satellite program without Starlink",
-      "sourceUrl": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+      "title": "Wii Sports is back on the Switch 2, and it rules",
+      "sourceUrl": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "The Knicks are NBA champions. Now they have to start dressing the part.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/the-knicks-are-nba-champions-now-they-have-to-start-dressing-the-part",
+      "title": "Early Addition: There's a new hot duck, this time in Queens",
+      "sourceUrl": "https://gothamist.com/news/early-addition-theres-a-new-hot-duck-this-time-in-queens",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani launches new team to help NYers keep SNAP, Medicaid benefits",
-      "sourceUrl": "https://gothamist.com/news/mamdani-launches-new-team-to-help-nyers-keep-snap-medicaid-benefits",
+      "title": "NYPD hate crime unit investigates smashed windows, \u2018Pal Action\u2019 graffiti at UES Capital One",
+      "sourceUrl": "https://gothamist.com/news/nypd-hate-crime-unit-investigates-smashed-windows-pal-action-graffiti-at-ues-capital-one",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Riders at 53rd St. station where man was fatally shot say they worry about gun violence",
-      "sourceUrl": "https://gothamist.com/news/riders-at-53rd-st-station-where-man-was-fatally-shot-say-they-worry-about-gun-violence",
+      "title": "A reliably Republican part of NJ, until ICE came to town",
+      "sourceUrl": "https://gothamist.com/news/a-reliably-republican-part-of-nj-until-ice-came-to-town",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "These are the NYC neighborhoods that will get free 2-K next fall",
-      "sourceUrl": "https://gothamist.com/news/these-are-the-nyc-neighborhoods-that-will-get-free-2-k-next-fall",
+      "title": "NYC school integration debate exposes tensions between Black parents and Mamdani",
+      "sourceUrl": "https://gothamist.com/news/nyc-school-integration-debate-exposes-tensions-between-black-parents-and-mamdani",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Get to know Wanda, the donkey in the Met's 'La Boh\u00e8me'",
-      "sourceUrl": "https://gothamist.com/news/early-addition-get-to-know-wanda-the-donkey-in-the-mets-la-boh%C3%A8me",
+      "title": "Queens man charged with hate crime at Jewish-owned bagel shop displaying Israeli flags",
+      "sourceUrl": "https://gothamist.com/news/queens-man-charged-with-hate-crime-at-jewish-owned-bagel-shop-displaying-israeli-flags",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Kendall Jenner, Jenna Ortega, Naomi Ackie and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "'Pebble Jeans' Are the Cozy Anti-Denim Style Jennifer Aniston Rocks",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/pebble-jeans-jennifer-aniston-fall-pant-trend/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Marshals' Most Shocking Deaths: From 'Yellowstone' Alums to Country Stars",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/marshals-shocking-deaths-yellowstone-alums-country-stars/",
+      "title": "Mariah Carey's Brother's $20M Defamation Lawsuit Over Her Memoir Dismissed",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/mariah-careys-brothers-20m-defamation-lawsuit-dismissed/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These 17 Tummy-Slimming Fall Maxis Look Like Luxe Boutique Finds",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/editor-loved-tummy-slimming-fall-maxi-dresses/",
+      "title": "Balloon Trousers Are the Oddly Chic (and Super Comfy) Fall-to-Winter Pants Trend",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/balloon-pants-chic-trend-fall/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jessi Draper Cosplays as a 'Divorced Dad' to Celebrate Jordan Divorce",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jessi-draper-celebrates-jordan-ngatikaura-divorce/",
+      "title": "The Best Thriller Movie From Every Year of the 1980s",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/the-best-thriller-movie-from-every-year-of-the-1980s/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "10 Best TV Shows of All Time, Ranked by IMDb",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/10-best-tv-shows-of-all-time-ranked-by-imdb/",
+      "title": "KPop Demon Hunters' Ejae Marries Fiance Samuel Kim in Seoul",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-weddings-of-2026-stars-who-got-married-this-year/",
       "sourceName": "usmagazine.com"
     }
   ]
