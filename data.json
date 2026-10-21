@@ -1,133 +1,133 @@
 {
-  "dateLabel": "20 10 2026",
+  "dateLabel": "21 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 692.61,
-    "change": -16.72,
-    "changePercent": -2.3572,
-    "fetchedAt": "2026-10-20T15:27:10.023095+00:00"
+    "price": 711.71,
+    "change": 6.27,
+    "changePercent": 0.8888,
+    "fetchedAt": "2026-10-21T15:43:43.458981+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "September data shows housing market in a deep freeze",
-      "sourceUrl": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+      "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
-      "sourceUrl": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+      "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel supplier",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+      "title": "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behind schedule",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-      "sourceUrl": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+      "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
-      "sourceUrl": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Over $963,000 worth of graded Pok\u00e9mon and sports cards were stolen from Fedex",
-      "sourceUrl": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "sourceUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "title": "Samsung\u2019s 5K monitor has good gaming chops and a great price",
+      "sourceUrl": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-      "sourceUrl": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+      "title": "Apple says it only has \u2018limited\u2019 iPhone Duo units for in-store sales",
+      "sourceUrl": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "sourceUrl": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Wii Sports is back on the Switch 2, and it rules",
-      "sourceUrl": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: There's a new hot duck, this time in Queens",
-      "sourceUrl": "https://gothamist.com/news/early-addition-theres-a-new-hot-duck-this-time-in-queens",
+      "title": "NYC\u2019s subsidized childcare waitlist is moving, starting with 3K families",
+      "sourceUrl": "https://gothamist.com/news/nycs-subsidized-childcare-waitlist-is-moving-starting-with-3k-families",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD hate crime unit investigates smashed windows, \u2018Pal Action\u2019 graffiti at UES Capital One",
-      "sourceUrl": "https://gothamist.com/news/nypd-hate-crime-unit-investigates-smashed-windows-pal-action-graffiti-at-ues-capital-one",
+      "title": "Elon Musk drops $500K on NY Rep. Mike Lawler's re-election bid",
+      "sourceUrl": "https://gothamist.com/news/elon-musk-drops-500k-on-ny-rep-mike-lawlers-reelection-bid",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A reliably Republican part of NJ, until ICE came to town",
-      "sourceUrl": "https://gothamist.com/news/a-reliably-republican-part-of-nj-until-ice-came-to-town",
+      "title": "Early Addition: If you catch a mouse, there are meaner options than feeding it to a bird",
+      "sourceUrl": "https://gothamist.com/news/early-addition-if-you-catch-a-mouse-there-are-meaner-options-than-feeding-it-to-a-bird",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC school integration debate exposes tensions between Black parents and Mamdani",
-      "sourceUrl": "https://gothamist.com/news/nyc-school-integration-debate-exposes-tensions-between-black-parents-and-mamdani",
+      "title": "Brad Lander says he's released after Israeli forces detained him during olive harvest",
+      "sourceUrl": "https://gothamist.com/news/brad-lander-says-israeli-forces-detained-him-during-a-west-bank-olive-harvest",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Queens man charged with hate crime at Jewish-owned bagel shop displaying Israeli flags",
-      "sourceUrl": "https://gothamist.com/news/queens-man-charged-with-hate-crime-at-jewish-owned-bagel-shop-displaying-israeli-flags",
+      "title": "George Washington Bridge reopens after fatal shooting; no arrests made",
+      "sourceUrl": "https://gothamist.com/news/george-washington-bridge-reopens-after-fatal-shooting-no-arrests-made",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "'Pebble Jeans' Are the Cozy Anti-Denim Style Jennifer Aniston Rocks",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/pebble-jeans-jennifer-aniston-fall-pant-trend/",
+      "title": "Bye, Belly Pooch! 13 Twist-Front Dresses That Hide the Midsection",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/twist-front-dresses-camouflage-midsection/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Mariah Carey's Brother's $20M Defamation Lawsuit Over Her Memoir Dismissed",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/mariah-careys-brothers-20m-defamation-lawsuit-dismissed/",
+      "title": "Amy Jo Johnson 'Happy to Be Alive' After Plane Incident With Donnie Wahlberg",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/amy-jo-johnson-opens-up-about-donnie-wahlberg-plane-incident/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Balloon Trousers Are the Oddly Chic (and Super Comfy) Fall-to-Winter Pants Trend",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/balloon-pants-chic-trend-fall/",
+      "title": "Tyler Cameron and Fiancee Found Out About 1st Baby Right After Engagement",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/tyler-cameron-found-out-about-baby-right-after-engagement/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "The Best Thriller Movie From Every Year of the 1980s",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/the-best-thriller-movie-from-every-year-of-the-1980s/",
+      "title": "\u2018DWTS\u2019 Pro Louis van Amstel Disses Gleb Savchenko for Criticizing Alan Bersten",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-pro-louis-van-amstel-disses-gleb-after-alan-comments/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "KPop Demon Hunters' Ejae Marries Fiance Samuel Kim in Seoul",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-weddings-of-2026-stars-who-got-married-this-year/",
+      "title": "Roseanne Barr Claims Michael Jackson Was Lisa Marie Presley\u2019s \u2018Best Lay\u2019",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/roseanne-barr-says-michael-jackson-was-lisa-maries-best-sex/",
       "sourceName": "usmagazine.com"
     }
   ]
