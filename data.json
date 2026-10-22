@@ -1,133 +1,133 @@
 {
-  "dateLabel": "21 10 2026",
+  "dateLabel": "22 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 711.71,
-    "change": 6.27,
-    "changePercent": 0.8888,
-    "fetchedAt": "2026-10-21T15:43:43.458981+00:00"
+    "price": 658.24,
+    "change": -36.01,
+    "changePercent": -5.1876,
+    "fetchedAt": "2026-10-22T15:43:10.034614+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-      "sourceUrl": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "sourceUrl": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel supplier",
-      "sourceUrl": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+      "sourceUrl": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behind schedule",
-      "sourceUrl": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+      "sourceUrl": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
-      "sourceUrl": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+      "sourceUrl": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-      "sourceUrl": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+      "title": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "title": "Apple\u2019s Magic Keyboards for iPad are about half off, with a small catch",
+      "sourceUrl": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Samsung\u2019s 5K monitor has good gaming chops and a great price",
-      "sourceUrl": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "sourceUrl": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple says it only has \u2018limited\u2019 iPhone Duo units for in-store sales",
-      "sourceUrl": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
+      "title": "You could just get a refurbished Samsung phone on Amazon",
+      "sourceUrl": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Blink brings 4K to its low-cost security camera lineup",
-      "sourceUrl": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+      "title": "Coolfly\u2019s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+      "sourceUrl": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "title": "Coolpad\u2019s new $150 Android phone has a wider screen like the iPhone Duo, but doesn\u2019t fold",
+      "sourceUrl": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYC\u2019s subsidized childcare waitlist is moving, starting with 3K families",
-      "sourceUrl": "https://gothamist.com/news/nycs-subsidized-childcare-waitlist-is-moving-starting-with-3k-families",
+      "title": "Jersey City housing development deal expected to send money to schools, city government",
+      "sourceUrl": "https://gothamist.com/news/jersey-city-housing-development-deal-expected-to-send-money-to-schools-city-government",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Elon Musk drops $500K on NY Rep. Mike Lawler's re-election bid",
-      "sourceUrl": "https://gothamist.com/news/elon-musk-drops-500k-on-ny-rep-mike-lawlers-reelection-bid",
+      "title": "In the algorithm age, NYC college radio DJs are still broadcasting the funky stuff",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/in-the-algorithm-age-nyc-college-radio-djs-are-still-broadcasting-the-funky-stuff",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: If you catch a mouse, there are meaner options than feeding it to a bird",
-      "sourceUrl": "https://gothamist.com/news/early-addition-if-you-catch-a-mouse-there-are-meaner-options-than-feeding-it-to-a-bird",
+      "title": "The divide among Mamdani allies over reforming the NYPD",
+      "sourceUrl": "https://gothamist.com/news/the-divide-among-mamdani-allies-over-reforming-the-nypd",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Brad Lander says he's released after Israeli forces detained him during olive harvest",
-      "sourceUrl": "https://gothamist.com/news/brad-lander-says-israeli-forces-detained-him-during-a-west-bank-olive-harvest",
+      "title": "How NY Gov. Hochul, Bruce Blakeman would tackle rising electric, heat bills",
+      "sourceUrl": "https://gothamist.com/news/how-ny-gov-hochul-bruce-blakeman-would-tackle-rising-electric-heat-bills",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "George Washington Bridge reopens after fatal shooting; no arrests made",
-      "sourceUrl": "https://gothamist.com/news/george-washington-bridge-reopens-after-fatal-shooting-no-arrests-made",
+      "title": "A Queens prop shop shutters, bunnies find a home uptown, and more openings and closings",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/a-queens-prop-shop-shutters-bunnies-find-a-home-uptown-and-more-openings-and-closings",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Bye, Belly Pooch! 13 Twist-Front Dresses That Hide the Midsection",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/twist-front-dresses-camouflage-midsection/",
+      "title": "Christa Pike Speaking in Full Sentences After Botched Execution Attempt",
+      "sourceUrl": "https://www.usmagazine.com/crime-news/news/christa-pike-speaking-in-full-sentences-after-execution-attempt/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Amy Jo Johnson 'Happy to Be Alive' After Plane Incident With Donnie Wahlberg",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/amy-jo-johnson-opens-up-about-donnie-wahlberg-plane-incident/",
+      "title": "These Chic Cardigans Solve Your 'What Do I Wear' Dilemma",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-effortless-amazon-cardigans/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Tyler Cameron and Fiancee Found Out About 1st Baby Right After Engagement",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/tyler-cameron-found-out-about-baby-right-after-engagement/",
+      "title": "Celebrity Deaths of 2026: John Anderson and More Stars We've Lost",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-deaths-of-2026-grateful-deads-bob-weir-and-more-stars-we-lost/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "\u2018DWTS\u2019 Pro Louis van Amstel Disses Gleb Savchenko for Criticizing Alan Bersten",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-pro-louis-van-amstel-disses-gleb-after-alan-comments/",
+      "title": "'Stick Run' Game Creator Manuel Otto Dies by Suicide on Twitch Livestream",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/stick-run-creator-manuel-otto-dies-by-suicide-on-livestream/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Roseanne Barr Claims Michael Jackson Was Lisa Marie Presley\u2019s \u2018Best Lay\u2019",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/roseanne-barr-says-michael-jackson-was-lisa-maries-best-sex/",
+      "title": "Julia Stiles Asked Michelle Williams to Approve Heath Ledger 'DWTS' Tribute",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/julia-stiles-asked-michelle-williams-to-ok-heath-ledger-tribute/",
       "sourceName": "usmagazine.com"
     }
   ]
