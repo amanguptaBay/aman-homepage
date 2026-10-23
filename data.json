@@ -1,133 +1,133 @@
 {
-  "dateLabel": "22 10 2026",
+  "dateLabel": "23 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 658.24,
-    "change": -36.01,
-    "changePercent": -5.1876,
-    "fetchedAt": "2026-10-22T15:43:10.034614+00:00"
+    "price": 645.7,
+    "change": -51.82,
+    "changePercent": -7.4292,
+    "fetchedAt": "2026-10-23T15:31:40.892566+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "sourceUrl": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
+      "sourceUrl": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-      "sourceUrl": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "sourceUrl": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-      "sourceUrl": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "sourceUrl": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
-      "sourceUrl": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+      "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "sourceUrl": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
-      "sourceUrl": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+      "sourceUrl": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s Magic Keyboards for iPad are about half off, with a small catch",
-      "sourceUrl": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+      "title": "SpaceX\u2019s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+      "sourceUrl": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "PHP: The three little letters wreaking havoc across the web",
-      "sourceUrl": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "You could just get a refurbished Samsung phone on Amazon",
-      "sourceUrl": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
+      "title": "The Sigma FP2 brings significant upgrades to the \u2018world\u2019s smallest\u2019 full-frame camera",
+      "sourceUrl": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Coolfly\u2019s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
-      "sourceUrl": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+      "title": "Our best tips for using the iPhone Duo",
+      "sourceUrl": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Coolpad\u2019s new $150 Android phone has a wider screen like the iPhone Duo, but doesn\u2019t fold",
-      "sourceUrl": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+      "title": "Apple revives the original iPod as an Apple Music easter egg",
+      "sourceUrl": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Jersey City housing development deal expected to send money to schools, city government",
-      "sourceUrl": "https://gothamist.com/news/jersey-city-housing-development-deal-expected-to-send-money-to-schools-city-government",
+      "title": "NJ early voting begins Saturday. Here's everything you need to know.",
+      "sourceUrl": "https://gothamist.com/news/nj-early-voting-begins-saturday-heres-everything-you-need-to-know",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "In the algorithm age, NYC college radio DJs are still broadcasting the funky stuff",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/in-the-algorithm-age-nyc-college-radio-djs-are-still-broadcasting-the-funky-stuff",
+      "title": "Countdown clocks are coming to an NYC bus stop near you",
+      "sourceUrl": "https://gothamist.com/news/countdown-clocks-are-coming-to-an-nyc-bus-stop-near-you",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "The divide among Mamdani allies over reforming the NYPD",
-      "sourceUrl": "https://gothamist.com/news/the-divide-among-mamdani-allies-over-reforming-the-nypd",
+      "title": "Are NJ schools unconstitutionally segregated? It's back to the courts to decide.",
+      "sourceUrl": "https://gothamist.com/news/are-nj-schools-unconstitutionally-segregated-its-back-to-the-courts-to-decide",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "How NY Gov. Hochul, Bruce Blakeman would tackle rising electric, heat bills",
-      "sourceUrl": "https://gothamist.com/news/how-ny-gov-hochul-bruce-blakeman-would-tackle-rising-electric-heat-bills",
+      "title": "Early Addition: New Jersey considering a ban on chewing gum because of microplastics",
+      "sourceUrl": "https://gothamist.com/news/early-addition-new-jersey-considering-a-ban-on-chewing-gum-because-of-microplastics",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A Queens prop shop shutters, bunnies find a home uptown, and more openings and closings",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/a-queens-prop-shop-shutters-bunnies-find-a-home-uptown-and-more-openings-and-closings",
+      "title": "Queens mother charged with murdering her son after failed suicide attempt, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/queens-mother-charged-with-murdering-her-son-after-failed-suicide-attempt-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Christa Pike Speaking in Full Sentences After Botched Execution Attempt",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/christa-pike-speaking-in-full-sentences-after-execution-attempt/",
+      "title": "Kim Kardashian Documents Underwear-Baring Outfit Change for 46th Birthday",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/kim-kardashians-underwear-baring-outfit-for-46th-birthday/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These Chic Cardigans Solve Your 'What Do I Wear' Dilemma",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-effortless-amazon-cardigans/",
+      "title": "This Is Not a Drill! Nordstrom\u2019s Coziest Fall Sweaters Are on Mega Sale",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/cozy-fall-sweaters-on-sale-at-nordstrom/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Celebrity Deaths of 2026: John Anderson and More Stars We've Lost",
+      "title": "Gleb Savchenko Reacts to Being Branded an 'Unemployed Professional Hater'",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/gleb-savchenko-reacts-to-being-branded-an-unemployed-hater/",
+      "sourceName": "usmagazine.com"
+    },
+    {
+      "category": "celebrity",
+      "title": "Celebrity Deaths of 2026: Michael Gray and More Stars We've Lost",
       "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-deaths-of-2026-grateful-deads-bob-weir-and-more-stars-we-lost/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'Stick Run' Game Creator Manuel Otto Dies by Suicide on Twitch Livestream",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/stick-run-creator-manuel-otto-dies-by-suicide-on-livestream/",
-      "sourceName": "usmagazine.com"
-    },
-    {
-      "category": "celebrity",
-      "title": "Julia Stiles Asked Michelle Williams to Approve Heath Ledger 'DWTS' Tribute",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/julia-stiles-asked-michelle-williams-to-ok-heath-ledger-tribute/",
+      "title": "Miley Cyrus Shaves Fan\u2019s Head Following Stage 3 Breast Cancer Diagnosis",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/miley-cyrus-shaves-fans-head-after-stage-3-cancer-diagnosis/",
       "sourceName": "usmagazine.com"
     }
   ]
