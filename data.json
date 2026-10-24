@@ -1,133 +1,133 @@
 {
-  "dateLabel": "23 10 2026",
+  "dateLabel": "24 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 645.7,
-    "change": -51.82,
-    "changePercent": -7.4292,
-    "fetchedAt": "2026-10-23T15:31:40.892566+00:00"
+    "price": 642.62,
+    "change": -54.9,
+    "changePercent": -7.8707,
+    "fetchedAt": "2026-10-24T14:09:58.423027+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
-      "sourceUrl": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "title": "Why popular airplanes are getting scrapped years early",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-      "sourceUrl": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "sourceUrl": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-      "sourceUrl": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-      "sourceUrl": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+      "title": "Berkshire shares shake the Buffett blues with new all-time highs",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "SpaceX\u2019s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "sourceUrl": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "sourceUrl": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "sourceUrl": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Sigma FP2 brings significant upgrades to the \u2018world\u2019s smallest\u2019 full-frame camera",
-      "sourceUrl": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "sourceUrl": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Our best tips for using the iPhone Duo",
-      "sourceUrl": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+      "title": "It\u2019s time to find a new browser",
+      "sourceUrl": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple revives the original iPod as an Apple Music easter egg",
-      "sourceUrl": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+      "title": "Xbox\u2019s first chief operating officer is out after just a few months",
+      "sourceUrl": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NJ early voting begins Saturday. Here's everything you need to know.",
-      "sourceUrl": "https://gothamist.com/news/nj-early-voting-begins-saturday-heres-everything-you-need-to-know",
+      "title": "NYPD: Officer shot, injured knife-wielding woman during \u2018chaotic\u2019 night at Queens home",
+      "sourceUrl": "https://gothamist.com/news/nypd-officer-shot-injured-knife-wielding-woman-during-chaotic-night-at-queens-home",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Countdown clocks are coming to an NYC bus stop near you",
-      "sourceUrl": "https://gothamist.com/news/countdown-clocks-are-coming-to-an-nyc-bus-stop-near-you",
+      "title": "3 slates vying to run Jersey City school board as city stares down major tax hikes",
+      "sourceUrl": "https://gothamist.com/news/3-slates-vying-to-run-jersey-city-school-board-as-city-stares-down-major-tax-hikes",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Are NJ schools unconstitutionally segregated? It's back to the courts to decide.",
-      "sourceUrl": "https://gothamist.com/news/are-nj-schools-unconstitutionally-segregated-its-back-to-the-courts-to-decide",
+      "title": "5 men charged with trespassing in 2 Manhattan manhole cases",
+      "sourceUrl": "https://gothamist.com/news/5-men-charged-with-trespassing-in-2-manhattan-manhole-cases",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: New Jersey considering a ban on chewing gum because of microplastics",
-      "sourceUrl": "https://gothamist.com/news/early-addition-new-jersey-considering-a-ban-on-chewing-gum-because-of-microplastics",
+      "title": "6-year-old girl breaks leg after getting hit by falling bricks in Queens",
+      "sourceUrl": "https://gothamist.com/news/6-year-old-girl-breaks-leg-after-getting-hit-by-falling-bricks-in-queens",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Queens mother charged with murdering her son after failed suicide attempt, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/queens-mother-charged-with-murdering-her-son-after-failed-suicide-attempt-nypd-says",
+      "title": "Mamdani extends ban on permits for new street fairs due to NYPD overtime",
+      "sourceUrl": "https://gothamist.com/news/mamdani-extends-ban-on-permits-for-new-street-fairs-due-to-nypd-overtime",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Kim Kardashian Documents Underwear-Baring Outfit Change for 46th Birthday",
-      "sourceUrl": "https://www.usmagazine.com/stylish/news/kim-kardashians-underwear-baring-outfit-for-46th-birthday/",
+      "title": "Jon Gosselin's Ex Colleen Conrad Reacts to Collin's Memoir Tribute",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/jon-gosselins-ex-reacts-to-collins-memoir-tribute/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "This Is Not a Drill! Nordstrom\u2019s Coziest Fall Sweaters Are on Mega Sale",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/cozy-fall-sweaters-on-sale-at-nordstrom/",
+      "title": "Ariana Madix\u2019s Los Angeles Home Is Burglarized, Jewelry Stolen: Report",
+      "sourceUrl": "https://www.usmagazine.com/crime-news/news/ariana-madixs-home-is-burglarized-jewelry-stolen/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Gleb Savchenko Reacts to Being Branded an 'Unemployed Professional Hater'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/gleb-savchenko-reacts-to-being-branded-an-unemployed-hater/",
+      "title": "Anne Hathaway Called This Body Oil a 'Game-Changer' for Her Pregnancy",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/anne-hathaway-pregnancy-body-oil/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Celebrity Deaths of 2026: Michael Gray and More Stars We've Lost",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-deaths-of-2026-grateful-deads-bob-weir-and-more-stars-we-lost/",
+      "title": "'The Rainmaker' Cast Teases Season 2 Differences After Changes",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/the-rainmaker-cast-teases-season-2-differences-after-changes/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Miley Cyrus Shaves Fan\u2019s Head Following Stage 3 Breast Cancer Diagnosis",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/miley-cyrus-shaves-fans-head-after-stage-3-cancer-diagnosis/",
+      "title": "Vanessa Trump Is \u2018Finally Cancer-Free\u2019 6 Months After Her Diagnosis",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/vanessa-trump-is-cancer-free-6-months-after-her-diagnosis/",
       "sourceName": "usmagazine.com"
     }
   ]
