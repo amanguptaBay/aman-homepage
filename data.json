@@ -1,5 +1,5 @@
 {
-  "dateLabel": "24 10 2026",
+  "dateLabel": "25 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,127 +7,127 @@
     "price": 642.62,
     "change": -54.9,
     "changePercent": -7.8707,
-    "fetchedAt": "2026-10-24T14:09:58.423027+00:00"
+    "fetchedAt": "2026-10-25T14:39:48.315656+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Why popular airplanes are getting scrapped years early",
-      "sourceUrl": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+      "sourceUrl": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-      "sourceUrl": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "sourceUrl": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-      "sourceUrl": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "title": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+      "sourceUrl": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-      "sourceUrl": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+      "sourceUrl": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Berkshire shares shake the Buffett blues with new all-time highs",
-      "sourceUrl": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "sourceUrl": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "sourceUrl": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "title": "Google\u2019s AI search changes upended online publishing",
+      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Laika has spent 20 years building up to Wildwood",
-      "sourceUrl": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "It\u2019s time to find a new browser",
-      "sourceUrl": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Xbox\u2019s first chief operating officer is out after just a few months",
-      "sourceUrl": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "sourceUrl": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD: Officer shot, injured knife-wielding woman during \u2018chaotic\u2019 night at Queens home",
-      "sourceUrl": "https://gothamist.com/news/nypd-officer-shot-injured-knife-wielding-woman-during-chaotic-night-at-queens-home",
+      "title": "Retired NYPD detective charged in George Washington Bridge killing out on $1M bail",
+      "sourceUrl": "https://gothamist.com/news/retired-nypd-detective-charged-in-george-washington-bridge-killing-out-on-1m-bail",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "3 slates vying to run Jersey City school board as city stares down major tax hikes",
-      "sourceUrl": "https://gothamist.com/news/3-slates-vying-to-run-jersey-city-school-board-as-city-stares-down-major-tax-hikes",
+      "title": "Suicides decline in NYC, but inequities persist across groups",
+      "sourceUrl": "https://gothamist.com/news/suicides-decline-in-nyc-but-inequities-persist-across-groups",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "5 men charged with trespassing in 2 Manhattan manhole cases",
-      "sourceUrl": "https://gothamist.com/news/5-men-charged-with-trespassing-in-2-manhattan-manhole-cases",
+      "title": "Cuts to rural healthcare become key issue for upstate votes in race for NY governor",
+      "sourceUrl": "https://gothamist.com/news/cuts-to-rural-healthcare-become-key-issue-for-upstate-votes-in-race-for-ny-governor",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "6-year-old girl breaks leg after getting hit by falling bricks in Queens",
-      "sourceUrl": "https://gothamist.com/news/6-year-old-girl-breaks-leg-after-getting-hit-by-falling-bricks-in-queens",
+      "title": "NY Archdiocese will soon settle $800M clergy sexual abuse claims",
+      "sourceUrl": "https://gothamist.com/news/ny-archdiocese-will-soon-settle-800m-clergy-sexual-abuse-claims",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani extends ban on permits for new street fairs due to NYPD overtime",
-      "sourceUrl": "https://gothamist.com/news/mamdani-extends-ban-on-permits-for-new-street-fairs-due-to-nypd-overtime",
+      "title": "Chinatown residents file lawsuit against after-hours construction on new 'mega jail'",
+      "sourceUrl": "https://gothamist.com/news/chinatown-residents-file-lawsuit-against-after-hours-construction-on-new-mega-jail",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Jon Gosselin's Ex Colleen Conrad Reacts to Collin's Memoir Tribute",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/jon-gosselins-ex-reacts-to-collins-memoir-tribute/",
+      "title": "Emma Stone and Daisy Edgar-Jones Wore the Jacket Style That Elevates Jeans",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/emma-stone-and-daisy-edgar-jones-jacquard-jackets-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Ariana Madix\u2019s Los Angeles Home Is Burglarized, Jewelry Stolen: Report",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/ariana-madixs-home-is-burglarized-jewelry-stolen/",
+      "title": "Kyle Cooke and Ciara Miller Kiss in 'Summer House' Teaser: 'So Crazy'",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kyle-cooke-and-ciara-miller-kiss-in-summer-house-teaser/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Anne Hathaway Called This Body Oil a 'Game-Changer' for Her Pregnancy",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/anne-hathaway-pregnancy-body-oil/",
+      "title": "Meghan Markle Sent Dad a Letter in 2025 Banning Him From Grandkids: Reports",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markle-sent-dad-a-letter-in-2025-about-accusations/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'The Rainmaker' Cast Teases Season 2 Differences After Changes",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/the-rainmaker-cast-teases-season-2-differences-after-changes/",
+      "title": "Meghan Markle's Estranged Dad Addresses Claims He Had Sex With a Child",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markles-dad-denies-claims-he-had-sex-with-a-child/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Vanessa Trump Is \u2018Finally Cancer-Free\u2019 6 Months After Her Diagnosis",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/vanessa-trump-is-cancer-free-6-months-after-her-diagnosis/",
+      "title": "Puffers Who? These Chic Quilted Jackets Are Fall's Cool-Girl Layer",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-amazon-quilted-jackets-fall-winter/",
       "sourceName": "usmagazine.com"
     }
   ]
