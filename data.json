@@ -1,133 +1,133 @@
 {
-  "dateLabel": "25 10 2026",
+  "dateLabel": "26 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 642.62,
-    "change": -54.9,
-    "changePercent": -7.8707,
-    "fetchedAt": "2026-10-25T14:39:48.315656+00:00"
+    "price": 641.97,
+    "change": -6.88,
+    "changePercent": -1.0603,
+    "fetchedAt": "2026-10-26T17:03:12.456748+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-      "sourceUrl": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-      "sourceUrl": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "title": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "sourceUrl": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+      "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-      "sourceUrl": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+      "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-      "sourceUrl": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
+      "sourceUrl": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google\u2019s AI search changes upended online publishing",
-      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "title": "Instagram chases YouTube with a push for longer, widescreen videos",
+      "sourceUrl": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "sourceUrl": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "title": "T-Mobile\u2019s new plans include swappable subscription perks",
+      "sourceUrl": "https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "sourceUrl": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "title": "Microsoft\u2019s new Surface Laptop Ultra update fixes reboot and display bugs",
+      "sourceUrl": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Retired NYPD detective charged in George Washington Bridge killing out on $1M bail",
-      "sourceUrl": "https://gothamist.com/news/retired-nypd-detective-charged-in-george-washington-bridge-killing-out-on-1m-bail",
+      "title": "NYC Council to weigh changes to juvenile jails as assaults and overcrowding rise",
+      "sourceUrl": "https://gothamist.com/news/nyc-council-to-weigh-changes-to-juvenile-jails-as-assaults-and-overcrowding-rise",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Suicides decline in NYC, but inequities persist across groups",
-      "sourceUrl": "https://gothamist.com/news/suicides-decline-in-nyc-but-inequities-persist-across-groups",
+      "title": "Why NYC restaurants are playing coy about sustainability",
+      "sourceUrl": "https://gothamist.com/food/why-nyc-restaurants-are-playing-coy-about-sustainability",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Cuts to rural healthcare become key issue for upstate votes in race for NY governor",
-      "sourceUrl": "https://gothamist.com/news/cuts-to-rural-healthcare-become-key-issue-for-upstate-votes-in-race-for-ny-governor",
+      "title": "Early Addition: Who's giving out those chic little Nordic gummies this Halloween?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-whos-giving-out-those-chic-little-nordic-gummies-this-halloween",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY Archdiocese will soon settle $800M clergy sexual abuse claims",
-      "sourceUrl": "https://gothamist.com/news/ny-archdiocese-will-soon-settle-800m-clergy-sexual-abuse-claims",
+      "title": "In East Brooklyn, aging NYCHA homes get a $636M upgrade",
+      "sourceUrl": "https://gothamist.com/news/in-east-brooklyn-aging-nycha-homes-get-a-636m-upgrade",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Chinatown residents file lawsuit against after-hours construction on new 'mega jail'",
-      "sourceUrl": "https://gothamist.com/news/chinatown-residents-file-lawsuit-against-after-hours-construction-on-new-mega-jail",
+      "title": "What NYers can expect as open enrollment for health insurance begins",
+      "sourceUrl": "https://gothamist.com/news/what-nyers-can-expect-as-open-enrollment-for-health-insurance-begins",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Emma Stone and Daisy Edgar-Jones Wore the Jacket Style That Elevates Jeans",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/emma-stone-and-daisy-edgar-jones-jacquard-jackets-look-for-less/",
+      "title": "Lana Del Rey Gives Money to a Woman Leaving an 'Abusive Relationship'",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/lana-del-rey-gives-money-to-woman-leaving-abusive-relationship/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kyle Cooke and Ciara Miller Kiss in 'Summer House' Teaser: 'So Crazy'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kyle-cooke-and-ciara-miller-kiss-in-summer-house-teaser/",
+      "title": "They Said It, Not Us! These Comfy Sweaters Look 'Expensive,' per Shoppers",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/shopper-loved-amazon-sweaters-look-expensive/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Meghan Markle Sent Dad a Letter in 2025 Banning Him From Grandkids: Reports",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markle-sent-dad-a-letter-in-2025-about-accusations/",
+      "title": "Sharon Osbourne Details Her Last Moments With Late Husband Ozzy",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/sharon-osbourne-details-last-moments-with-ozzy-osbourne/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Meghan Markle's Estranged Dad Addresses Claims He Had Sex With a Child",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markles-dad-denies-claims-he-had-sex-with-a-child/",
+      "title": "Amazon\u2019s Bestselling Wedding Guest Dresses Surprisingly Look Designer",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/wedding-guest-dresses-amazon-under-75/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Puffers Who? These Chic Quilted Jackets Are Fall's Cool-Girl Layer",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-amazon-quilted-jackets-fall-winter/",
+      "title": "Ned Fulmer Slams Ethan Klein Over Comments About His Cheating Scandal",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/ned-fulmer-slams-ethan-klein-amid-alleged-cheating-scandal/",
       "sourceName": "usmagazine.com"
     }
   ]
