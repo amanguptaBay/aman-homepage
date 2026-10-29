@@ -1,133 +1,133 @@
 {
-  "dateLabel": "28 10 2026",
+  "dateLabel": "29 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 613.17,
-    "change": -17.38,
-    "changePercent": -2.7571,
-    "fetchedAt": "2026-10-28T16:52:17.120892+00:00"
+    "price": 631.76,
+    "change": 11.57,
+    "changePercent": 1.8664,
+    "fetchedAt": "2026-10-29T17:11:03.443240+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
+      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+      "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "At least 68 people dead in high-speed Spain train crash",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Microsoft earnings will land after the close",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Touchscreen MacBook live blog: On the ground at Apple\u2019s launch event",
-      "sourceUrl": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+      "title": "Data centers could send US climate pollution skyrocketing",
+      "sourceUrl": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "All the news from Apple\u2019s \u2018Pro and tell\u2019 event",
-      "sourceUrl": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
+      "sourceUrl": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Meta says it\u2019ll probably delay its controversial new business terms again",
-      "sourceUrl": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "title": "Joshua Kushner\u2019s Thrive Holdings is acquiring ADT for $7.6 billion",
+      "sourceUrl": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Reddit is getting a For You feed",
-      "sourceUrl": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+      "title": "Microsoft\u2019s AI future has fewer jobs",
+      "sourceUrl": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Govee\u2019s colorful smart string lights are down to their best price of the year",
-      "sourceUrl": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "How the Village Halloween Parade keeps its soul",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/how-the-village-halloween-parade-keeps-its-soul",
+      "title": "Would you live on a Halloween block? These Hackensackers live for it.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/would-you-live-on-a-halloween-block-these-hackensackers-live-for-it",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "'If this is what you want': East Village board halts vote on Tompkins Square overhaul",
-      "sourceUrl": "https://gothamist.com/news/if-this-is-what-you-want-east-village-board-halts-vote-on-tompkins-square-overhaul",
+      "title": "How NYC voters could determine outcome of race for governor",
+      "sourceUrl": "https://gothamist.com/news/how-nyc-voters-could-determine-outcome-of-race-for-governor",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "60K runners, 2.5 million fans: NYPD promises tight security for NYC Marathon",
-      "sourceUrl": "https://gothamist.com/news/60k-runners-25-million-fans-nypd-promises-tight-security-for-nyc-marathon",
+      "title": "Early Addition: Is the Cheesecake Factory vs. the Amtrak buttercake our new culture war?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-is-the-cheesecake-factory-vs-the-amtrak-buttercake-our-new-culture-war",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Errol Morris has an Elizabeth Holmes interview in the chamber",
-      "sourceUrl": "https://gothamist.com/news/early-addition-errol-morris-has-an-elizabeth-holmes-interview-in-the-chamber",
+      "title": "Brooklyn woman hit and killed by garbage truck at Bay Parkway, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/brooklyn-woman-hit-and-killed-by-garbage-truck-at-peak-time-for-traffic-deaths-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "GOP candidates in NY face a changed landscape on immigration",
-      "sourceUrl": "https://gothamist.com/news/gop-candidates-in-ny-face-a-changed-landscape-on-immigration",
+      "title": "NY's housing crisis is on the ballot. Here's what the candidates say they'll do about it.",
+      "sourceUrl": "https://gothamist.com/news/nys-housing-crisis-is-on-the-ballot-heres-what-the-candidates-say-theyll-do-about-it",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Forget Trousers \u2014 Ponte Skirts Are the New Office-Friendly Wardrobe Staple",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/stylish-ponte-skirts-fall-winter-outfits/",
+      "title": "Demi Lovato, Elle Fanning, Jesse Plemons and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Chrishell Stause and G Flip Were Not Legally Married Before Split: Report",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/chrishell-stause-and-g-flip-were-not-legally-married-report/",
+      "title": "Kim Kardashian Had Surgery to 'Cut Out' Irregularities in Her Esophagus",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kim-kardashian-had-surgery-to-cut-out-esophagus-irregularities/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Love Leggings? These Rich-Mom Tops Make the Comfy Staple Look More Polished \u2014 From $17",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/flattering-rich-mom-longline-tops/",
+      "title": "Emma Roberts Shares Sweet 59th Birthday Tribute to Aunt Julia Roberts",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/emma-roberts-shares-59th-birthday-tribute-to-julia-roberts/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jessa Duggar Reveals How She Told Husband Ben Seewald About Baby No. 7",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/pregnant-jessa-duggar-ben-seewald-share-baby-no-7-details/",
+      "title": "Khloe Kardashian Reveals Manifest List for Future Partner With NSFW Details",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/khloe-kardashians-manifest-list-for-future-partner-revealed/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "DWTS' Carrie Ann Inaba and Val Chmerkovskiy Hold Each Other After Drama",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/dwts-carrie-ann-ibana-and-val-hold-each-other-after-drama/",
+      "title": "These Slimming Flare Leggings Are a Rich Mom Travel Staple \u2014 From $9",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/flared-leggings-travel-essential-amazon/",
       "sourceName": "usmagazine.com"
     }
   ]
