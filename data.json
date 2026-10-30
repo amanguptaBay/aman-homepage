@@ -1,133 +1,133 @@
 {
-  "dateLabel": "29 10 2026",
+  "dateLabel": "30 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 631.76,
-    "change": 11.57,
-    "changePercent": 1.8664,
-    "fetchedAt": "2026-10-29T17:11:03.443240+00:00"
+    "price": 619.77,
+    "change": 7.28,
+    "changePercent": 1.1894,
+    "fetchedAt": "2026-10-30T16:51:37.904264+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "title": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
+      "sourceUrl": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+      "sourceUrl": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
+      "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
+      "sourceUrl": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "sourceUrl": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
+      "sourceUrl": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Data centers could send US climate pollution skyrocketing",
-      "sourceUrl": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+      "title": "Google\u2019s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "sourceUrl": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-      "sourceUrl": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+      "title": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Joshua Kushner\u2019s Thrive Holdings is acquiring ADT for $7.6 billion",
-      "sourceUrl": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "sourceUrl": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft\u2019s AI future has fewer jobs",
-      "sourceUrl": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "title": "Waymo\u2019s next robotaxi is a purpose-built Toyota bZ4X",
+      "sourceUrl": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Would you live on a Halloween block? These Hackensackers live for it.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/would-you-live-on-a-halloween-block-these-hackensackers-live-for-it",
+      "title": "Influential Brooklyn developer illegally raised rents despite tax break, lawsuit claims",
+      "sourceUrl": "https://gothamist.com/news/influential-brooklyn-developer-illegally-raised-rents-despite-tax-break-lawsuit-claims",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "How NYC voters could determine outcome of race for governor",
-      "sourceUrl": "https://gothamist.com/news/how-nyc-voters-could-determine-outcome-of-race-for-governor",
+      "title": "Democrats' early voting lead in NJ keeps growing ahead of Election Day",
+      "sourceUrl": "https://gothamist.com/news/democrats-early-voting-lead-in-nj-keeps-growing-ahead-of-election-day",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Is the Cheesecake Factory vs. the Amtrak buttercake our new culture war?",
-      "sourceUrl": "https://gothamist.com/news/early-addition-is-the-cheesecake-factory-vs-the-amtrak-buttercake-our-new-culture-war",
+      "title": "Early Addition: Is Harry running?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-is-harry-running",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Brooklyn woman hit and killed by garbage truck at Bay Parkway, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/brooklyn-woman-hit-and-killed-by-garbage-truck-at-peak-time-for-traffic-deaths-nypd-says",
+      "title": "Why LCD Soundsystem's 'New York, I Love You' is still the city's most honest anthem",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/why-lcd-soundsystems-new-york-i-love-you-is-still-the-citys-most-honest-anthem",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY's housing crisis is on the ballot. Here's what the candidates say they'll do about it.",
-      "sourceUrl": "https://gothamist.com/news/nys-housing-crisis-is-on-the-ballot-heres-what-the-candidates-say-theyll-do-about-it",
+      "title": "NYC Council takes key step toward Mamdani's promised Department of Community Safety",
+      "sourceUrl": "https://gothamist.com/news/nyc-council-takes-key-step-toward-mamdanis-promised-department-of-community-safety",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Demi Lovato, Elle Fanning, Jesse Plemons and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "I\u2019m a 34D \u2014 These Chic, Comfy Sweaters Actually Flatter My Figure",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/stylish-large-bust-friendly-fall-sweaters-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kim Kardashian Had Surgery to 'Cut Out' Irregularities in Her Esophagus",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kim-kardashian-had-surgery-to-cut-out-esophagus-irregularities/",
+      "title": "Patrick Stewart's Son Daniel Reacts to Dad's Death With Throwback Photo",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/patrick-stewarts-son-daniel-reacts-to-actors-death-at-86/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Emma Roberts Shares Sweet 59th Birthday Tribute to Aunt Julia Roberts",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/emma-roberts-shares-59th-birthday-tribute-to-julia-roberts/",
+      "title": "Patrick Stewart Mourned 'Practically Nonexistent' Relationship With Kids",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/patrick-stewarts-practically-nonexistent-bond-with-his-kids/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Khloe Kardashian Reveals Manifest List for Future Partner With NSFW Details",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/khloe-kardashians-manifest-list-for-future-partner-revealed/",
+      "title": "Kate Middleton Wore This Timeless Fall Sweater Style for Family Portraits",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/kate-middleton-fair-isle-sweater-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These Slimming Flare Leggings Are a Rich Mom Travel Staple \u2014 From $9",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/flared-leggings-travel-essential-amazon/",
+      "title": "Katie Holmes and BF Jason Bard Yarmosky Hold Hands on Red Carpet Date",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/katie-holmes-and-jason-bard-yarmosky-hold-hands-on-date-night/",
       "sourceName": "usmagazine.com"
     }
   ]
