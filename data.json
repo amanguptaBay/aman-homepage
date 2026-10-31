@@ -1,133 +1,133 @@
 {
-  "dateLabel": "30 10 2026",
+  "dateLabel": "31 10 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 619.77,
-    "change": 7.28,
-    "changePercent": 1.1894,
-    "fetchedAt": "2026-10-30T16:51:37.904264+00:00"
+    "price": 614.99,
+    "change": 2.5,
+    "changePercent": 0.4082,
+    "fetchedAt": "2026-10-31T15:54:48.388599+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "title": "Trump promised to slash energy costs  \u2014 but gasoline, diesel and jet fuel all soared instead",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+      "title": "Automakers like Rivian and Ford are \u2018democratizing 3D printing\u2019 to reduce costs and increase speed",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "title": "\u2018Pop-up\u2019 super PACs pour $637 million into 2026 midterm races",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "title": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Google\u2019s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "sourceUrl": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "sourceUrl": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "sourceUrl": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "sourceUrl": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "title": "Vic Mensa can\u2019t live without the Voice Memos app",
+      "sourceUrl": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Waymo\u2019s next robotaxi is a purpose-built Toyota bZ4X",
-      "sourceUrl": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "title": "Touchscreens everywhere!",
+      "sourceUrl": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Silicon Valley wants you to invest in miracles",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "title": "Here\u2019s why you can\u2019t shake those unhinged political texts",
+      "sourceUrl": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Influential Brooklyn developer illegally raised rents despite tax break, lawsuit claims",
-      "sourceUrl": "https://gothamist.com/news/influential-brooklyn-developer-illegally-raised-rents-despite-tax-break-lawsuit-claims",
+      "title": "Bronx e-bike fire that killed a boy has claimed 3 more lives, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/nypd-says-bronx-e-bike-fire-that-killed-a-boy-has-claimed-3-more-lives",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Democrats' early voting lead in NJ keeps growing ahead of Election Day",
-      "sourceUrl": "https://gothamist.com/news/democrats-early-voting-lead-in-nj-keeps-growing-ahead-of-election-day",
+      "title": "Donald Trump looms over New York attorney general\u2019s race",
+      "sourceUrl": "https://gothamist.com/news/donald-trump-looms-over-new-york-attorney-generals-race",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Is Harry running?",
-      "sourceUrl": "https://gothamist.com/news/early-addition-is-harry-running",
+      "title": "How formerly homeless New Yorkers are helping others get off the streets",
+      "sourceUrl": "https://gothamist.com/news/how-formerly-homeless-new-yorkers-are-helping-others-get-off-the-streets",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Why LCD Soundsystem's 'New York, I Love You' is still the city's most honest anthem",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/why-lcd-soundsystems-new-york-i-love-you-is-still-the-citys-most-honest-anthem",
+      "title": "Woman stabbed in the neck while jogging in Brooklyn is in critical condition, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/woman-stabbed-in-the-neck-while-jogging-in-brooklyn-is-in-critical-condition-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC Council takes key step toward Mamdani's promised Department of Community Safety",
-      "sourceUrl": "https://gothamist.com/news/nyc-council-takes-key-step-toward-mamdanis-promised-department-of-community-safety",
+      "title": "A violent hate crime claimed one NYC man's marathon dream. A year later, he's taking it back.",
+      "sourceUrl": "https://gothamist.com/news/a-violent-hate-crime-claimed-nyc-mans-marathon-dream-a-year-later-hes-taking-it-back",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "I\u2019m a 34D \u2014 These Chic, Comfy Sweaters Actually Flatter My Figure",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/stylish-large-bust-friendly-fall-sweaters-amazon/",
+      "title": "Jennifer Garner Wore a Luxe Cashmere Sweater \u2014 I Found Its $27 Twin",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/jennifer-garner-cashmere-sweater-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Patrick Stewart's Son Daniel Reacts to Dad's Death With Throwback Photo",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/patrick-stewarts-son-daniel-reacts-to-actors-death-at-86/",
+      "title": "Collin Gosselin Addresses Mom Kate Gosselin\u2019s Attempts to \u2018Break My Spirit\u2019",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/collin-gosselin-says-mom-kate-is-trying-to-break-his-spirit/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Patrick Stewart Mourned 'Practically Nonexistent' Relationship With Kids",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/patrick-stewarts-practically-nonexistent-bond-with-his-kids/",
+      "title": "Brooklyn Beckham Defends Being 'Obsessed' With 'Perfect' Wife Nicola Peltz",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/brooklyn-beckham-defends-being-obsessed-with-nicola-peltz/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kate Middleton Wore This Timeless Fall Sweater Style for Family Portraits",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/kate-middleton-fair-isle-sweater-look-for-less/",
+      "title": "2 Suspects Arrested in Connection to Murder of \u2018SNL\u2019 Writer\u2019s Sister",
+      "sourceUrl": "https://www.usmagazine.com/crime-news/news/2-suspects-arrested-in-christina-downer-murder-case/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Katie Holmes and BF Jason Bard Yarmosky Hold Hands on Red Carpet Date",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/katie-holmes-and-jason-bard-yarmosky-hold-hands-on-date-night/",
+      "title": "Katie Holmes' Satin Skirt Is the Anti-Denim Trend Editors Obsess Over",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/katie-holmes-satin-skirt-look-for-less/",
       "sourceName": "usmagazine.com"
     }
   ]
