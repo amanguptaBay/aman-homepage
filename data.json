@@ -1,5 +1,5 @@
 {
-  "dateLabel": "31 10 2026",
+  "dateLabel": "01 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,19 +7,25 @@
     "price": 614.99,
     "change": 2.5,
     "changePercent": 0.4082,
-    "fetchedAt": "2026-10-31T15:54:48.388599+00:00"
+    "fetchedAt": "2026-11-01T16:56:52.116928+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump promised to slash energy costs  \u2014 but gasoline, diesel and jet fuel all soared instead",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+      "title": "Why AI is boosting Meta's ad business while hurting Google search",
+      "sourceUrl": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Automakers like Rivian and Ford are \u2018democratizing 3D printing\u2019 to reduce costs and increase speed",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "sourceUrl": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
       "sourceName": "cnbc.com"
     },
     {
@@ -30,104 +36,98 @@
     },
     {
       "category": "business",
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+      "title": "These Senate races may help determine the fate of Social Security",
+      "sourceUrl": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "sourceUrl": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "sourceUrl": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-      "sourceUrl": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "sourceUrl": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Vic Mensa can\u2019t live without the Voice Memos app",
-      "sourceUrl": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "sourceUrl": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Touchscreens everywhere!",
-      "sourceUrl": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "sourceUrl": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Here\u2019s why you can\u2019t shake those unhinged political texts",
-      "sourceUrl": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "sourceUrl": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Bronx e-bike fire that killed a boy has claimed 3 more lives, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/nypd-says-bronx-e-bike-fire-that-killed-a-boy-has-claimed-3-more-lives",
+      "title": "November has 3 meteor showers and the best chance to see Uranus",
+      "sourceUrl": "https://gothamist.com/news/november-has-3-meteor-showers-and-the-best-chance-to-see-uranus",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Donald Trump looms over New York attorney general\u2019s race",
-      "sourceUrl": "https://gothamist.com/news/donald-trump-looms-over-new-york-attorney-generals-race",
+      "title": "Runners, and throngs of spectators, kick off the five-borough New York City Marathon",
+      "sourceUrl": "https://gothamist.com/news/runners-and-throngs-of-spectators-kick-off-the-five-borough-new-york-city-marathon",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "How formerly homeless New Yorkers are helping others get off the streets",
-      "sourceUrl": "https://gothamist.com/news/how-formerly-homeless-new-yorkers-are-helping-others-get-off-the-streets",
+      "title": "Calif. judge cites 'mountain of evidence' ICE racially profiled Latinos, drawing NY notice",
+      "sourceUrl": "https://gothamist.com/news/calif-judge-cites-mountain-of-evidence-ice-racially-profiled-latinos-drawing-ny-notice",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Woman stabbed in the neck while jogging in Brooklyn is in critical condition, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/woman-stabbed-in-the-neck-while-jogging-in-brooklyn-is-in-critical-condition-nypd-says",
+      "title": "Mamdani says Trump will 'immediately' grant visa to Ghanaian mom of slain Bronx teen",
+      "sourceUrl": "https://gothamist.com/news/mamdani-says-trump-will-immediately-grant-visa-to-ghanaian-mom-of-slain-bronx-teen",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A violent hate crime claimed one NYC man's marathon dream. A year later, he's taking it back.",
-      "sourceUrl": "https://gothamist.com/news/a-violent-hate-crime-claimed-nyc-mans-marathon-dream-a-year-later-hes-taking-it-back",
+      "title": "Overflowing school in downtown Jersey City is hitting a crisis point, parents say",
+      "sourceUrl": "https://gothamist.com/news/pre-k-busing-in-downtown-jersey-citys-hitting-a-crisis-point-parents-say",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Jennifer Garner Wore a Luxe Cashmere Sweater \u2014 I Found Its $27 Twin",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/jennifer-garner-cashmere-sweater-look-for-less/",
+      "title": "Bye, Barrel Pants! Tulip Jeans Are the Latest Leg-Lengthening Denim Trend",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/tulip-jeans-fall-2026-denim-trend/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Collin Gosselin Addresses Mom Kate Gosselin\u2019s Attempts to \u2018Break My Spirit\u2019",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/collin-gosselin-says-mom-kate-is-trying-to-break-his-spirit/",
+      "title": "'SNL' Pays Tribute to Patrick Stewart Following Late Actor's Death",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/snl-pays-tribute-to-late-patrick-stewart-following-his-death/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Brooklyn Beckham Defends Being 'Obsessed' With 'Perfect' Wife Nicola Peltz",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/brooklyn-beckham-defends-being-obsessed-with-nicola-peltz/",
+      "title": "Andy Cohen and Boyfriend Go Trick-Or-Treating With Anderson Cooper",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/andy-cohen-and-boyfriend-spend-halloween-with-anderson-cooper/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "2 Suspects Arrested in Connection to Murder of \u2018SNL\u2019 Writer\u2019s Sister",
-      "sourceUrl": "https://www.usmagazine.com/crime-news/news/2-suspects-arrested-in-christina-downer-murder-case/",
+      "title": "Patrick and Brittany Mahomes, More Stars' Must-See 2026 Halloween Costumes",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/pictures/2026-celebrity-halloween-costumes-must-see-photos/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Katie Holmes' Satin Skirt Is the Anti-Denim Trend Editors Obsess Over",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/katie-holmes-satin-skirt-look-for-less/",
+      "title": "Heidi Klum Transforms Into Her Most Gruesome Halloween Costume Ever: Photo",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/heidi-klum-debuts-shocking-2026-halloween-costume-see-photo/",
       "sourceName": "usmagazine.com"
     }
   ]
