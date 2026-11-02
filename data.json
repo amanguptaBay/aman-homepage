@@ -1,133 +1,133 @@
 {
-  "dateLabel": "01 11 2026",
+  "dateLabel": "02 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 614.99,
-    "change": 2.5,
-    "changePercent": 0.4082,
-    "fetchedAt": "2026-11-01T16:56:52.116928+00:00"
+    "price": 609.59,
+    "change": -14.93,
+    "changePercent": -2.3914,
+    "fetchedAt": "2026-11-02T20:34:17.641324+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Why AI is boosting Meta's ad business while hurting Google search",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "\u2018Pop-up\u2019 super PACs pour $637 million into 2026 midterm races",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "These Senate races may help determine the fate of Social Security",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+      "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "sourceUrl": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "North Korea linked to massive Binance crypto heist",
-      "sourceUrl": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "sourceUrl": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "title": "Apple\u2019s \u2018Ultra\u2019 smart home robot might have to wait until 2028",
+      "sourceUrl": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "sourceUrl": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "title": "Squarespace is laying off 19 percent of employees",
+      "sourceUrl": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "sourceUrl": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "sourceUrl": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "November has 3 meteor showers and the best chance to see Uranus",
-      "sourceUrl": "https://gothamist.com/news/november-has-3-meteor-showers-and-the-best-chance-to-see-uranus",
+      "title": "Stabbing of Brooklyn runner believed to be \u2018random attack,\u2019 NYPD says",
+      "sourceUrl": "https://gothamist.com/news/stabbing-of-brooklyn-runner-believed-to-be-random-attack-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Runners, and throngs of spectators, kick off the five-borough New York City Marathon",
-      "sourceUrl": "https://gothamist.com/news/runners-and-throngs-of-spectators-kick-off-the-five-borough-new-york-city-marathon",
+      "title": "NYPD investigating bullying as possible motive in Bronx teen's killing",
+      "sourceUrl": "https://gothamist.com/news/nypd-investigating-bullying-as-possible-motive-in-bronx-teens-killing",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Calif. judge cites 'mountain of evidence' ICE racially profiled Latinos, drawing NY notice",
-      "sourceUrl": "https://gothamist.com/news/calif-judge-cites-mountain-of-evidence-ice-racially-profiled-latinos-drawing-ny-notice",
+      "title": "NY opens HEAP applications to help pay for heating costs",
+      "sourceUrl": "https://gothamist.com/news/ny-opens-heap-applications-to-help-pay-for-heating-costs",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani says Trump will 'immediately' grant visa to Ghanaian mom of slain Bronx teen",
-      "sourceUrl": "https://gothamist.com/news/mamdani-says-trump-will-immediately-grant-visa-to-ghanaian-mom-of-slain-bronx-teen",
+      "title": "Here\u2019s what drove NYC gas prices higher and whether relief is on the way",
+      "sourceUrl": "https://gothamist.com/news/heres-what-drove-nyc-gas-prices-higher-and-whether-relief-is-on-the-way",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Overflowing school in downtown Jersey City is hitting a crisis point, parents say",
-      "sourceUrl": "https://gothamist.com/news/pre-k-busing-in-downtown-jersey-citys-hitting-a-crisis-point-parents-say",
+      "title": "Early Addition: It's past time for a flu shot",
+      "sourceUrl": "https://gothamist.com/news/early-addition-its-past-time-for-a-flu-shot",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Bye, Barrel Pants! Tulip Jeans Are the Latest Leg-Lengthening Denim Trend",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/tulip-jeans-fall-2026-denim-trend/",
+      "title": "Tom Sandoval, Johnny Depp, Alabama Barker and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'SNL' Pays Tribute to Patrick Stewart Following Late Actor's Death",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/snl-pays-tribute-to-late-patrick-stewart-following-his-death/",
+      "title": "Mary Lynn Rajskub Wants to Play Tom Cruise's Age Appropriate Love Interest",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mary-lynn-rajskub-wants-to-play-tom-cruises-love-interest/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Andy Cohen and Boyfriend Go Trick-Or-Treating With Anderson Cooper",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/andy-cohen-and-boyfriend-spend-halloween-with-anderson-cooper/",
+      "title": "Stars \u2014 They're Just Like Us!",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Patrick and Brittany Mahomes, More Stars' Must-See 2026 Halloween Costumes",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/pictures/2026-celebrity-halloween-costumes-must-see-photos/",
+      "title": "Milo Ventimiglia Confirms \u2018Gilmore\u2019 Doc Participation, Gives Family Update",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/milo-ventimiglia-confirms-gilmore-girls-doc-participation/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Heidi Klum Transforms Into Her Most Gruesome Halloween Costume Ever: Photo",
-      "sourceUrl": "https://www.usmagazine.com/stylish/news/heidi-klum-debuts-shocking-2026-halloween-costume-see-photo/",
+      "title": "RHOSLC's Angie and Ex Shawn Wear Matching Halloween Costumes Amid Split",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/rhoslcs-angie-katsanevas-spends-halloween-with-ex-amid-split/",
       "sourceName": "usmagazine.com"
     }
   ]
