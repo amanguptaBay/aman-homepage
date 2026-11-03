@@ -1,133 +1,133 @@
 {
-  "dateLabel": "02 11 2026",
+  "dateLabel": "03 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 609.59,
-    "change": -14.93,
-    "changePercent": -2.3914,
-    "fetchedAt": "2026-11-02T20:34:17.641324+00:00"
+    "price": 623.58,
+    "change": 8.59,
+    "changePercent": 1.3968,
+    "fetchedAt": "2026-11-03T18:09:41.273594+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-      "sourceUrl": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "sourceUrl": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
-      "sourceUrl": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+      "sourceUrl": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "sourceUrl": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "sourceUrl": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
-      "sourceUrl": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+      "sourceUrl": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-      "sourceUrl": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+      "sourceUrl": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
+      "sourceUrl": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "title": "Moft\u2019s new origami case adds a kickstand and grip to the iPhone Duo",
+      "sourceUrl": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s \u2018Ultra\u2019 smart home robot might have to wait until 2028",
-      "sourceUrl": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "title": "The Xbox Nano has a hidden cloud secret",
+      "sourceUrl": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Squarespace is laying off 19 percent of employees",
-      "sourceUrl": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+      "title": "Google is entirely disabling Search in schools that don\u2019t want AI",
+      "sourceUrl": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Why Peacock is making a huge bet on YouTube",
-      "sourceUrl": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "title": "Xbox\u2019s smallest-ever controller is surprisingly comfortable",
+      "sourceUrl": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Stabbing of Brooklyn runner believed to be \u2018random attack,\u2019 NYPD says",
-      "sourceUrl": "https://gothamist.com/news/stabbing-of-brooklyn-runner-believed-to-be-random-attack-nypd-says",
+      "title": "Yes, Stevie Wonder is playing MSG. No, you can't afford tickets. See these shows instead.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD investigating bullying as possible motive in Bronx teen's killing",
-      "sourceUrl": "https://gothamist.com/news/nypd-investigating-bullying-as-possible-motive-in-bronx-teens-killing",
+      "title": "Trump administration sends election monitors to NYC, NJ",
+      "sourceUrl": "https://gothamist.com/news/trump-administration-sends-election-monitors-to-nyc-nj",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY opens HEAP applications to help pay for heating costs",
-      "sourceUrl": "https://gothamist.com/news/ny-opens-heap-applications-to-help-pay-for-heating-costs",
+      "title": "Child dies in raging Upstate New York measles outbreak",
+      "sourceUrl": "https://gothamist.com/news/child-dies-in-raging-upstate-new-york-measles-outbreak",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Here\u2019s what drove NYC gas prices higher and whether relief is on the way",
-      "sourceUrl": "https://gothamist.com/news/heres-what-drove-nyc-gas-prices-higher-and-whether-relief-is-on-the-way",
+      "title": "Medicaid is changing. We want to hear from NYers about what's ahead.",
+      "sourceUrl": "https://gothamist.com/news/medicaid-is-changing-we-want-to-hear-from-nyers-about-whats-ahead",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: It's past time for a flu shot",
-      "sourceUrl": "https://gothamist.com/news/early-addition-its-past-time-for-a-flu-shot",
+      "title": "A typo. A missing screw. These are the small snags keeping NYC families in shelters.",
+      "sourceUrl": "https://gothamist.com/news/a-typo-a-missing-screw-these-are-the-small-snags-keeping-nyc-families-in-shelters",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Tom Sandoval, Johnny Depp, Alabama Barker and More!",
+      "title": "Kim Kardashian, Hailey Bieber, Andrew Garfield and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Mary Lynn Rajskub Wants to Play Tom Cruise's Age Appropriate Love Interest",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mary-lynn-rajskub-wants-to-play-tom-cruises-love-interest/",
+      "title": "'American Idol' Alum Bo Bice Unrecognizable After Major Transformation",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-body/news/american-idol-alum-bo-bice-undergoes-major-transformation/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Stars \u2014 They're Just Like Us!",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/",
+      "title": "Eric Dane Was Initially Diagnosed With Treatable Illness Before ALS",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/eric-danes-book-reveals-initial-diagnosis-before-als-battle/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Milo Ventimiglia Confirms \u2018Gilmore\u2019 Doc Participation, Gives Family Update",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/milo-ventimiglia-confirms-gilmore-girls-doc-participation/",
+      "title": "Elizabeth Hurley Uses a $20 Cream That Keeps Skin 'Plump,' Per Shoppers",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/elizabeth-hurley-dr-jart-face-cream/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "RHOSLC's Angie and Ex Shawn Wear Matching Halloween Costumes Amid Split",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/rhoslcs-angie-katsanevas-spends-halloween-with-ex-amid-split/",
+      "title": "Everything Eric Dane's Book Reveals About Rebecca Gayheart Relationship",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/eric-dane-book-revelations-about-rebecca-gayheart-relationship/",
       "sourceName": "usmagazine.com"
     }
   ]
