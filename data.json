@@ -1,133 +1,133 @@
 {
-  "dateLabel": "03 11 2026",
+  "dateLabel": "04 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 623.58,
-    "change": 8.59,
-    "changePercent": 1.3968,
-    "fetchedAt": "2026-11-03T18:09:41.273594+00:00"
+    "price": 636.77,
+    "change": 30.04,
+    "changePercent": 4.9508,
+    "fetchedAt": "2026-11-04T18:20:05.024060+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "title": "What Republicans' huge loss means for Trump",
+      "sourceUrl": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "sourceUrl": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+      "sourceUrl": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
+      "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+      "sourceUrl": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "sourceUrl": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
-      "sourceUrl": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "sourceUrl": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Moft\u2019s new origami case adds a kickstand and grip to the iPhone Duo",
-      "sourceUrl": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+      "title": "ChatGPT will now make you animated GIFs",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Xbox Nano has a hidden cloud secret",
-      "sourceUrl": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+      "title": "God of War Laufey delayed until May",
+      "sourceUrl": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google is entirely disabling Search in schools that don\u2019t want AI",
-      "sourceUrl": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "sourceUrl": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Xbox\u2019s smallest-ever controller is surprisingly comfortable",
-      "sourceUrl": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
+      "title": "Anker\u2019s new window-mounted camera monitors the outside of your home from within it",
+      "sourceUrl": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Yes, Stevie Wonder is playing MSG. No, you can't afford tickets. See these shows instead.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead",
+      "title": "Strand Bookstore admits it took a pandemic loan despite being ineligible",
+      "sourceUrl": "https://gothamist.com/news/strand-bookstore-admits-it-took-a-pandemic-loan-despite-being-ineligible",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Trump administration sends election monitors to NYC, NJ",
-      "sourceUrl": "https://gothamist.com/news/trump-administration-sends-election-monitors-to-nyc-nj",
+      "title": "Incumbents booted from Jersey City school board after years of dysfunction",
+      "sourceUrl": "https://gothamist.com/news/incumbents-booted-from-jersey-city-school-board-after-years-of-dysfunction",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Child dies in raging Upstate New York measles outbreak",
-      "sourceUrl": "https://gothamist.com/news/child-dies-in-raging-upstate-new-york-measles-outbreak",
+      "title": "Early Addition: We're not getting Trump's $5,000 checks but we are getting Rep. Anthony Constantino",
+      "sourceUrl": "https://gothamist.com/news/early-addition-were-not-getting-trumps-5000-checks-but-we-are-getting-rep-anthony-constantino",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Medicaid is changing. We want to hear from NYers about what's ahead.",
-      "sourceUrl": "https://gothamist.com/news/medicaid-is-changing-we-want-to-hear-from-nyers-about-whats-ahead",
+      "title": "Brooklyn's Hakeem Jeffries is poised to lead a Democratic House. Will his party follow?",
+      "sourceUrl": "https://gothamist.com/news/brooklyns-hakeem-jeffries-is-poised-to-lead-a-democratic-house-will-his-party-follow",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A typo. A missing screw. These are the small snags keeping NYC families in shelters.",
-      "sourceUrl": "https://gothamist.com/news/a-typo-a-missing-screw-these-are-the-small-snags-keeping-nyc-families-in-shelters",
+      "title": "Trump urged voters to pretend he\u2019s on the ballot. In NY and NJ they listened.",
+      "sourceUrl": "https://gothamist.com/news/trump-urged-voters-to-pretend-hes-on-the-ballot-in-ny-and-nj-they-listened",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Kim Kardashian, Hailey Bieber, Andrew Garfield and More!",
+      "title": "Blake Lively, Emma Roberts, Rebecca Gayheart and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'American Idol' Alum Bo Bice Unrecognizable After Major Transformation",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-body/news/american-idol-alum-bo-bice-undergoes-major-transformation/",
+      "title": "Milo Ventimiglia Addresses Possible 'Tracker' Cameo After 'This Is Us'",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/milo-ventimiglia-hints-at-tracker-cameo-with-justin-hartley/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Eric Dane Was Initially Diagnosed With Treatable Illness Before ALS",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/eric-danes-book-reveals-initial-diagnosis-before-als-battle/",
+      "title": "Want to Look Expensive While Traveling? Grab These Rich-Mom Matching Sets",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/comfy-chic-matching-sets-rich-mom-hack/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Elizabeth Hurley Uses a $20 Cream That Keeps Skin 'Plump,' Per Shoppers",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/elizabeth-hurley-dr-jart-face-cream/",
+      "title": "Bored of Jeans? Kate Middleton's Olive Trousers Look Is the Fall Upgrade You Need",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/kate-middleton-olive-green-pants-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Everything Eric Dane's Book Reveals About Rebecca Gayheart Relationship",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/eric-dane-book-revelations-about-rebecca-gayheart-relationship/",
+      "title": "Miranda Kerr Says Underwear Anxiety Led to VS Fashion Show Decline",
+      "sourceUrl": "https://www.usmagazine.com/stylish/news/miranda-kerrs-underwear-anxiety-led-to-vs-show-decline/",
       "sourceName": "usmagazine.com"
     }
   ]
