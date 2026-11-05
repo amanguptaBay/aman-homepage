@@ -1,133 +1,133 @@
 {
-  "dateLabel": "04 11 2026",
+  "dateLabel": "05 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 636.77,
-    "change": 30.04,
-    "changePercent": 4.9508,
-    "fetchedAt": "2026-11-04T18:20:05.024060+00:00"
+    "price": 600.92,
+    "change": -20.11,
+    "changePercent": -3.2382,
+    "fetchedAt": "2026-11-05T18:23:01.714506+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "What Republicans' huge loss means for Trump",
-      "sourceUrl": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "sourceUrl": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "title": "How the midterms could fuel the K-shaped AI trade",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-      "sourceUrl": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+      "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-      "sourceUrl": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+      "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "sourceUrl": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "sourceUrl": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "title": "Claude AI can plug directly into your bank account",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "ChatGPT will now make you animated GIFs",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "title": "\u2018Total repudiation\u2019: The blue wave is about to hit AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "God of War Laufey delayed until May",
-      "sourceUrl": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+      "title": "Ember\u2019s smallest self-heating mug is on sale for just $33",
+      "sourceUrl": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Nintendo is losing a Switch cartridge supplier",
-      "sourceUrl": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "sourceUrl": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Anker\u2019s new window-mounted camera monitors the outside of your home from within it",
-      "sourceUrl": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
+      "title": "Nintendo says it\u2019s not planning another Switch 2 price hike",
+      "sourceUrl": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Strand Bookstore admits it took a pandemic loan despite being ineligible",
-      "sourceUrl": "https://gothamist.com/news/strand-bookstore-admits-it-took-a-pandemic-loan-despite-being-ineligible",
+      "title": "Battery found at deadly Sunset Park fire days after similar blaze in Bronx",
+      "sourceUrl": "https://gothamist.com/news/battery-found-at-deadly-sunset-park-fire-days-after-similar-blaze-in-bronx",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Incumbents booted from Jersey City school board after years of dysfunction",
-      "sourceUrl": "https://gothamist.com/news/incumbents-booted-from-jersey-city-school-board-after-years-of-dysfunction",
+      "title": "Inside New York's bitter Republican civil war after blue wave",
+      "sourceUrl": "https://gothamist.com/news/inside-new-yorks-bitter-republican-civil-war-after-blue-wave",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: We're not getting Trump's $5,000 checks but we are getting Rep. Anthony Constantino",
-      "sourceUrl": "https://gothamist.com/news/early-addition-were-not-getting-trumps-5000-checks-but-we-are-getting-rep-anthony-constantino",
+      "title": "Queens Public Library online system downed by ransomware hack, officials said",
+      "sourceUrl": "https://gothamist.com/news/queens-public-library-online-system-downed-by-ransomware-hack-officials-said",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Brooklyn's Hakeem Jeffries is poised to lead a Democratic House. Will his party follow?",
-      "sourceUrl": "https://gothamist.com/news/brooklyns-hakeem-jeffries-is-poised-to-lead-a-democratic-house-will-his-party-follow",
+      "title": "On HBO's \u201cThe Gilded Age,\u201d Ben Ahlers is New York high society\u2019s man of the hour",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/on-hbos-the-gilded-age-ben-ahlers-is-new-york-high-societys-man-of-the-hour",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Trump urged voters to pretend he\u2019s on the ballot. In NY and NJ they listened.",
-      "sourceUrl": "https://gothamist.com/news/trump-urged-voters-to-pretend-hes-on-the-ballot-in-ny-and-nj-they-listened",
+      "title": "Bowling, burgers and civilian housing: Life on the Fort Hamilton Army installation",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/bowling-burgers-and-civilian-housing-life-on-the-fort-hamilton-army-installation",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Blake Lively, Emma Roberts, Rebecca Gayheart and More!",
+      "title": "Kanye West, Julianne Hough, Kim Kardashian and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Milo Ventimiglia Addresses Possible 'Tracker' Cameo After 'This Is Us'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/milo-ventimiglia-hints-at-tracker-cameo-with-justin-hartley/",
+      "title": "'The Kardashians' Teases Family Tension Over Tell-All Book About Kim",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kim-kardashian-kris-jenner-are-at-odds-over-tell-all-book/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Want to Look Expensive While Traveling? Grab These Rich-Mom Matching Sets",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/comfy-chic-matching-sets-rich-mom-hack/",
+      "title": "Kourtney Kardashian Makes Rare Comment About Travis Barker Split Rumors",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kourtney-kardashian-addresses-travis-barker-split-rumors/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Bored of Jeans? Kate Middleton's Olive Trousers Look Is the Fall Upgrade You Need",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/kate-middleton-olive-green-pants-look-for-less/",
+      "title": "These 17 Rich-Looking Quarter-Zip Sweaters Make Even Jeans Look Expensive",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/comfortable-rich-mom-quarter-zip-sweaters/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Miranda Kerr Says Underwear Anxiety Led to VS Fashion Show Decline",
-      "sourceUrl": "https://www.usmagazine.com/stylish/news/miranda-kerrs-underwear-anxiety-led-to-vs-show-decline/",
+      "title": "La La and Carmelo Anthony Settle Divorce Nearly a Decade After Split",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/la-la-and-carmelo-anthony-settle-divorce-decade-after-split/",
       "sourceName": "usmagazine.com"
     }
   ]
