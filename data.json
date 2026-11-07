@@ -1,133 +1,133 @@
 {
-  "dateLabel": "06 11 2026",
+  "dateLabel": "07 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 617.64,
-    "change": -12.36,
-    "changePercent": -1.9619,
-    "fetchedAt": "2026-11-06T17:44:17.182921+00:00"
+    "price": 610.15,
+    "change": -19.85,
+    "changePercent": -3.1508,
+    "fetchedAt": "2026-11-07T16:40:33.193933+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "sourceUrl": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "sourceUrl": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "sourceUrl": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "title": "Trump says U.S. carried out \u2018minor strikes\u2019 on Iran as missiles hit Qeshm Island",
+      "sourceUrl": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+      "title": "America doesn't like socialism. So why are socialists winning?",
+      "sourceUrl": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Just about anyone can rent access to White House IP addresses",
-      "sourceUrl": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "sourceUrl": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-      "sourceUrl": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
+      "title": "Discogs\u2019 Kevin Lewandowski can\u2019t live without his AeroPress",
+      "sourceUrl": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-      "sourceUrl": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+      "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "sourceUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "AI is the new dating dealbreaker",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Meta\u2019s refurbished Quest 3S headset is nearly $100 off right now",
-      "sourceUrl": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+      "title": "AI broke the cybersecurity world. What\u2019s next?",
+      "sourceUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Service upgrade coming to On The Way: An hour-long radio show on all things NYC transit",
-      "sourceUrl": "https://gothamist.com/news/service-upgrade-coming-to-on-the-way-an-hour-long-radio-show-on-all-things-nyc-transit",
+      "title": "Quest Diagnostics pays $13M to settle kickback allegations involving NY Giants tickets",
+      "sourceUrl": "https://gothamist.com/news/quest-diagnostics-pays-13m-to-settle-kickback-allegations-involving-ny-giants-tickets",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC schools\u2019 standoff with Google over AI raises prospect of no search in class",
-      "sourceUrl": "https://gothamist.com/news/nyc-schools-standoff-with-google-over-ai-raises-prospect-of-no-search-in-class",
+      "title": "The real race at the NYC Marathon is getting to the front of the toilet line",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/the-real-race-at-the-nyc-marathon-is-getting-to-the-front-of-the-toilet-line",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Foliage is beautiful until it clogs a drain and causes flooding",
-      "sourceUrl": "https://gothamist.com/news/early-addition-foliage-is-beautiful-until-it-clogs-a-drain-and-causes-flooding",
+      "title": "Person found dead with stab wounds in Queens building, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/person-found-dead-with-multiple-stab-wounds-in-queens-building-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Skeletal remains found in backyard of West Village building, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/skeletal-remains-found-in-backyard-of-west-village-building-nypd-says",
+      "title": "Amtrak's Penn Station plan could funnel taxpayer money to new venue for James Dolan",
+      "sourceUrl": "https://gothamist.com/news/amtraks-penn-station-plan-could-funnel-taxpayer-money-to-new-venue-for-james-dolan",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Health aide, elderly man killed in East Harlem senior center shooting, per NYPD",
-      "sourceUrl": "https://gothamist.com/news/manhattan-shooting-kills-2-people-in-east-harlem-nypd-says",
+      "title": "Intoxicated Queens driver killed baby after running stop sign, indictment says",
+      "sourceUrl": "https://gothamist.com/news/intoxicated-queens-driver-killed-baby-after-running-stop-sign-indictment-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Delilah Belle Hamlin, Lori Harvey, Adriana Lima and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "Rich Moms Are Rocking These 13 Luxe Boots Styles in 2026 \u2014 From $10",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-mom-boots-styles-2026-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Bye, Denim! Corduroy Pants Are Making an Unexpectedly Chic Comeback",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/corduroy-pants-unexpectedly-chic-comeback/",
+      "title": "\u2018Little Rascals\u2019 Child Star Launches GoFundMe Ahead of Welcoming 6th Baby",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/little-rascals-child-star-launches-gofundme-ahead-of-6th-child/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "RHONY's Jessel Says She and Carole Have 'A Lot to Talk About' at Reunion",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/rhonys-jessel-and-carole-have-a-lot-to-talk-about-at-reunion/",
+      "title": "Jamie Lee Curtis Is \u2018Much Closer\u2019 to Jake and Romy Reiner After Parents Died",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jamie-lee-curtis-shares-update-on-jake-and-romy-reiner/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Motley Crue's Vince Neil's Girlfriend Arrested on Domestic Assault Charge",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/vince-neils-girlfriend-rain-hannah-arrested-for-domestic-assault/",
+      "title": "Will Estes Weighs In on Possible 'Boston Blue' Return, Jamie and Eddie Spinoff",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/will-estes-talks-boston-blue-return-jamie-and-eddie-spinoff/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "I Scoured Amazon's November Arrivals \u2014 Everything Worth Buying",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/amazon-november-new-arrivals-fall-fashion-2026/",
+      "title": "Inside Kathy Hilton's Festive Annual Holiday Party at Lavish Bel-Air Mansion",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/inside-kathy-hiltons-holiday-party-at-bel-air-mansion/",
       "sourceName": "usmagazine.com"
     }
   ]
