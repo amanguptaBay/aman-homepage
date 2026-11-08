@@ -1,5 +1,5 @@
 {
-  "dateLabel": "07 11 2026",
+  "dateLabel": "08 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,38 +7,62 @@
     "price": 610.15,
     "change": -19.85,
     "changePercent": -3.1508,
-    "fetchedAt": "2026-11-07T16:40:33.193933+00:00"
+    "fetchedAt": "2026-11-08T16:50:13.510611+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "sourceUrl": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "title": "How Democrats will try to end Trump's tariffs",
+      "sourceUrl": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-      "sourceUrl": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "title": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
+      "sourceUrl": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "sourceUrl": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+      "sourceUrl": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump says U.S. carried out \u2018minor strikes\u2019 on Iran as missiles hit Qeshm Island",
-      "sourceUrl": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "sourceUrl": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "America doesn't like socialism. So why are socialists winning?",
-      "sourceUrl": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "sourceUrl": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
       "sourceName": "cnbc.com"
+    },
+    {
+      "category": "tech",
+      "title": "Apple\u2019s M5 MacBook Air is down to its lowest price since July",
+      "sourceUrl": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "sourceName": "theverge.com"
+    },
+    {
+      "category": "tech",
+      "title": "Chatbots might be coming to Apple\u2019s HomeView",
+      "sourceUrl": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "sourceName": "theverge.com"
+    },
+    {
+      "category": "tech",
+      "title": "There\u2019s no slowing down media\u2019s pivot-to-video 2.0",
+      "sourceUrl": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "sourceName": "theverge.com"
+    },
+    {
+      "category": "tech",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "sourceUrl": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "sourceName": "theverge.com"
     },
     {
       "category": "tech",
@@ -47,87 +71,63 @@
       "sourceName": "theverge.com"
     },
     {
-      "category": "tech",
-      "title": "Discogs\u2019 Kevin Lewandowski can\u2019t live without his AeroPress",
-      "sourceUrl": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "sourceName": "theverge.com"
-    },
-    {
-      "category": "tech",
-      "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "sourceUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "sourceName": "theverge.com"
-    },
-    {
-      "category": "tech",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "sourceName": "theverge.com"
-    },
-    {
-      "category": "tech",
-      "title": "AI broke the cybersecurity world. What\u2019s next?",
-      "sourceUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "sourceName": "theverge.com"
-    },
-    {
       "category": "nyc",
-      "title": "Quest Diagnostics pays $13M to settle kickback allegations involving NY Giants tickets",
-      "sourceUrl": "https://gothamist.com/news/quest-diagnostics-pays-13m-to-settle-kickback-allegations-involving-ny-giants-tickets",
+      "title": "Woman dies after tumbling from a moving SUV on the BQE near the Brooklyn Bridge",
+      "sourceUrl": "https://gothamist.com/news/woman-dies-after-falling-from-a-moving-car-near-the-brooklyn-bridge",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "The real race at the NYC Marathon is getting to the front of the toilet line",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/the-real-race-at-the-nyc-marathon-is-getting-to-the-front-of-the-toilet-line",
+      "title": "Mamdani expands free produce programs for New Yorkers on SNAP",
+      "sourceUrl": "https://gothamist.com/news/mamdani-expands-free-produce-programs-for-new-yorkers-on-snap",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Person found dead with stab wounds in Queens building, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/person-found-dead-with-multiple-stab-wounds-in-queens-building-nypd-says",
+      "title": "Federal judge rules Mamdani administration must give ICE names of Bronx shelter residents",
+      "sourceUrl": "https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Amtrak's Penn Station plan could funnel taxpayer money to new venue for James Dolan",
-      "sourceUrl": "https://gothamist.com/news/amtraks-penn-station-plan-could-funnel-taxpayer-money-to-new-venue-for-james-dolan",
+      "title": "NYPD arrests and charges city schools employee in murder of Brooklyn jogger",
+      "sourceUrl": "https://gothamist.com/news/nypd-arrests-and-charges-city-schools-employee-man-in-murder-of-brooklyn-jogger",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Intoxicated Queens driver killed baby after running stop sign, indictment says",
-      "sourceUrl": "https://gothamist.com/news/intoxicated-queens-driver-killed-baby-after-running-stop-sign-indictment-says",
+      "title": "Work is underway to replace deteriorating Newark Bay Bridge, a major NY-NJ route",
+      "sourceUrl": "https://gothamist.com/news/work-is-underway-to-replace-deteriorating-newark-bay-bridge-a-major-ny-nj-route",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Rich Moms Are Rocking These 13 Luxe Boots Styles in 2026 \u2014 From $10",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-mom-boots-styles-2026-amazon/",
+      "title": "I'm Over Jeans \u2014 These Luxe-Looking Satin Skirts Make Every Outfit Chic",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-satin-skirts-fall-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "\u2018Little Rascals\u2019 Child Star Launches GoFundMe Ahead of Welcoming 6th Baby",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/little-rascals-child-star-launches-gofundme-ahead-of-6th-child/",
+      "title": "Justin Timberlake Reveals if 'What Goes Around' Song Is About Britney Spears",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-on-if-cryptic-song-is-about-britney-spears/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jamie Lee Curtis Is \u2018Much Closer\u2019 to Jake and Romy Reiner After Parents Died",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jamie-lee-curtis-shares-update-on-jake-and-romy-reiner/",
+      "title": "Gisele Bundchen Celebrates Husband's Birthday Amid Tom Brady's Model Drama",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/gisele-bundchen-honors-husband-amid-tom-bradys-model-drama/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Will Estes Weighs In on Possible 'Boston Blue' Return, Jamie and Eddie Spinoff",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/will-estes-talks-boston-blue-return-jamie-and-eddie-spinoff/",
+      "title": "Dana White to Meet With Trump After White House Press Secretary Job Offer",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/dana-white-to-meet-with-trump-about-press-secretary-job/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Inside Kathy Hilton's Festive Annual Holiday Party at Lavish Bel-Air Mansion",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/inside-kathy-hiltons-holiday-party-at-bel-air-mansion/",
+      "title": "Want Sleeves That Flatter Your Arms? This $28 Sweater Does the Trick",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/naomi-watts-flattering-baby-blue-sweater-look-for-less/",
       "sourceName": "usmagazine.com"
     }
   ]
