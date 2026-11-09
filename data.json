@@ -1,133 +1,133 @@
 {
-  "dateLabel": "08 11 2026",
+  "dateLabel": "09 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 610.15,
-    "change": -19.85,
-    "changePercent": -3.1508,
-    "fetchedAt": "2026-11-08T16:50:13.510611+00:00"
+    "price": 641.37,
+    "change": 36.29,
+    "changePercent": 5.9976,
+    "fetchedAt": "2026-11-09T21:11:23.091136+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "How Democrats will try to end Trump's tariffs",
-      "sourceUrl": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
-      "sourceUrl": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "title": "Hegseth impeachment articles introduced by Rep. Massie",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-      "sourceUrl": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
-      "sourceUrl": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "title": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
-      "sourceUrl": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+      "title": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s M5 MacBook Air is down to its lowest price since July",
-      "sourceUrl": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+      "sourceUrl": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Chatbots might be coming to Apple\u2019s HomeView",
-      "sourceUrl": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "There\u2019s no slowing down media\u2019s pivot-to-video 2.0",
-      "sourceUrl": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "sourceUrl": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "sourceUrl": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+      "sourceUrl": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "sourceUrl": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "title": "James Gunn is out as DC movie leader",
+      "sourceUrl": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Woman dies after tumbling from a moving SUV on the BQE near the Brooklyn Bridge",
-      "sourceUrl": "https://gothamist.com/news/woman-dies-after-falling-from-a-moving-car-near-the-brooklyn-bridge",
+      "title": "NY civil liberties groups push for 48-hour limit on police retaining Flock camera data",
+      "sourceUrl": "https://gothamist.com/news/ny-civil-liberties-groups-push-for-48-hour-limit-on-police-retaining-flock-camera-data",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani expands free produce programs for New Yorkers on SNAP",
-      "sourceUrl": "https://gothamist.com/news/mamdani-expands-free-produce-programs-for-new-yorkers-on-snap",
+      "title": "Man denied stabbing Brooklyn jogger but described being covered in blood, complaint says",
+      "sourceUrl": "https://gothamist.com/news/man-denied-stabbing-brooklyn-jogger-but-described-being-covered-in-blood-complaint-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Federal judge rules Mamdani administration must give ICE names of Bronx shelter residents",
-      "sourceUrl": "https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents",
+      "title": "Digital skills are an increasing requirement in NYC jobs beyond tech, report finds",
+      "sourceUrl": "https://gothamist.com/news/digital-skills-are-an-increasing-requirement-in-nyc-jobs-beyond-tech-report-finds",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD arrests and charges city schools employee in murder of Brooklyn jogger",
-      "sourceUrl": "https://gothamist.com/news/nypd-arrests-and-charges-city-schools-employee-man-in-murder-of-brooklyn-jogger",
+      "title": "NJ Gov. Sherrill announces her new lieutenant governor pick",
+      "sourceUrl": "https://gothamist.com/news/nj-gov-sherrill-to-announce-her-new-lieutenant-governor-pick",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Work is underway to replace deteriorating Newark Bay Bridge, a major NY-NJ route",
-      "sourceUrl": "https://gothamist.com/news/work-is-underway-to-replace-deteriorating-newark-bay-bridge-a-major-ny-nj-route",
+      "title": "Early Addition: Sewing is all the rage in NYC",
+      "sourceUrl": "https://gothamist.com/news/early-addition-sewing-is-all-the-rage-in-nyc",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "I'm Over Jeans \u2014 These Luxe-Looking Satin Skirts Make Every Outfit Chic",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-looking-satin-skirts-fall-amazon/",
+      "title": "Alix Earle, Jenni \u201cJWoww\u201d Farley, Madelyn Cline and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Justin Timberlake Reveals if 'What Goes Around' Song Is About Britney Spears",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-on-if-cryptic-song-is-about-britney-spears/",
+      "title": "T.J. Holmes and Amy Robach Share Romantic Moment During TV Return",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/t-j-holmes-amy-robach-have-romantic-moment-on-name-that-tune/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Gisele Bundchen Celebrates Husband's Birthday Amid Tom Brady's Model Drama",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/gisele-bundchen-honors-husband-amid-tom-bradys-model-drama/",
+      "title": "Russell Brand Sentenced to 10 Years in Prison for Rape and Sexual Assault",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/russell-brand-sentenced-to-10-years-in-prison-in-rape-case/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Dana White to Meet With Trump After White House Press Secretary Job Offer",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/dana-white-to-meet-with-trump-about-press-secretary-job/",
+      "title": "Stars \u2014 They're Just Like Us!",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Want Sleeves That Flatter Your Arms? This $28 Sweater Does the Trick",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/naomi-watts-flattering-baby-blue-sweater-look-for-less/",
+      "title": "Why Did Adam Brody Miss 'Nobody Wants This' Event After Cast Drama?",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/adam-brody-misses-nobody-wants-this-event-after-cast-drama/",
       "sourceName": "usmagazine.com"
     }
   ]
