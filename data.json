@@ -1,133 +1,133 @@
 {
-  "dateLabel": "09 11 2026",
+  "dateLabel": "10 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 641.37,
-    "change": 36.29,
-    "changePercent": 5.9976,
-    "fetchedAt": "2026-11-09T21:11:23.091136+00:00"
+    "price": 637.54,
+    "change": 27.39,
+    "changePercent": 4.4891,
+    "fetchedAt": "2026-11-10T18:21:31.725431+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "title": "Here's the inflation breakdown for October 2026 \u2014 in one chart",
+      "sourceUrl": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Hegseth impeachment articles introduced by Rep. Massie",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+      "sourceUrl": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "sourceUrl": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+      "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
+      "sourceUrl": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "sourceUrl": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
-      "sourceUrl": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "title": "ChatGPT is getting verified AI \u2018Business Agents\u2019",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+      "sourceUrl": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-      "sourceUrl": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "sourceUrl": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
-      "sourceUrl": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "title": "Google Fi is bringing back multiple cell network support for better coverage",
+      "sourceUrl": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "James Gunn is out as DC movie leader",
-      "sourceUrl": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NY civil liberties groups push for 48-hour limit on police retaining Flock camera data",
-      "sourceUrl": "https://gothamist.com/news/ny-civil-liberties-groups-push-for-48-hour-limit-on-police-retaining-flock-camera-data",
+      "title": "It's cold in New York. Soup season in the city has begun.",
+      "sourceUrl": "https://gothamist.com/food/its-cold-in-new-york-soup-season-in-the-city-has-begun",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Man denied stabbing Brooklyn jogger but described being covered in blood, complaint says",
-      "sourceUrl": "https://gothamist.com/news/man-denied-stabbing-brooklyn-jogger-but-described-being-covered-in-blood-complaint-says",
+      "title": "ICE subpoena puts a spotlight on the last emergency migrant shelter in NYC",
+      "sourceUrl": "https://gothamist.com/news/ice-subpoena-puts-a-spotlight-on-the-last-emergency-migrant-shelter-in-nyc",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Digital skills are an increasing requirement in NYC jobs beyond tech, report finds",
-      "sourceUrl": "https://gothamist.com/news/digital-skills-are-an-increasing-requirement-in-nyc-jobs-beyond-tech-report-finds",
+      "title": "Early Addition: What's better than sitting on a New York City bench?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-whats-better-than-sitting-on-a-new-york-city-bench",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NJ Gov. Sherrill announces her new lieutenant governor pick",
-      "sourceUrl": "https://gothamist.com/news/nj-gov-sherrill-to-announce-her-new-lieutenant-governor-pick",
+      "title": "Manhattan's Canal Street is getting a face-lift, but it'll take a while",
+      "sourceUrl": "https://gothamist.com/news/manhattans-canal-street-is-getting-a-face-lift-but-itll-take-a-while",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Sewing is all the rage in NYC",
-      "sourceUrl": "https://gothamist.com/news/early-addition-sewing-is-all-the-rage-in-nyc",
+      "title": "Rent-stabilized buildings hit auction block, despite Mamdani\u2019s efforts to intervene",
+      "sourceUrl": "https://gothamist.com/news/emerald",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Alix Earle, Jenni \u201cJWoww\u201d Farley, Madelyn Cline and More!",
+      "title": "Johnny Depp, Rachel Lindsay, Ava Phillippe and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "T.J. Holmes and Amy Robach Share Romantic Moment During TV Return",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/t-j-holmes-amy-robach-have-romantic-moment-on-name-that-tune/",
+      "title": "Kris Jenner's Fall Boots Scream 'Quiet Luxury' \u2014 Copy the Look",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/kris-jenner-black-boots-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Russell Brand Sentenced to 10 Years in Prison for Rape and Sexual Assault",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/russell-brand-sentenced-to-10-years-in-prison-in-rape-case/",
+      "title": "Prince Harry Says Kids 'Deserve to Feel Safe' Amid Thomas Markle's Arrest",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/prince-harry-says-kids-deserve-to-feel-safe-amid-thomas-markle-arrest/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Stars \u2014 They're Just Like Us!",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/",
+      "title": "Meghan Markle Holds Hands With Prince Harry in 1st Outing Since Dad's Arrest",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/meghan-markle-makes-1st-public-appearance-since-dads-arrest/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Why Did Adam Brody Miss 'Nobody Wants This' Event After Cast Drama?",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/adam-brody-misses-nobody-wants-this-event-after-cast-drama/",
+      "title": "Sarah Jessica Parker Wore This Polarizing Shoe Style \u2014 And Honestly, We're Sold",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/sarah-jessica-parker-platform-clogs-look-for-less/",
       "sourceName": "usmagazine.com"
     }
   ]
