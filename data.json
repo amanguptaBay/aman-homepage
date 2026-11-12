@@ -1,133 +1,133 @@
 {
-  "dateLabel": "11 11 2026",
+  "dateLabel": "12 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 640.54,
-    "change": -0.83,
-    "changePercent": -0.1294,
-    "fetchedAt": "2026-11-11T18:11:34.017404+00:00"
+    "price": 626.13,
+    "change": -15.25,
+    "changePercent": -2.3784,
+    "fetchedAt": "2026-11-12T18:38:42.565476+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+      "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Bessent moved to military base amid 'growing threats' from Iran",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes",
-      "sourceUrl": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Toyota\u2019s Scion is back, starting with an American-made, 25-mph kei truck",
-      "sourceUrl": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "title": "Oh, Palantir is \u2018progressive\u2019 now, is it?",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
-      "sourceUrl": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "title": "The Jensen Huang scandal is hardly over",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The best early Black Friday deals you can already shop",
-      "sourceUrl": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "title": "\u2018The end of Tesla!\u2019: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+      "sourceUrl": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Sharge\u2019s eye-catching MacBook charger is over 25 percent off",
-      "sourceUrl": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "title": "25 years later, Xbox is trying to reinvent itself again",
+      "sourceUrl": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Ocarina of Time is even better if you use a smartphone app",
-      "sourceUrl": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Long-lost Georgia O\u2019Keeffe painting found in East Village closet",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/long-lost-georgia-okeeffe-painting-found-in-east-village-closet",
+      "title": "Developer at Brooklyn collapse site had record of flouting orders from city agency",
+      "sourceUrl": "https://gothamist.com/news/developer-at-brooklyn-collapse-site-had-record-of-flouting-orders-from-city-agency",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Teen arrested for fatal shooting of 15-year-old Bronx boy walking to school, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/suspect-arrested-for-fatal-shooting-of-15-year-old-bronx-boy-walking-to-school-family-says",
+      "title": "An expert guide to navigating the Fulton Center subway frankenstation",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/an-expert-guide-to-navigating-the-fulton-center-subway-frankenstation",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Wind, rain, maybe snowflakes: It's about to get chilly around NYC",
-      "sourceUrl": "https://gothamist.com/news/wind-rain-maybe-snowflakes-its-about-to-get-chilly-around-nyc",
+      "title": "Homeless New Yorkers\u2019 healthcare costs plummeted after getting housed, study finds",
+      "sourceUrl": "https://gothamist.com/news/homeless-new-yorkers-healthcare-costs-plummeted-after-getting-housed-study-finds",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC sanitation supervisors keep speeding on the job, data shows",
-      "sourceUrl": "https://gothamist.com/news/nyc-sanitation-supervisors-keep-speeding-on-the-job-data-shows",
+      "title": "Early Addition: Leaf-peepers and booze cruisers unite on the ferry to West Point football games",
+      "sourceUrl": "https://gothamist.com/news/early-addition-leaf-peepers-and-booze-cruisers-unite-on-the-ferry-to-west-point-football-games",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani\u2019s redevelopment plan for NYCHA complex in Chelsea spills into DSA",
-      "sourceUrl": "https://gothamist.com/news/mamdanis-redevelopment-plan-for-nycha-complex-in-chelsea-spills-into-dsa",
+      "title": "NYC bill would require food delivery firms to fund fixes to the e-bike 'crisis'",
+      "sourceUrl": "https://gothamist.com/news/nyc-bill-would-require-food-delivery-firms-to-fund-fixes-to-the-e-bike-crisis",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Jordyn Woods, Pete Davidson, Amelia Gray Hamlin and More!",
+      "title": "Ariana Grande, Scheana Shay, Kelly Osbourne and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jenny McCarthy Worried Husband Donnie Wahlberg With 'Breakdown' Over Mold",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jenny-mccarthy-worried-donnie-wahlberg-with-breakdown-over-mold/",
+      "title": "Kourtney Kardashian Isn't 'Careful' About Preventing Pregnancy With Travis",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/kourtney-kardashian-didnt-get-her-period-for-half-a-year-thought-she-was-pregnant-every-month/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Love Wide-Leg Jeans? These Flattering Fall Denim Picks Are Just as Slimming",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/flattering-denim-styles-fall-trend-2026/",
+      "title": "Tossing and Turning All Night? Try This Sleep Support Supplement",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/sleep-support-supplement-innerbody-labs/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Thomas Markle's Mugshot Is Released After 2nd Arrest Amid Child Porn Case",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/thomas-markles-mugshot-is-released-amid-child-porn-case/",
+      "title": "Love Is Blind's Aneha Slams 'Disrespectful' Season 11 Reunion Editing",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/love-is-blinds-aneha-slams-disrespectful-reunion-editing/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Martha Stewart Put a Rich-Girl Spin on the Classic Pullover",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/martha-stewart-inspired-half-zip-pullovers/",
+      "title": "Want to Smell Like Meghan Markle? Her Go-To Scent Is on Amazon for $30",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/meghan-markle-signature-scent-amazon/",
       "sourceName": "usmagazine.com"
     }
   ]
