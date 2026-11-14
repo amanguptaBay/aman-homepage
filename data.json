@@ -1,133 +1,133 @@
 {
-  "dateLabel": "13 11 2026",
+  "dateLabel": "14 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 635.07,
-    "change": 6.3,
-    "changePercent": 1.002,
-    "fetchedAt": "2026-11-13T18:16:38.297752+00:00"
+    "price": 641.69,
+    "change": 12.92,
+    "changePercent": 2.0548,
+    "fetchedAt": "2026-11-14T16:47:05.318615+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
-      "sourceUrl": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "title": "Ground stop followed updates to older L3Harris communication system: DOT\u2019s Duffy",
+      "sourceUrl": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-      "sourceUrl": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "sourceUrl": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-      "sourceUrl": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "title": "SpaceX launches Starship in key test flight of massive rocket",
+      "sourceUrl": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-      "sourceUrl": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "sourceUrl": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-      "sourceUrl": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "sourceUrl": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "sourceUrl": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "title": "Here are our favorite deals from REI\u2019s giant Holiday Sale",
+      "sourceUrl": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The smallest version of Camp Snap\u2019s retro digital camcorder fits on your keychain",
-      "sourceUrl": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+      "sourceUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The new Apple TV has a YouTube problem",
-      "sourceUrl": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "title": "Tesla is inviting some people to buy a Cybercab \u2018for personal use\u2019 \u2014 but read the fine print",
+      "sourceUrl": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Microsoft\u2019s massive Outlook outage continues",
-      "sourceUrl": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "sourceUrl": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Verge\u2019s 2026 gift guide for dads",
-      "sourceUrl": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "title": "A gadget to make your dumb house smarter",
+      "sourceUrl": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "How to help the victims of the Brooklyn building collapse",
-      "sourceUrl": "https://gothamist.com/news/how-to-help-the-victims-of-the-brooklyn-building-collapse",
+      "title": "Gov. Hochul calls on Duffy to resign after FAA meltdown grounds nation's flights",
+      "sourceUrl": "https://gothamist.com/news/gov-hochul-calls-on-duffy-to-resign-after-faa-meltdown-grounds-nations-flights",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Dad, girl killed in Brooklyn building collapse stayed home in fear of ICE, cousin says",
-      "sourceUrl": "https://gothamist.com/news/dad-girl-killed-in-brooklyn-building-collapse-stayed-home-in-fear-of-ice-cousin-says",
+      "title": "Expansion proposal for Brooklyn plants fuels data center fears",
+      "sourceUrl": "https://gothamist.com/news/expansion-proposal-for-brooklyn-plants-fuels-data-center-fears",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "The smallish MTA projects that could make a big difference for riders",
-      "sourceUrl": "https://gothamist.com/news/the-smallish-mta-projects-that-could-make-a-big-difference-for-riders",
+      "title": "FAA meltdown strands NJ Gov. Sherrill at Dem conference in Denver",
+      "sourceUrl": "https://gothamist.com/news/faa-meltdown-strands-nj-gov-sherrill-at-dem-conference-in-denver",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Newark ICE detention center passes fed inspection, despite rising 'deficiencies'",
-      "sourceUrl": "https://gothamist.com/news/newark-ice-detention-center-passes-fed-inspection-despite-rising-deficiencies",
+      "title": "'A palace for the people': Historic, grand Loew's theater reopens in Jersey City",
+      "sourceUrl": "https://gothamist.com/news/a-palace-for-the-people-historic-grand-loews-theater-reopens-in-jersey-city",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A Mumford & Sons member is opening a new venue in Williamsburg's Domino Sugar Factory",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/a-mumford-sons-member-is-opening-a-new-venue-in-williamsburgs-domino-sugar-factory",
+      "title": "Four Days Without Cell Service? For This Adventure-Seeking New Yorker, It Was Bliss",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/four-days-without-cell-service-for-this-adventure-seeking-new-yorker-it-was-bliss",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Hailee Steinfeld, Brittany Snow, Camila Cabello and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "Glenn Close's Wrinkle-Fighting 'Botox in a Box' Is Just $26",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/glenn-close-frownies-wrinkle-patches/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'Rivals' Star Defends Controversial Hookup Bet After Offscreen Backlash",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/rivals-star-defends-taggie-hookup-bet-after-backlash/",
+      "title": "13 Fall-to-Winter Wide-Leg Trousers That Make Legs Look Longer",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/fall-to-winter-wide-leg-trousers-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Martha Stewart's Chunky Knit Made Me Rethink My Sweater Collection",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/martha-stewart-cream-turtleneck-sweater-look-for-less/",
+      "title": "Get Kate Middleton's Exact Chelsea Boots for Fall and Winter",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/kate-middleton-blundstone-chelsea-boots-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Travis Barker Stopped Smoking Weed After Being Diagnosed With Precancer",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/travis-barker-stopped-smoking-weed-after-precancer-diagnosis/",
+      "title": "Jamie Lynn Spears\u2019 Daughter Maddie Pokes Fun at Her Mom\u2019s Teen Pregnancy",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/jamie-lynn-spears-daughter-maddie-mocks-teen-pregnancy/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These 13 Comfy, Busy-Mom Pieces on Amazon Style Themselves \u2014 Under $50",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/chic-fashion-finds-busy-moms-under-50/",
+      "title": "Aaron and Jordan Rodgers Share Rare Photo Together Amid Reunion After Feud",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/aaron-and-jordan-rodgers-pose-for-photo-after-reuniting/",
       "sourceName": "usmagazine.com"
     }
   ]
