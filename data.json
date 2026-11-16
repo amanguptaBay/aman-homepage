@@ -1,133 +1,133 @@
 {
-  "dateLabel": "15 11 2026",
+  "dateLabel": "16 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 641.69,
-    "change": 12.92,
-    "changePercent": 2.0548,
-    "fetchedAt": "2026-11-15T17:29:30.223588+00:00"
+    "price": 626.19,
+    "change": 2.58,
+    "changePercent": 0.4137,
+    "fetchedAt": "2026-11-16T20:44:12.298011+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
-      "sourceUrl": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "sourceUrl": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+      "sourceUrl": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
-      "sourceUrl": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+      "sourceUrl": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-      "sourceUrl": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+      "sourceUrl": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal support after midterm wins",
-      "sourceUrl": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "sourceUrl": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Fanttik\u2019s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "title": "Sony\u2019s PlayStation 5 accessories are cheaper ahead of Black Friday",
+      "sourceUrl": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s first smart glasses are coming together",
-      "sourceUrl": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "title": "Trump says it \u2018certainly isn\u2019t a bad idea\u2019 for Jensen Huang to return to Nvidia",
+      "sourceUrl": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Rachelle Hampton won\u2019t admit how long she spent charting the use of \u2018murmur\u2019 in Twilight",
-      "sourceUrl": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "title": "The Verge\u2019s guide to the best gifts under $100",
+      "sourceUrl": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "LG\u2019s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "sourceUrl": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "title": "Why NJ\u2019s governor thinks Republicans are trapped in an X bubble",
+      "sourceUrl": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "sourceUrl": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "title": "Robert Pattinson is Amazon\u2019s first James Bond",
+      "sourceUrl": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "New York's biggest trash dump is releasing even more methane than thought",
-      "sourceUrl": "https://gothamist.com/news/new-yorks-biggest-trash-dump-is-releasing-even-more-methane-than-thought",
+      "title": "Chase, Bank of America and other major banks report online banking outages",
+      "sourceUrl": "https://gothamist.com/news/chase-bank-of-america-and-other-major-banks-report-online-banking-outages",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD fatally shoots driver on Belt Parkway following suspected kidnapping",
-      "sourceUrl": "https://gothamist.com/news/nypd-fatally-shoot-man-after-report-of-possible-abduction-in-coney-island",
+      "title": "2 Co-op City peace officers shot during Bronx wellness check, officials say",
+      "sourceUrl": "https://gothamist.com/news/3-people-shot-in-co-op-city-in-the-bronx-including-two-peace-officers-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Some in NY fret about being hit by the AI bus. Others are trying to board it.",
-      "sourceUrl": "https://gothamist.com/news/some-in-ny-fret-about-being-hit-by-the-ai-bus-others-are-trying-to-board-it",
+      "title": "NY, the 'Freedom Summer' murders and an improbable election win in Mississippi",
+      "sourceUrl": "https://gothamist.com/news/ny-the-freedom-summer-murders-and-an-improbable-election-win-in-ny-the-freedom-summer-murders-and-an-improbable-election-win-in-mississippi",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC's specialized high school test stalled by technical problems, DOE says",
-      "sourceUrl": "https://gothamist.com/news/nycs-specialized-high-school-test-stalled-by-technical-problems-doe-says",
+      "title": "Early Addition: There are bigger flukes than winning the NYC affordable housing lottery",
+      "sourceUrl": "https://gothamist.com/news/early-addition-there-are-bigger-flukes-than-winning-the-nyc-affordable-housing-lottery",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Gov. Hochul calls on Duffy to resign after FAA meltdown grounds nation's flights",
-      "sourceUrl": "https://gothamist.com/news/gov-hochul-calls-on-duffy-to-resign-after-faa-meltdown-grounds-nations-flights",
+      "title": "Having a job doesn\u2019t save you from going hungry in NYC, report finds",
+      "sourceUrl": "https://gothamist.com/news/having-a-job-doesnt-save-you-from-going-hungry-in-nyc-report-finds",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "CBS Has Surprise Schedule Change With All 3 'NCIS' Shows and Spinoffs",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/cbs-has-surprise-ncis-ncis-origins-and-ncis-ny-schedule-change/",
+      "title": "Zendaya, Katy Perry, Gwen Stefani and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jennifer Lawrence's Genius Optical Illusion Jeans Look So Chic",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/jennifer-lawrence-leg-lengthening-flare-jeans-look-for-less/",
+      "title": "Jen Affleck Addresses Nail Technician Leaking Her Pregnancy Before Divorce",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mormon-wives-jen-affleck-addresses-nail-tech-leaking-pregnancy/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Sofia Vergara Put a Cool-Girl Twist on the Classic Black Sweater",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/sofia-vergara-off-the-shoulder-sweater-look-for-less/",
+      "title": "Prince William, Kate Middleton Mark 1st Joint Overseas Royal Tour in 4 Years",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/prince-william-kate-middleton-make-rare-overseas-trip-to-india/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "John Mulaney Blasts Robert F. Kennedy Jr. on 'SNL': 'Dumbass'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/john-mulaney-blasts-robert-f-kennedy-jr-on-snl-dumbass/",
+      "title": "Which 'Virgin River' Stars Are \u2014 And Aren't \u2014 Returning After Cast Exits?",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/virgin-river-stars-who-are-and-arent-returning-for-season-8/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Brandi Glanville Reveals She Had 'Black Mass' Removed During Facial Surgery",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/brandi-glanville-has-black-mass-removed-during-facial-surgery/",
+      "title": "Grammy Awards 2027 Nominations: See the Complete List",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/grammys-2027-nominations-see-the-complete-list/",
       "sourceName": "usmagazine.com"
     }
   ]
