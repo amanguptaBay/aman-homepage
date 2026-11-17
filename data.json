@@ -1,133 +1,133 @@
 {
-  "dateLabel": "16 11 2026",
+  "dateLabel": "17 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 626.19,
-    "change": 2.58,
-    "changePercent": 0.4137,
-    "fetchedAt": "2026-11-16T20:44:12.298011+00:00"
+    "price": 620.14,
+    "change": -21.55,
+    "changePercent": -3.3583,
+    "fetchedAt": "2026-11-17T19:28:17.991257+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "title": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
+      "sourceUrl": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-      "sourceUrl": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
+      "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+      "sourceUrl": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "sourceUrl": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+      "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+      "sourceUrl": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
-      "sourceUrl": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+      "sourceUrl": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
-      "sourceUrl": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Sony\u2019s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "title": "JBL\u2019s headphones that are great for in-flight entertainment are 67 percent off",
+      "sourceUrl": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Trump says it \u2018certainly isn\u2019t a bad idea\u2019 for Jensen Huang to return to Nvidia",
-      "sourceUrl": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+      "sourceUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The Verge\u2019s guide to the best gifts under $100",
-      "sourceUrl": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "sourceUrl": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Why NJ\u2019s governor thinks Republicans are trapped in an X bubble",
-      "sourceUrl": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+      "title": "Amflow\u2019s new urban e-bike series is deliciously overpowered for flat city streets",
+      "sourceUrl": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Robert Pattinson is Amazon\u2019s first James Bond",
-      "sourceUrl": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+      "title": "YouTube found a new way to inflate view counts",
+      "sourceUrl": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Chase, Bank of America and other major banks report online banking outages",
-      "sourceUrl": "https://gothamist.com/news/chase-bank-of-america-and-other-major-banks-report-online-banking-outages",
+      "title": "28-year-old man fatally stabbed on Brooklyn street after intervening in fight, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/28-year-old-man-fatally-stabbed-on-brooklyn-street-after-intervening-in-fight-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "2 Co-op City peace officers shot during Bronx wellness check, officials say",
-      "sourceUrl": "https://gothamist.com/news/3-people-shot-in-co-op-city-in-the-bronx-including-two-peace-officers-nypd-says",
+      "title": "Woman arrested after climbing outside of a Manhattan skyscraper's 91st floor, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/woman-arrested-after-climbing-outside-of-a-manhattan-skyscrapers-91st-floor-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY, the 'Freedom Summer' murders and an improbable election win in Mississippi",
-      "sourceUrl": "https://gothamist.com/news/ny-the-freedom-summer-murders-and-an-improbable-election-win-in-ny-the-freedom-summer-murders-and-an-improbable-election-win-in-mississippi",
+      "title": "Greenpoint man accused of groping jogger stands trial after years of neighborhood concerns",
+      "sourceUrl": "https://gothamist.com/news/greenpoint-man-accused-of-groping-jogger-stands-trial-after-years-of-neighborhood-concerns",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: There are bigger flukes than winning the NYC affordable housing lottery",
-      "sourceUrl": "https://gothamist.com/news/early-addition-there-are-bigger-flukes-than-winning-the-nyc-affordable-housing-lottery",
+      "title": "Early Addition: Who decides if a car is 'derelict' enough to tow?",
+      "sourceUrl": "https://gothamist.com/news/early-addition-who-decides-if-a-car-is-derelict-enough-to-tow",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Having a job doesn\u2019t save you from going hungry in NYC, report finds",
-      "sourceUrl": "https://gothamist.com/news/having-a-job-doesnt-save-you-from-going-hungry-in-nyc-report-finds",
+      "title": "Astoria board eyes plans for 3 high-rise towers on Steinway Street",
+      "sourceUrl": "https://gothamist.com/news/astoria-board-eyes-plans-for-3-high-rise-towers-on-steinway-street",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Zendaya, Katy Perry, Gwen Stefani and More!",
+      "title": "Jennifer Lawrence, Brad Pitt, Eddie Murphy and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jen Affleck Addresses Nail Technician Leaking Her Pregnancy Before Divorce",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mormon-wives-jen-affleck-addresses-nail-tech-leaking-pregnancy/",
+      "title": "Katie Holmes\u2019 Leopard-Print Shoe Style Instantly Dresses up Jeans and a Blouse",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/katie-holmes-leopard-print-heels-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Prince William, Kate Middleton Mark 1st Joint Overseas Royal Tour in 4 Years",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/prince-william-kate-middleton-make-rare-overseas-trip-to-india/",
+      "title": "Russell Brand's Sentence Could Be Extended Over 'Not Guilty' Prison Message",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/russell-brand-sentence-could-be-extended-over-prison-message/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Which 'Virgin River' Stars Are \u2014 And Aren't \u2014 Returning After Cast Exits?",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/virgin-river-stars-who-are-and-arent-returning-for-season-8/",
+      "title": "Anthony Mackie, 48, Says Dating Is Difficult: 'Women Don't Like Older Men'",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/anthony-mackie-48-says-women-dont-like-older-men/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Grammy Awards 2027 Nominations: See the Complete List",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/grammys-2027-nominations-see-the-complete-list/",
+      "title": "This Unexpected Shoe Detail Makes Basic Outfits Look So Much More Expensive",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/stylish-cap-toe-shoes-that-look-expensive/",
       "sourceName": "usmagazine.com"
     }
   ]
