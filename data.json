@@ -1,133 +1,133 @@
 {
-  "dateLabel": "17 11 2026",
+  "dateLabel": "18 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 620.14,
-    "change": -21.55,
-    "changePercent": -3.3583,
-    "fetchedAt": "2026-11-17T19:28:17.991257+00:00"
+    "price": 615.34,
+    "change": -11.07,
+    "changePercent": -1.768,
+    "fetchedAt": "2026-11-18T19:10:47.346705+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
-      "sourceUrl": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
-      "sourceUrl": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
+      "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
-      "sourceUrl": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
+      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-      "sourceUrl": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+      "title": "Investigators make progress in hunt for cause of FAA ground stop",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "JBL\u2019s headphones that are great for in-flight entertainment are 67 percent off",
-      "sourceUrl": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "title": "Tech lawsuits defined 2026 \u2014 and lawmakers want more",
+      "sourceUrl": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
-      "sourceUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "title": "The best early Black Friday deals you can already shop",
+      "sourceUrl": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Meta is testing a new standalone messaging app called Direct",
-      "sourceUrl": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+      "sourceUrl": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Amflow\u2019s new urban e-bike series is deliciously overpowered for flat city streets",
-      "sourceUrl": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "YouTube found a new way to inflate view counts",
-      "sourceUrl": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
+      "sourceUrl": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "28-year-old man fatally stabbed on Brooklyn street after intervening in fight, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/28-year-old-man-fatally-stabbed-on-brooklyn-street-after-intervening-in-fight-nypd-says",
+      "title": "Hakeem Jeffries gets party nod as House Speaker, but NYC's left remains wary",
+      "sourceUrl": "https://gothamist.com/news/hakeem-jeffries-gets-party-nod-as-house-speaker-but-nycs-left-remains-wary",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Woman arrested after climbing outside of a Manhattan skyscraper's 91st floor, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/woman-arrested-after-climbing-outside-of-a-manhattan-skyscrapers-91st-floor-nypd-says",
+      "title": "3 high-rise towers in Astoria? 'Not the affordable housing' residents have in mind.",
+      "sourceUrl": "https://gothamist.com/news/3-high-rise-towers-in-astoria-not-the-affordable-housing-residents-have-in-mind",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Greenpoint man accused of groping jogger stands trial after years of neighborhood concerns",
-      "sourceUrl": "https://gothamist.com/news/greenpoint-man-accused-of-groping-jogger-stands-trial-after-years-of-neighborhood-concerns",
+      "title": "Mamdani tests new strategy to punish bad NYC landlords in latest lawsuit",
+      "sourceUrl": "https://gothamist.com/news/mamdani-tests-new-strategy-to-punish-bad-nyc-landlords-in-latest-lawsuit",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: Who decides if a car is 'derelict' enough to tow?",
-      "sourceUrl": "https://gothamist.com/news/early-addition-who-decides-if-a-car-is-derelict-enough-to-tow",
+      "title": "Does an opera have to make sense? 'Einstein on the Beach' at BAM is a chance to find out.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/does-an-opera-have-to-make-sense-einstein-on-the-beach-at-bam-is-a-chance-to-find-out",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Astoria board eyes plans for 3 high-rise towers on Steinway Street",
-      "sourceUrl": "https://gothamist.com/news/astoria-board-eyes-plans-for-3-high-rise-towers-on-steinway-street",
+      "title": "Early Addition: A new strip club moved into the former Hell's Kitchen Hustler Club",
+      "sourceUrl": "https://gothamist.com/news/early-addition-a-new-strip-club-moved-into-the-former-hells-kitchen-hustler-club",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Jennifer Lawrence, Brad Pitt, Eddie Murphy and More!",
+      "title": "Romeo Beckham, Jennifer Lopez, Livvy Dune and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Katie Holmes\u2019 Leopard-Print Shoe Style Instantly Dresses up Jeans and a Blouse",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/katie-holmes-leopard-print-heels-look-for-less/",
+      "title": "DWTS' Connor Wood Was 'Nervous' About Finale Odds After Lower Scores",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/connor-wood-was-nervous-about-making-dwts-finale/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Russell Brand's Sentence Could Be Extended Over 'Not Guilty' Prison Message",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/russell-brand-sentence-could-be-extended-over-prison-message/",
+      "title": "Midseason 2027 TV Schedules Revealed After Several Changes",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/midseason-2027-tv-schedule-revealed-after-several-changes/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Anthony Mackie, 48, Says Dating Is Difficult: 'Women Don't Like Older Men'",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/anthony-mackie-48-says-women-dont-like-older-men/",
+      "title": "Mormon Wives' Mayci Neeley 'Embarrassed' Over 'F*** Them Up' Text Message",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mayci-neeley-embarrassed-over-text-seen-on-mormon-wives-oc/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "This Unexpected Shoe Detail Makes Basic Outfits Look So Much More Expensive",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/stylish-cap-toe-shoes-that-look-expensive/",
+      "title": "'Virgin River' Star Teases Whether [Spoiler] Will Return After Cast Changes",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/virgin-rivers-ben-hollingsworth-teases-season-8-return/",
       "sourceName": "usmagazine.com"
     }
   ]
