@@ -1,133 +1,133 @@
 {
-  "dateLabel": "18 11 2026",
+  "dateLabel": "19 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 615.34,
-    "change": -11.07,
-    "changePercent": -1.768,
-    "fetchedAt": "2026-11-18T19:10:47.346705+00:00"
+    "price": 599.84,
+    "change": -19.03,
+    "changePercent": -3.075,
+    "fetchedAt": "2026-11-19T19:14:31.581529+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-      "sourceUrl": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "sourceUrl": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
-      "sourceUrl": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "sourceUrl": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
-      "sourceUrl": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Investigators make progress in hunt for cause of FAA ground stop",
-      "sourceUrl": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "sourceUrl": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-      "sourceUrl": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "sourceUrl": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Tech lawsuits defined 2026 \u2014 and lawmakers want more",
-      "sourceUrl": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "sourceUrl": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The best early Black Friday deals you can already shop",
-      "sourceUrl": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "title": "Gemini on Mac can now use your computer",
+      "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "sourceUrl": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "title": "Leaked images reveal Motorola\u2019s wide foldable",
+      "sourceUrl": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "title": "Oh, Elon Musk is \u2018moderate\u2019 now, is he?",
+      "sourceUrl": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
-      "sourceUrl": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
+      "title": "Apple\u2019s iPhone camera leader has reportedly left the company",
+      "sourceUrl": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Hakeem Jeffries gets party nod as House Speaker, but NYC's left remains wary",
-      "sourceUrl": "https://gothamist.com/news/hakeem-jeffries-gets-party-nod-as-house-speaker-but-nycs-left-remains-wary",
+      "title": "NY to delay enforcement of new Medicaid rules, potentially keeping thousands insured",
+      "sourceUrl": "https://gothamist.com/news/more-words-words-words",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "3 high-rise towers in Astoria? 'Not the affordable housing' residents have in mind.",
-      "sourceUrl": "https://gothamist.com/news/3-high-rise-towers-in-astoria-not-the-affordable-housing-residents-have-in-mind",
+      "title": "These singles gathered in Central Park to swap their exes\u2019 stuff",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/these-singles-gathered-in-central-park-to-swap-their-exes-stuff",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani tests new strategy to punish bad NYC landlords in latest lawsuit",
-      "sourceUrl": "https://gothamist.com/news/mamdani-tests-new-strategy-to-punish-bad-nyc-landlords-in-latest-lawsuit",
+      "title": "Incoming NY Rep. Constantino isn\u2019t looking to make friends. What are Republicans to do?",
+      "sourceUrl": "https://gothamist.com/news/incoming-ny-rep-constantino-isnt-looking-to-make-friends-what-are-republicans-to-do",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Does an opera have to make sense? 'Einstein on the Beach' at BAM is a chance to find out.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/does-an-opera-have-to-make-sense-einstein-on-the-beach-at-bam-is-a-chance-to-find-out",
+      "title": "Mayor Mamdani signs NYC's carriage horse ban after decades of animal rights activism",
+      "sourceUrl": "https://gothamist.com/news/mayor-mamdani-signs-nycs-carriage-horse-ban-after-decades-of-animal-rights-activism",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: A new strip club moved into the former Hell's Kitchen Hustler Club",
-      "sourceUrl": "https://gothamist.com/news/early-addition-a-new-strip-club-moved-into-the-former-hells-kitchen-hustler-club",
+      "title": "Builder facing bankruptcy will lead environmental review of controversial NJ ICE warehouse",
+      "sourceUrl": "https://gothamist.com/news/builder-facing-bankruptcy-will-lead-environmental-review-of-controversial-nj-ice-warehouse",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Romeo Beckham, Jennifer Lopez, Livvy Dune and More!",
+      "title": "Ariana Grande, Taylor Swift, Kylie Jenner and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "DWTS' Connor Wood Was 'Nervous' About Finale Odds After Lower Scores",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/connor-wood-was-nervous-about-making-dwts-finale/",
+      "title": "Christine Quinn Makes Rare Chrishell Comment After 'Selling Sunset' Feud",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/selling-sunsets-christine-quinn-recalls-chrishell-stause-feud/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Midseason 2027 TV Schedules Revealed After Several Changes",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/midseason-2027-tv-schedule-revealed-after-several-changes/",
+      "title": "These Black Friday Beauty Deals Are Giving Our Routines a Luxe Upgrade \u2014 Up to 40% Off",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/laifen-black-friday-deals/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Mormon Wives' Mayci Neeley 'Embarrassed' Over 'F*** Them Up' Text Message",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/mayci-neeley-embarrassed-over-text-seen-on-mormon-wives-oc/",
+      "title": "Jax Taylor Reveals Cancer Diagnosis After 'Private' Health Battle",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jax-taylor-reveals-cancer-diagnosis-details-surgery/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'Virgin River' Star Teases Whether [Spoiler] Will Return After Cast Changes",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/virgin-rivers-ben-hollingsworth-teases-season-8-return/",
+      "title": "Alabama Barker Gets Upset Over 'Violating' Photos of Her: 'I'm Freaking Out'",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/alabama-barker-gets-upset-over-violating-photos-of-her/",
       "sourceName": "usmagazine.com"
     }
   ]
