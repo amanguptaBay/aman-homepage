@@ -1,133 +1,133 @@
 {
-  "dateLabel": "19 11 2026",
+  "dateLabel": "20 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 599.84,
-    "change": -19.03,
-    "changePercent": -3.075,
-    "fetchedAt": "2026-11-19T19:14:31.581529+00:00"
+    "price": 570.7,
+    "change": -45.68,
+    "changePercent": -7.411,
+    "fetchedAt": "2026-11-20T18:54:33.045447+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "AMD dives on short-seller report of alleged China exposure",
-      "sourceUrl": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "sourceUrl": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "sourceUrl": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "sourceUrl": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-      "sourceUrl": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "title": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+      "sourceUrl": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-      "sourceUrl": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+      "sourceUrl": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-      "sourceUrl": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
+      "sourceUrl": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "sourceUrl": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+      "sourceUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Gemini on Mac can now use your computer",
-      "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "title": "Multiplying your Switch 2\u2019s storage costs less than usual right now",
+      "sourceUrl": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Leaked images reveal Motorola\u2019s wide foldable",
-      "sourceUrl": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "title": "Google says it\u2019s going to shut off Google Assistant on smart speakers next year",
+      "sourceUrl": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Oh, Elon Musk is \u2018moderate\u2019 now, is he?",
-      "sourceUrl": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "sourceUrl": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple\u2019s iPhone camera leader has reportedly left the company",
-      "sourceUrl": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "title": "Teenage Engineering\u2019s first CD player puts the spinning disc on display",
+      "sourceUrl": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NY to delay enforcement of new Medicaid rules, potentially keeping thousands insured",
-      "sourceUrl": "https://gothamist.com/news/more-words-words-words",
+      "title": "Mamdani tears Achilles in soccer match against NYC press corps, will be out for the season",
+      "sourceUrl": "https://gothamist.com/news/mamdani-tears-achilles-soccer-game",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "These singles gathered in Central Park to swap their exes\u2019 stuff",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/these-singles-gathered-in-central-park-to-swap-their-exes-stuff",
+      "title": "'Cameron Winter at Carnegie Hall' is a coronation. A performance at Carnegie always is.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/cameron-winter-at-carnegie-hall-is-a-coronation-a-performance-at-carnegie-always-is",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Incoming NY Rep. Constantino isn\u2019t looking to make friends. What are Republicans to do?",
-      "sourceUrl": "https://gothamist.com/news/incoming-ny-rep-constantino-isnt-looking-to-make-friends-what-are-republicans-to-do",
+      "title": "Early Addition: The M42 defends its title as the city's slowest bus",
+      "sourceUrl": "https://gothamist.com/news/early-addition-the-m42-defends-its-title-as-the-citys-slowest-bus",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mayor Mamdani signs NYC's carriage horse ban after decades of animal rights activism",
-      "sourceUrl": "https://gothamist.com/news/mayor-mamdani-signs-nycs-carriage-horse-ban-after-decades-of-animal-rights-activism",
+      "title": "Mayor Mamdani among massive crowd at slain Bronx teen Javits Frimpong's funeral",
+      "sourceUrl": "https://gothamist.com/news/funeral-to-be-held-for-15-year-old-shot-and-killed-on-his-way-to-school",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Builder facing bankruptcy will lead environmental review of controversial NJ ICE warehouse",
-      "sourceUrl": "https://gothamist.com/news/builder-facing-bankruptcy-will-lead-environmental-review-of-controversial-nj-ice-warehouse",
+      "title": "Over 6K NYC apartments for homeless people sat vacant in September, city data shows",
+      "sourceUrl": "https://gothamist.com/news/over-6k-nyc-apartments-for-homeless-people-sat-vacant-in-september-city-data-shows",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Ariana Grande, Taylor Swift, Kylie Jenner and More!",
+      "title": "Cardi B, Kelly Osbourne, Malin Akerman and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Christine Quinn Makes Rare Chrishell Comment After 'Selling Sunset' Feud",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/selling-sunsets-christine-quinn-recalls-chrishell-stause-feud/",
+      "title": "New Bachelor Sam Hartman Admits He's Never Watched the Show",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/new-bachelor-sam-hartman-has-never-watched-the-show/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These Black Friday Beauty Deals Are Giving Our Routines a Luxe Upgrade \u2014 Up to 40% Off",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/laifen-black-friday-deals/",
+      "title": "MacBook Running Slow? This All-In-One Care App Can Help",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/macbook-cleanmymac-app-digital-detox/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jax Taylor Reveals Cancer Diagnosis After 'Private' Health Battle",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jax-taylor-reveals-cancer-diagnosis-details-surgery/",
+      "title": "Prince Harry Jokes He's 'Squeezing the Accents Out' of Kids After U.K. Return",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/prince-harry-opens-up-about-u-k-return-with-meghan-markle/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Alabama Barker Gets Upset Over 'Violating' Photos of Her: 'I'm Freaking Out'",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/alabama-barker-gets-upset-over-violating-photos-of-her/",
+      "title": "41+ Too-Good-to-Be-True Amazon Black Friday Deals Worth Buying First",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/shopping-writer-approved-amazon-black-friday-deals/",
       "sourceName": "usmagazine.com"
     }
   ]
