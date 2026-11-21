@@ -1,133 +1,133 @@
 {
-  "dateLabel": "20 11 2026",
+  "dateLabel": "21 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 570.7,
-    "change": -45.68,
-    "changePercent": -7.411,
-    "fetchedAt": "2026-11-20T18:54:33.045447+00:00"
+    "price": 560.84,
+    "change": -55.54,
+    "changePercent": -9.0107,
+    "fetchedAt": "2026-11-21T17:49:16.152344+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "sourceUrl": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
+      "sourceUrl": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "sourceUrl": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "sourceUrl": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
-      "sourceUrl": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "title": "Tech outages are fueling a new doomsday economy",
+      "sourceUrl": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-      "sourceUrl": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+      "title": "State and federal battle over prediction markets regulation heats up after midterms",
+      "sourceUrl": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
-      "sourceUrl": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "sourceUrl": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
-      "sourceUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "sourceUrl": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Multiplying your Switch 2\u2019s storage costs less than usual right now",
-      "sourceUrl": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "title": "Amazon\u2019s first digital photo frame is up to 50 percent off for Black Friday",
+      "sourceUrl": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Google says it\u2019s going to shut off Google Assistant on smart speakers next year",
-      "sourceUrl": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "title": "Can Anthropic afford to put safety first?",
+      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "sourceUrl": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Teenage Engineering\u2019s first CD player puts the spinning disc on display",
-      "sourceUrl": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
+      "sourceUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Mamdani tears Achilles in soccer match against NYC press corps, will be out for the season",
-      "sourceUrl": "https://gothamist.com/news/mamdani-tears-achilles-soccer-game",
+      "title": "Rain once again coming for NYC's idyllic fall \u2014 and maybe Thanksgiving, too",
+      "sourceUrl": "https://gothamist.com/news/rain-one-again-coming-for-nycs-idyllic-fall-and-maybe-thanksgiving-too",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "'Cameron Winter at Carnegie Hall' is a coronation. A performance at Carnegie always is.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/cameron-winter-at-carnegie-hall-is-a-coronation-a-performance-at-carnegie-always-is",
+      "title": "Federal judge in NY denies release of man shot by ICE in the Bronx",
+      "sourceUrl": "https://gothamist.com/news/federal-judge-denies-release-of-man-shot-by-ice-in-the-bronx",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: The M42 defends its title as the city's slowest bus",
-      "sourceUrl": "https://gothamist.com/news/early-addition-the-m42-defends-its-title-as-the-citys-slowest-bus",
+      "title": "New York approves National Grid rate freeze, but customers could see higher bills soon",
+      "sourceUrl": "https://gothamist.com/news/new-york-approves-national-grid-rate-freeze-but-customers-could-see-higher-bills-soon",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Mayor Mamdani among massive crowd at slain Bronx teen Javits Frimpong's funeral",
-      "sourceUrl": "https://gothamist.com/news/funeral-to-be-held-for-15-year-old-shot-and-killed-on-his-way-to-school",
+      "title": "Woman found dead in Lower Manhattan building, NYPD says",
+      "sourceUrl": "https://gothamist.com/news/woman-found-dead-in-lower-manhattan-building-nypd-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Over 6K NYC apartments for homeless people sat vacant in September, city data shows",
-      "sourceUrl": "https://gothamist.com/news/over-6k-nyc-apartments-for-homeless-people-sat-vacant-in-september-city-data-shows",
+      "title": "'They\u2019re blowing this': Amazon's push against NYC delivery worker bill may be backfiring",
+      "sourceUrl": "https://gothamist.com/news/theyre-blowing-this-amazons-push-against-nyc-delivery-worker-bill-may-be-backfiring",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Cardi B, Kelly Osbourne, Malin Akerman and More!",
-      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
+      "title": "Quince's Early Access Black Friday Sale Is Live \u2014 Shop Deals Under $100",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/quince-exclusive-black-friday-fashion-deals/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "New Bachelor Sam Hartman Admits He's Never Watched the Show",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/new-bachelor-sam-hartman-has-never-watched-the-show/",
+      "title": "Hilary Duff Loves These Noise-Canceling Earplugs 'So Much' for Traveling",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/hilary-duff-favorite-ear-plugs-travel-must-have/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "MacBook Running Slow? This All-In-One Care App Can Help",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/macbook-cleanmymac-app-digital-detox/",
+      "title": "Luxe for Less! Get Jennifer Lawrence's Sweater Style for Under $40",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/jennifer-lawrence-crewneck-sweater-look-for-less/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Prince Harry Jokes He's 'Squeezing the Accents Out' of Kids After U.K. Return",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-moms/news/prince-harry-opens-up-about-u-k-return-with-meghan-markle/",
+      "title": "Why \u2018Home Alone\u2019 Director Chris Columbus Thinks a Reboot Won\u2019t Work",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/why-home-alone-director-thinks-a-reboot-wont-work/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "41+ Too-Good-to-Be-True Amazon Black Friday Deals Worth Buying First",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/shopping-writer-approved-amazon-black-friday-deals/",
+      "title": "Shannon Beador Reflects on Her Dog Archie\u2019s Death in Heartbreaking Post",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/shannon-beador-reflects-on-her-beloved-dog-archies-death/",
       "sourceName": "usmagazine.com"
     }
   ]
