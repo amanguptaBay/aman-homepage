@@ -1,5 +1,5 @@
 {
-  "dateLabel": "21 11 2026",
+  "dateLabel": "22 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,9 +7,27 @@
     "price": 560.84,
     "change": -55.54,
     "changePercent": -9.0107,
-    "fetchedAt": "2026-11-21T17:49:16.152344+00:00"
+    "fetchedAt": "2026-11-22T18:07:55.904318+00:00"
   },
   "stories": [
+    {
+      "category": "business",
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "sourceUrl": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+      "sourceUrl": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+      "sourceName": "cnbc.com"
+    },
+    {
+      "category": "business",
+      "title": "Quantum computing\u2019s first real-world payoff may come in energy, not drug discovery",
+      "sourceUrl": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "sourceName": "cnbc.com"
+    },
     {
       "category": "business",
       "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
@@ -18,116 +36,98 @@
     },
     {
       "category": "business",
-      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-      "sourceUrl": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "Tech outages are fueling a new doomsday economy",
-      "sourceUrl": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "State and federal battle over prediction markets regulation heats up after midterms",
-      "sourceUrl": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
-      "sourceName": "cnbc.com"
-    },
-    {
-      "category": "business",
-      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-      "sourceUrl": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "sourceUrl": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "sourceUrl": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "sourceUrl": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Amazon\u2019s first digital photo frame is up to 50 percent off for Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Can Anthropic afford to put safety first?",
-      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "sourceUrl": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "sourceUrl": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "title": "Sheherazaad\u2019s Khudgarzi is gorgeous, \u2018genre-chaotic\u2019 South Asian folk",
+      "sourceUrl": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
-      "sourceUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "title": "Protesters storm Meta offices in India",
+      "sourceUrl": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Rain once again coming for NYC's idyllic fall \u2014 and maybe Thanksgiving, too",
-      "sourceUrl": "https://gothamist.com/news/rain-one-again-coming-for-nycs-idyllic-fall-and-maybe-thanksgiving-too",
+      "title": "Delta delays flights ahead of Thanksgiving holiday over system failure",
+      "sourceUrl": "https://gothamist.com/news/scattered-showers-heading-for-nyc-could-linger-into-monday",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Federal judge in NY denies release of man shot by ICE in the Bronx",
-      "sourceUrl": "https://gothamist.com/news/federal-judge-denies-release-of-man-shot-by-ice-in-the-bronx",
+      "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
+      "sourceUrl": "https://gothamist.com/news/a-rush-to-rent-control-in-jersey-city-ends-in-a-setback-for-dsa-council-members",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "New York approves National Grid rate freeze, but customers could see higher bills soon",
-      "sourceUrl": "https://gothamist.com/news/new-york-approves-national-grid-rate-freeze-but-customers-could-see-higher-bills-soon",
+      "title": "Adopt a storm drain? NYC proposal aims to enlist residents in flood prevention.",
+      "sourceUrl": "https://gothamist.com/news/adopt-a-storm-drain-nyc-proposal-aims-to-enlist-residents-in-flood-prevention",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Woman found dead in Lower Manhattan building, NYPD says",
-      "sourceUrl": "https://gothamist.com/news/woman-found-dead-in-lower-manhattan-building-nypd-says",
+      "title": "NYPD charges homeless man with murder after woman, 62, was killed at Chinatown apartment",
+      "sourceUrl": "https://gothamist.com/news/nypd-charges-homeless-man-with-murder-after-woman-62-was-killed-at-her-chinatown-home",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "'They\u2019re blowing this': Amazon's push against NYC delivery worker bill may be backfiring",
-      "sourceUrl": "https://gothamist.com/news/theyre-blowing-this-amazons-push-against-nyc-delivery-worker-bill-may-be-backfiring",
+      "title": "FDNY grapples with lithium-ion danger,  EMS shortages and a building collapse",
+      "sourceUrl": "https://gothamist.com/news/fdny-grapples-with-lithium-ion-danger-ems-shortages-and-a-building-collapse",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Quince's Early Access Black Friday Sale Is Live \u2014 Shop Deals Under $100",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/quince-exclusive-black-friday-fashion-deals/",
+      "title": "Not Puffers! Rich Moms Are Wearing These 'Heirloom' Teddy Coats \u2014 From $11",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-mom-heirloom-teddy-coats/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Hilary Duff Loves These Noise-Canceling Earplugs 'So Much' for Traveling",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/hilary-duff-favorite-ear-plugs-travel-must-have/",
+      "title": "Martha Stewart Uses the Face Cream Mature Skin Shoppers Call 'Magic in a Jar'",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/martha-stewart-charlotte-tulbury-face-cream/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Luxe for Less! Get Jennifer Lawrence's Sweater Style for Under $40",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/jennifer-lawrence-crewneck-sweater-look-for-less/",
+      "title": "Miley Cyrus and Maxx Morando\u2019s Wedding Guest List Revealed",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/celebrities-who-attended-miley-cyrus-maxx-morando-wedding/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Why \u2018Home Alone\u2019 Director Chris Columbus Thinks a Reboot Won\u2019t Work",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/why-home-alone-director-thinks-a-reboot-wont-work/",
+      "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Shannon Beador Reflects on Her Dog Archie\u2019s Death in Heartbreaking Post",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/shannon-beador-reflects-on-her-beloved-dog-archies-death/",
+      "title": "Miley Cyrus\u2019 Dating History: A Look Back at Her Famous Exes and Marriages",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/miley-cyrus-dating-history-timeline-of-her-famous-exes-flings/",
       "sourceName": "usmagazine.com"
     }
   ]
