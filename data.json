@@ -1,133 +1,133 @@
 {
-  "dateLabel": "22 11 2026",
+  "dateLabel": "23 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 560.84,
-    "change": -55.54,
-    "changePercent": -9.0107,
-    "fetchedAt": "2026-11-22T18:07:55.904318+00:00"
+    "price": 597.6,
+    "change": 1.38,
+    "changePercent": 0.2315,
+    "fetchedAt": "2026-11-23T22:18:01.812263+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "sourceUrl": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-      "sourceUrl": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+      "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Quantum computing\u2019s first real-world payoff may come in energy, not drug discovery",
-      "sourceUrl": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
-      "sourceUrl": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-      "sourceUrl": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "sourceUrl": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "sourceUrl": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "title": "Apple renews Ted Lasso for season 5",
+      "sourceUrl": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Sheherazaad\u2019s Khudgarzi is gorgeous, \u2018genre-chaotic\u2019 South Asian folk",
-      "sourceUrl": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "title": "Jensen Huang says he\u2019ll be a \u2018better CEO\u2019 as staff applauds his return",
+      "sourceUrl": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Protesters storm Meta offices in India",
-      "sourceUrl": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Delta delays flights ahead of Thanksgiving holiday over system failure",
-      "sourceUrl": "https://gothamist.com/news/scattered-showers-heading-for-nyc-could-linger-into-monday",
+      "title": "Queens Public Library restores most services nearly 3 weeks after ransomware attack",
+      "sourceUrl": "https://gothamist.com/news/queens-public-library-restores-most-services-nearly-3-weeks-after-ransomware-attack",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
-      "sourceUrl": "https://gothamist.com/news/a-rush-to-rent-control-in-jersey-city-ends-in-a-setback-for-dsa-council-members",
+      "title": "NY Gov. Hochul vetoes bill that would have required AI accuracy warnings",
+      "sourceUrl": "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Adopt a storm drain? NYC proposal aims to enlist residents in flood prevention.",
-      "sourceUrl": "https://gothamist.com/news/adopt-a-storm-drain-nyc-proposal-aims-to-enlist-residents-in-flood-prevention",
+      "title": "Matchbooks are on fire at NYC restaurants",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/matchbooks-are-on-fire-at-nyc-restaurants",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYPD charges homeless man with murder after woman, 62, was killed at Chinatown apartment",
-      "sourceUrl": "https://gothamist.com/news/nypd-charges-homeless-man-with-murder-after-woman-62-was-killed-at-her-chinatown-home",
+      "title": "NYC, state sue Trump administration over \u2018mixed-status\u2019 federal housing assistance rule",
+      "sourceUrl": "https://gothamist.com/news/attorney-general-letitia-james-sues-hud-over-mixed-status-housing-rule",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "FDNY grapples with lithium-ion danger,  EMS shortages and a building collapse",
-      "sourceUrl": "https://gothamist.com/news/fdny-grapples-with-lithium-ion-danger-ems-shortages-and-a-building-collapse",
+      "title": "Reported flu cases surge across New York ahead of Thanksgiving",
+      "sourceUrl": "https://gothamist.com/news/reported-flu-cases-surge-across-new-york-ahead-of-thanksgiving",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Not Puffers! Rich Moms Are Wearing These 'Heirloom' Teddy Coats \u2014 From $11",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/rich-mom-heirloom-teddy-coats/",
+      "title": "Gordon Ramsay, Joe Amabile, Hailee Steinfeld and More!",
+      "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Martha Stewart Uses the Face Cream Mature Skin Shoppers Call 'Magic in a Jar'",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/martha-stewart-charlotte-tulbury-face-cream/",
+      "title": "Which Past Characters Would Lindsay Lohan Spend Holidays With?",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/lindsay-lohan-would-spend-holidays-with-these-past-characters/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Miley Cyrus and Maxx Morando\u2019s Wedding Guest List Revealed",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/celebrities-who-attended-miley-cyrus-maxx-morando-wedding/",
+      "title": "49ers Share Update After Colton McKivitz Suffers Grotesque Injury on \u2018SNF'",
+      "sourceUrl": "https://www.usmagazine.com/sports/news/49ers-share-update-after-colton-mckivitzs-grotesque-injury/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
+      "title": "These Ranch Wife-Inspired Amazon Finds Make Fall Dressing So Cute",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/ransom-canyon-fashion-ranch-wife-style-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Miley Cyrus\u2019 Dating History: A Look Back at Her Famous Exes and Marriages",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/pictures/miley-cyrus-dating-history-timeline-of-her-famous-exes-flings/",
+      "title": "Inside Chris Brown and Usher's 'Tension' on Tour: 'Egos Started to Show'",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/inside-chris-brown-and-ushers-tension-on-the-rb-tour/",
       "sourceName": "usmagazine.com"
     }
   ]
