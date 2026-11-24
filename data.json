@@ -1,133 +1,133 @@
 {
-  "dateLabel": "23 11 2026",
+  "dateLabel": "24 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 597.6,
-    "change": 1.38,
-    "changePercent": 0.2315,
-    "fetchedAt": "2026-11-23T22:18:01.812263+00:00"
+    "price": 588.86,
+    "change": 28.02,
+    "changePercent": 4.9961,
+    "fetchedAt": "2026-11-24T20:55:25.081743+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
-      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "sourceUrl": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-      "sourceUrl": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "title": "Gold is doing something strange. Here's one way to play it",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "sourceUrl": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "title": "TikTok was down",
+      "sourceUrl": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Apple renews Ted Lasso for season 5",
-      "sourceUrl": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "title": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
+      "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "title": "The clock is running out for America\u2019s most contentious spying law",
+      "sourceUrl": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Jensen Huang says he\u2019ll be a \u2018better CEO\u2019 as staff applauds his return",
-      "sourceUrl": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "sourceUrl": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "sourceUrl": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Queens Public Library restores most services nearly 3 weeks after ransomware attack",
-      "sourceUrl": "https://gothamist.com/news/queens-public-library-restores-most-services-nearly-3-weeks-after-ransomware-attack",
+      "title": "Brooklyn body shop owner charged with bilking drivers in illegal tow truck scheme",
+      "sourceUrl": "https://gothamist.com/news/brooklyn-body-shop-owner-charged-with-bilking-drivers-in-illegal-tow-truck-scheme",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NY Gov. Hochul vetoes bill that would have required AI accuracy warnings",
-      "sourceUrl": "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings",
+      "title": "Goodbye Kitty: Preparation underway for a windy Macy's Thanksgiving Day Parade in NYC",
+      "sourceUrl": "https://gothamist.com/news/goodbye-kitty-preparation-underway-for-a-windy-macys-thanksgiving-day-parade-in-nyc",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Matchbooks are on fire at NYC restaurants",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/matchbooks-are-on-fire-at-nyc-restaurants",
+      "title": "NYC Thanksgiving travel: Trains, buses, traffic will be busy, so get on the road now",
+      "sourceUrl": "https://gothamist.com/news/nyc-thanksgiving-travel-trains-buses-traffic-will-be-busy-so-get-on-the-road-now",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC, state sue Trump administration over \u2018mixed-status\u2019 federal housing assistance rule",
-      "sourceUrl": "https://gothamist.com/news/attorney-general-letitia-james-sues-hud-over-mixed-status-housing-rule",
+      "title": "Film anything in NYC and people will watch it. Even if it's boring.",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/film-anything-in-nyc-and-people-will-watch-it-even-if-its-boring",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Reported flu cases surge across New York ahead of Thanksgiving",
-      "sourceUrl": "https://gothamist.com/news/reported-flu-cases-surge-across-new-york-ahead-of-thanksgiving",
+      "title": "Early Addition: The Pope got an e-bike",
+      "sourceUrl": "https://gothamist.com/news/early-addition-the-pope-got-an-e-bike",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Gordon Ramsay, Joe Amabile, Hailee Steinfeld and More!",
+      "title": "Robin Thicke, Katy Perry, Martin Short and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Which Past Characters Would Lindsay Lohan Spend Holidays With?",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/lindsay-lohan-would-spend-holidays-with-these-past-characters/",
+      "title": "Tom Brady Admits He\u2019s Made 'A Lot of Mistakes' as a Father",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/tom-brady-admits-hes-made-a-lot-of-parenting-mistakes/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "49ers Share Update After Colton McKivitz Suffers Grotesque Injury on \u2018SNF'",
-      "sourceUrl": "https://www.usmagazine.com/sports/news/49ers-share-update-after-colton-mckivitzs-grotesque-injury/",
+      "title": "Prince William and Kate Middleton's Sandringham Estate Home Broken Into",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/prince-william-kate-middletons-sandringham-home-broken-into/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "These Ranch Wife-Inspired Amazon Finds Make Fall Dressing So Cute",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/ransom-canyon-fashion-ranch-wife-style-amazon/",
+      "title": "'Nobody Wants This' Star Reveals If She's Spoken to Adam Brody Since Drama",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tovah-feldshuh-details-adam-brody-conversation-amid-drama/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Inside Chris Brown and Usher's 'Tension' on Tour: 'Egos Started to Show'",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/inside-chris-brown-and-ushers-tension-on-the-rb-tour/",
+      "title": "Influencer Announces Her Death in Prerecorded Video After Cancer Battle",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/influencer-christie-miller-dead-at-60-after-cancer-battle/",
       "sourceName": "usmagazine.com"
     }
   ]
