@@ -1,133 +1,133 @@
 {
-  "dateLabel": "24 11 2026",
+  "dateLabel": "25 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 588.86,
-    "change": 28.02,
-    "changePercent": 4.9961,
-    "fetchedAt": "2026-11-24T20:55:25.081743+00:00"
+    "price": 606.0,
+    "change": 8.4,
+    "changePercent": 1.4056,
+    "fetchedAt": "2026-11-25T20:18:06.287027+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Gold is doing something strange. Here's one way to play it",
-      "sourceUrl": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "TikTok was down",
-      "sourceUrl": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "title": "EPA reports \u2018zero\u2019 airborne lead following controlled Army detonation in Iowa",
+      "sourceUrl": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
-      "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "sourceUrl": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The clock is running out for America\u2019s most contentious spying law",
-      "sourceUrl": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "sourceUrl": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Amazon is knocking almost $50 off six months of Apple TV",
-      "sourceUrl": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "title": "The loneliest peptide party in New York",
+      "sourceUrl": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
-      "sourceUrl": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+      "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+      "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "Brooklyn body shop owner charged with bilking drivers in illegal tow truck scheme",
-      "sourceUrl": "https://gothamist.com/news/brooklyn-body-shop-owner-charged-with-bilking-drivers-in-illegal-tow-truck-scheme",
+      "title": "Driver charged with killing Brooklyn nurse crossing Third Avenue",
+      "sourceUrl": "https://gothamist.com/news/driver-charged-with-killing-brooklyn-nurse-crossing-3rd-avenue",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Goodbye Kitty: Preparation underway for a windy Macy's Thanksgiving Day Parade in NYC",
-      "sourceUrl": "https://gothamist.com/news/goodbye-kitty-preparation-underway-for-a-windy-macys-thanksgiving-day-parade-in-nyc",
+      "title": "Inside the Thanksgiving pie rush at the Brooklyn bakery Four & Twenty Blackbirds",
+      "sourceUrl": "https://gothamist.com/food/inside-the-thanksgiving-pie-rush-at-the-brooklyn-bakery-four-twenty-blackbirds",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NYC Thanksgiving travel: Trains, buses, traffic will be busy, so get on the road now",
-      "sourceUrl": "https://gothamist.com/news/nyc-thanksgiving-travel-trains-buses-traffic-will-be-busy-so-get-on-the-road-now",
+      "title": "A new NYC Thanksgiving tradition: Stocking up at the legal weed dispensary",
+      "sourceUrl": "https://gothamist.com/arts-entertainment/a-new-nyc-thanksgiving-tradition-stocking-up-at-the-legal-weed-dispensary",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Film anything in NYC and people will watch it. Even if it's boring.",
-      "sourceUrl": "https://gothamist.com/arts-entertainment/film-anything-in-nyc-and-people-will-watch-it-even-if-its-boring",
+      "title": "Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda",
+      "sourceUrl": "https://gothamist.com/news/judge-upholds-nyc-rent-freeze-marking-win-for-mamdani-and-his-affordability-agenda",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Early Addition: The Pope got an e-bike",
-      "sourceUrl": "https://gothamist.com/news/early-addition-the-pope-got-an-e-bike",
+      "title": "Thanksgiving Day forecast upgraded to a high wind warning ahead of parade",
+      "sourceUrl": "https://gothamist.com/news/thanksgiving-day-forecast-upgraded-to-a-high-wind-warning-ahead-of-parade",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Robin Thicke, Katy Perry, Martin Short and More!",
+      "title": "Cardi B, Ezra Frech, Witney Carson and More!",
       "sourceUrl": "https://www.usmagazine.com/hot-pics/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Tom Brady Admits He\u2019s Made 'A Lot of Mistakes' as a Father",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/tom-brady-admits-hes-made-a-lot-of-parenting-mistakes/",
+      "title": "Jennifer Lopez Makes Rare Comment About 'Tough' Marc Anthony Divorce",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/jennifer-lopez-makes-rare-comment-about-marc-anthony-divorce/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Prince William and Kate Middleton's Sandringham Estate Home Broken Into",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/prince-william-kate-middletons-sandringham-home-broken-into/",
+      "title": "'DWTS' Champ Ezra Frech Says He 'Blacked Out' During Historic Freestyle",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/ezra-frech-speaks-out-after-historic-dwts-victory-freestyle/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "'Nobody Wants This' Star Reveals If She's Spoken to Adam Brody Since Drama",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tovah-feldshuh-details-adam-brody-conversation-amid-drama/",
+      "title": "Dog Parents Obsess Over These Customizable Holiday Sweater Pets \u2018Won\u2019t Take Off\u2019",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/foggy-dog-custom-holiday-sweaters/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Influencer Announces Her Death in Prerecorded Video After Cancer Battle",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/influencer-christie-miller-dead-at-60-after-cancer-battle/",
+      "title": "Tovah Feldshuh Reveals If She'll Return to 'Nobody Wants This' After Drama",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/tovah-feldshuh-addresses-nobody-wants-this-season-4-return/",
       "sourceName": "usmagazine.com"
     }
   ]
