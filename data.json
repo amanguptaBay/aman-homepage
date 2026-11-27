@@ -1,133 +1,133 @@
 {
-  "dateLabel": "26 11 2026",
+  "dateLabel": "27 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
     "currency": "USD",
-    "price": 609.89,
-    "change": 12.29,
-    "changePercent": 2.0566,
-    "fetchedAt": "2026-11-26T19:54:48.569466+00:00"
+    "price": 628.96,
+    "change": 39.14,
+    "changePercent": 6.6359,
+    "fetchedAt": "2026-11-27T19:43:24.346456+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+      "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
       "sourceUrl": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Semiconductor chips are the new oil. Here's why",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "sourceUrl": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "title": "The best Black Friday deals on smart home gear",
+      "sourceUrl": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Android app developers will soon have to share their address publicly",
-      "sourceUrl": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "title": "The absolute best Black Friday deals we\u2019ve found (so far)",
+      "sourceUrl": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The best Black Friday deals we\u2019ve already found",
-      "sourceUrl": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "title": "Anker\u2019s 100W universal travel charger is down to $60, its lowest price yet",
+      "sourceUrl": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Federal judge blocks the FCC from reviewing ABC\u2019s licenses early",
-      "sourceUrl": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "sourceUrl": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-      "sourceUrl": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+      "sourceUrl": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "NYC\u2019s true Thanksgiving Day heroes: Greyhound bus drivers",
-      "sourceUrl": "https://gothamist.com/news/v",
+      "title": "State Senate Majority Leader Andrea Stewart-Cousins has died",
+      "sourceUrl": "https://gothamist.com/news/state-senate-majority-leader-andrea-stewart-cousins-has-died",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Travel treachery: The Thanksgiving holiday travel outlook is grim",
-      "sourceUrl": "https://gothamist.com/news/travel-treachery-the-thanksgiving-holiday-travel-outlook-is-grim",
+      "title": "Forecast improves for Saturday's postponed Macy's Thanksgiving Day Parade",
+      "sourceUrl": "https://gothamist.com/news/forecast-improves-for-saturdays-postponed-macys-thanksgiving-day-parade",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "New York State and local police out at sobriety checkpoints all Thanksgiving weekend long",
-      "sourceUrl": "https://gothamist.com/news/new-york-state-and-local-police-out-at-sobriety-checkpoints-all-thanksgiving-weekend-long",
+      "title": "Advocates' vision for discounted NJ Transit fares could be an uphill climb",
+      "sourceUrl": "https://gothamist.com/news/advocates-vision-for-discounted-nj-transit-fares-could-be-an-uphill-climb",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Fate of long-stalled NY bills could be decided by 27 new Democrats",
-      "sourceUrl": "https://gothamist.com/news/fate-of-long-stalled-ny-bills-could-be-decided-by-27-new-democrats",
+      "title": "Busted NYC streetlights wait longer for repairs after brutal winter",
+      "sourceUrl": "https://gothamist.com/news/busted-nyc-streetlights-wait-longer-for-repairs-after-brutal-winter",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "NJ agency eyes housing along the highways in Central Jersey",
-      "sourceUrl": "https://gothamist.com/news/nj-agency-eyes-housing-along-the-highways-in-central-jersey",
+      "title": "The achievement gaps in NYC's public schools, stat by stat",
+      "sourceUrl": "https://gothamist.com/news/the-achievement-gaps-in-nycs-public-schools-stat-by-stat",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Which 'Hunting Wives' Stars Are, Aren't Returning for Season 3 After Deaths?",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/which-hunting-wives-stars-are-arent-returning-for-season-3/",
+      "title": "Nicole Scherzinger and Thom Evans Split After 7 Years of Dating",
+      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/nicole-scherzinger-thom-evans-split-after-7-years/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Frequent Flyer? This Clever Backpack Has Secret Roomy Compartments to Pack it All",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/bagsmart-blast-xl-backpack/",
+      "title": "Taylor Swift Owns Multiple Uggs \u2014 You Can, Too, With These Sale Picks",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/taylor-swift-ugg-boot-deals-amazon-black-friday-week/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Country Singers Name the Musicians They're Most Thankful for This Thanksgiving",
-      "sourceUrl": "https://www.usmagazine.com/entertainment/news/country-singers-share-the-artists-they-are-thankful-for/",
+      "title": "Taylor Swift\u2019s Sparkly Kendra Scott Earrings Just Dropped to an All-Time Low Price",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/taylor-swift-kendra-scott-earrings-amazon-deal/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Jim Curtis Shares Rare Post About \u2018Love\u2019 for His Girlfriend Jennifer Aniston",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/jennifer-anistons-boyfriend-jim-curtis-shares-sweet-post/",
+      "title": "Kourtney Kardashian Swears by This Amazon Vibration Plate for 'Supporting Circulation'",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/kourtney-kardashian-vibration-plate-on-sale/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "17 Chunky-but-Cute Sweaters Hide Belly Bloat Like Magic \u2014 From $8",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/flattering-sweaters-hide-belly-bloat/",
+      "title": "Kyle Richards' Go-To Deodorant That 'Smells Really, Really Good' Is on Rare Sale",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/bethenny-frankel-kyle-richards-salt-stone-deodorant/",
       "sourceName": "usmagazine.com"
     }
   ]
