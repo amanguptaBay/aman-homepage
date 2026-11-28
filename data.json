@@ -1,5 +1,5 @@
 {
-  "dateLabel": "27 11 2026",
+  "dateLabel": "28 11 2026",
   "quote": {
     "symbol": "META",
     "companyName": "Meta Platforms Inc",
@@ -7,19 +7,19 @@
     "price": 628.96,
     "change": 39.14,
     "changePercent": 6.6359,
-    "fetchedAt": "2026-11-27T19:43:24.346456+00:00"
+    "fetchedAt": "2026-11-28T18:34:52.195917+00:00"
   },
   "stories": [
     {
       "category": "business",
-      "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "sourceUrl": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-      "sourceUrl": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "sourceUrl": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
       "sourceName": "cnbc.com"
     },
     {
@@ -30,104 +30,104 @@
     },
     {
       "category": "business",
-      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-      "sourceUrl": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "title": "AI data center boom strains construction labor across the U.S.",
+      "sourceUrl": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "business",
-      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "sourceUrl": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "title": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
+      "sourceUrl": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
       "sourceName": "cnbc.com"
     },
     {
       "category": "tech",
-      "title": "The best Black Friday deals on smart home gear",
-      "sourceUrl": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "title": "You can save $20 on Nimble\u2019s splittable 10,000mAh power bank right now",
+      "sourceUrl": "https://www.theverge.com/gadgets/1044906/nimble-sharepower-portable-charger-black-friday-2026-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The absolute best Black Friday deals we\u2019ve found (so far)",
-      "sourceUrl": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "title": "You can get a Pixel 11 Pro for what flagship phones used to cost",
+      "sourceUrl": "https://www.theverge.com/gadgets/1042667/google-pixel-11-pro-xl-10a-black-friday-2026-deal-sale",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Anker\u2019s 100W universal travel charger is down to $60, its lowest price yet",
-      "sourceUrl": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "title": "Here\u2019s what other Verge readers bought during Black Friday",
+      "sourceUrl": "https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "Here are the best Black Friday deals you can grab for $30 or less",
-      "sourceUrl": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
+      "sourceUrl": "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices",
       "sourceName": "theverge.com"
     },
     {
       "category": "tech",
-      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-      "sourceUrl": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "title": "Almost every great Black Friday deal is still happening this weekend",
+      "sourceUrl": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
       "sourceName": "theverge.com"
     },
     {
       "category": "nyc",
-      "title": "State Senate Majority Leader Andrea Stewart-Cousins has died",
-      "sourceUrl": "https://gothamist.com/news/state-senate-majority-leader-andrea-stewart-cousins-has-died",
+      "title": "NY Senate Leader Andrea Stewart-Cousins' death leaves Dems scrambling to figure out what's next",
+      "sourceUrl": "https://gothamist.com/news/ny-senate-leader-andrea-stewart-cousins-death-leaves-dems-scrambling-to-figure-out-whats-next",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Forecast improves for Saturday's postponed Macy's Thanksgiving Day Parade",
-      "sourceUrl": "https://gothamist.com/news/forecast-improves-for-saturdays-postponed-macys-thanksgiving-day-parade",
+      "title": "Prospect Park forest makes miraculous recovery 2 years after fire",
+      "sourceUrl": "https://gothamist.com/news/prospect-park-forest-makes-miraculous-recovery-2-years-after-fire",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Advocates' vision for discounted NJ Transit fares could be an uphill climb",
-      "sourceUrl": "https://gothamist.com/news/advocates-vision-for-discounted-nj-transit-fares-could-be-an-uphill-climb",
+      "title": "100th Macy's Thanksgiving Day Parade steps off in Manhattan after postponement",
+      "sourceUrl": "https://gothamist.com/news/100th-macys-thanksgiving-day-parade-steps-off-in-manhattan-after-postponement",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "Busted NYC streetlights wait longer for repairs after brutal winter",
-      "sourceUrl": "https://gothamist.com/news/busted-nyc-streetlights-wait-longer-for-repairs-after-brutal-winter",
+      "title": "The number of vacant NYC storefronts is growing, report says",
+      "sourceUrl": "https://gothamist.com/news/the-number-of-vacant-nyc-storefronts-is-growing-report-says",
       "sourceName": "gothamist.com"
     },
     {
       "category": "nyc",
-      "title": "The achievement gaps in NYC's public schools, stat by stat",
-      "sourceUrl": "https://gothamist.com/news/the-achievement-gaps-in-nycs-public-schools-stat-by-stat",
+      "title": "Lenape tribe says NFL owner's NJ development plan would destroy sacred artifacts",
+      "sourceUrl": "https://gothamist.com/news/lenape-tribe-says-nfl-owners-nj-development-plan-would-destroy-sacred-artifacts",
       "sourceName": "gothamist.com"
     },
     {
       "category": "celebrity",
-      "title": "Nicole Scherzinger and Thom Evans Split After 7 Years of Dating",
-      "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/nicole-scherzinger-thom-evans-split-after-7-years/",
+      "title": "Widow's Bay Season 2 Changes Revealed After Shocking Onscreen Deaths",
+      "sourceUrl": "https://www.usmagazine.com/entertainment/news/widows-bay-season-2-changes-revealed-after-shocking-deaths/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Taylor Swift Owns Multiple Uggs \u2014 You Can, Too, With These Sale Picks",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/taylor-swift-ugg-boot-deals-amazon-black-friday-week/",
+      "title": "17 Slimming, Effortlessly Cool Wrap Cardigans to Upgrade Your Closet",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/flattering-wrap-cardigans-closet-upgrade/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Taylor Swift\u2019s Sparkly Kendra Scott Earrings Just Dropped to an All-Time Low Price",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/taylor-swift-kendra-scott-earrings-amazon-deal/",
+      "title": "I'm Ordering Holiday Gifts on Sale From Ugg, Kiehl's and More \u2014 Under $100",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/editor-approved-holiday-gifts-black-friday-sale-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kourtney Kardashian Swears by This Amazon Vibration Plate for 'Supporting Circulation'",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/kourtney-kardashian-vibration-plate-on-sale/",
+      "title": "Selena Gomez\u2019s Exact Cozy Uggs Are on Sale for Black Friday",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/selena-gomez-exact-uggs-micro-boots-sale-amazon/",
       "sourceName": "usmagazine.com"
     },
     {
       "category": "celebrity",
-      "title": "Kyle Richards' Go-To Deodorant That 'Smells Really, Really Good' Is on Rare Sale",
-      "sourceUrl": "https://www.usmagazine.com/shopping/news/bethenny-frankel-kyle-richards-salt-stone-deodorant/",
+      "title": "Run! Taylor Swift's Exact Cool-Girl Sneakers Are on Major Sale on Amazon",
+      "sourceUrl": "https://www.usmagazine.com/shopping/news/taylor-swift-reebok-sneakers-amazon-deal/",
       "sourceName": "usmagazine.com"
     }
   ]
